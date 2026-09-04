@@ -1,0 +1,89 @@
+# 一、环境准备（Windows/Linux通用）
+# 1. 安装Miniconda（Python环境管理）
+# # Linux
+# wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+# bash Miniconda3-latest-Linux-x86_64.sh
+
+# # Windows
+# # 下载安装包：https://docs.conda.io/en/latest/miniconda.html
+# a. 下载地址：https://docs.conda.io/en/latest/miniconda.html
+#    → 选择 "Windows Installer" + Python 3.x + 64-bit
+# b. 双击安装包后：
+#    Installation Type → 选 "Just Me"
+#    Advanced Options → ✓ Add to PATH（建议勾选）
+#    Install Location → 输入 `C:\miniconda3`（强烈推荐默认路径）
+# c. 安装完成后，在CMD输入 `conda --version` 验证
+
+# 2. 创建专用环境
+# bash
+# conda create -n deepseek-1B5 python=3.10.12 
+# conda activate deepseek-1B5
+
+# 3. 继承专用环境，安装新的环境
+# conda create --name new_env --clone base
+# conda activate new_env
+# 或：
+# conda env export --name base > base_env.yaml
+# conda env create --name new_env -f base_env.yaml
+# conda activate new_env
+
+# 4.删除指定环境
+# conda env list  或 conda info --envs
+# conda env remove --name your_env_name 或  conda remove --name your_env_name --all
+
+#二、NLTK工具安装  
+#手动指定下载的网址
+#pip install -i https://pypi.tuna.tsinghua.edu.cn/simple nltk
+
+#手动下载nltk数据
+# python -m nltk.downloader -d "C:/nltk_data" punkt averaged_perceptron_tagger wordnet --server https://pypi.tuna.tsinghua.edu.cn/simple/nltk
+# python -m nltk.downloader -d "C:/nltk_data" punkt averaged_perceptron_tagger wordnet --server https://www.nltk.org/nltk_data/
+# 指定NLTK所需数据的路径
+#nltk.data.path.append('C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\nltk')
+#nltk.data.path.append('C:/nltk_data')
+
+# 自动下载NLTK数据
+#nltk.download(['punkt', 'wordnet', 'averaged_perceptron_tagger'])
+#nltk.download('punkt', download_dir='C:/nltk_data',halt_on_error=False, server_index_url='https://mirrors.aliyun.com/nltk_data/')
+#nltk.download('averaged_perceptron_tagger', download_dir='C:/nltk_data',halt_on_error=False, server_index_url='https://mirrors.aliyun.com/nltk_data/')
+#nltk.download('wordnet', download_dir='C:/nltk_data',halt_on_error=False, server_index_url='https://mirrors.huaweicloud.com/nltk_data/')
+#nltk.download('punkt_tab', download_dir='C:/nltk_data',halt_on_error=False, server_index_url='https://www.nltk.org/data.html')
+
+# 三、卸载安装spacy及其相关包
+#pip uninstall spacy
+#pip uninstall en_core_web_sm
+#pip uninstall en_core_web_md
+#pip uninstall en_core_web_lg
+#pip install spacy==3.8.0
+#pip install E:\NLP_lib\spacy_en_core\en_core_web_sm-3.8.0-py3-none-any.whl
+#pip install E:\NLP_lib\spacy_en_core\en_core_web_md-3.8.0-py3-none-any.whl
+#pip install E:\NLP_lib\spacy_en_core\en_core_web_lg-3.8.0-py3-none-any.whl
+#pip install E:\NLP_lib\spacy_en_core\zh_core_web_sm-3.8.0-py3-none-any.whl  #安装spacy中文包
+
+# 四、GloVe安装支持 安装gensim和sentence-transformers相关工具
+# pip install gensim numpy smart_open
+# python -m gensim.scripts.glove2word2vec -i .\GloVe6B\glove.6B.100d.txt -o .\GloVe6B\glove6B.gensim.txt
+# python -c "from gensim.models import KeyedVectors as kv; kv.load_word2vec_format('.\GloVe6B\glove6B.gensim.txt').save('.\GloVe6B\glove6B.gensim.bin')"
+# pip install sentence-transformers==3.1.0
+
+# pip install lemminflect  # 更专业的屈折变化库
+# pip install wordninja    # 处理合成词
+
+# 五、优化安装DeepSeek-R1-Distill-Qwen-1.5B模型环境
+# conda create -n deepseek-1_5B python=3.10.12 -y
+# conda activate deepseek-1_5B
+# conda install -c conda-forge cxx-compiler=15.0.7 -y
+
+# 先安装所有conda包
+# conda install -c conda-forge protobuf=3.20.3 pandas=2.1.4 nltk=3.8.1 gensim=4.3.2 psutil=5.9.8 -y
+# 再安装PyTorch
+# conda install -c pytorch pytorch=2.2.1 cpuonly -y
+# 最后安装pip包
+# pip install transformers==4.38.0 accelerate==0.29.3 lemminflect==0.2.3 wordninja==2.0.0 sentencepiece==0.2.0 bitsandbytes-0.43.0 --no-cache-dir
+# pip install transformers==4.38.0 lemminflect==0.2.3 wordninja==2.0.0 sentencepiece==0.2.0 --no-cache-dir 
+# 备注：accelerate和bitsandbytes用于加速推理的动态量化模型，但是由于需要GPU支持或者是仅在linux下支持，量化加速推理没有成功。
+
+# 六 使用量化模型加速推理速度
+# 安装 llama-cpp-python，使用预编译好的安装，避免安装编译环境
+# 官方下载地址：https://abetlen.github.io/llama-cpp-python/whl/cpu/llama-cpp-python/
+# pip install llama-cpp-python E:\NLP_lib\llama_cpp_python\llama_cpp_python-0.2.2-cp310-cp310-win_amd64.whl

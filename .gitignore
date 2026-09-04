@@ -26,12 +26,10 @@ __pycache__/
 # 模型、算法库、词库
 program/GloVe6B/
 program/models/DeepSeek-R1-Distill-Qwen-1.5B/
-program/models/sentence-transformers
-program/nltk_data
+program/models/sentence-transformers/
+program/nltk_data/
 
 # 过程废弃文件
 program/oldpro/
-program/GenEnArticle/src/oldfile
+program/GenEnArticle/src/oldfile/
 
-
-program/
