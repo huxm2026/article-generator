@@ -1,0 +1,2165 @@
+生成时间: 2025-07-12 23:03:51
+【当前文章质量】
+- 平均句长: 11.4(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 79.4%
+- 主题集中度: 58.6%
+- Flesch可读性指数: 76.82%
+- Flesch-Kincaid等级: 5.4
+- 关键词匹配度: 35.7%
+【生成统计】
+- 生成成功率: 1/2=50.0%
+- 新增词汇: 47
+- 生成效率: '47/286=16.43%' | 47/78=60.26% | 内存占用: 11463MB
+- 覆盖率: 47/1311=3.59%
+【Article #1生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about bicycle trail adventure
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: bike, trail, wheel, ride, adventure, fantasy, poem, journey, tale, novel, mystery, fiction, walk, narrative, essay 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "My bike wheel slid in the mud just as we reached the steep hill... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 11.4
+- 语法错误: 1.0
+- 上下文一致性: 79.4%
+- 主题集中度: 58.6%
+- 关键词匹配: 35.7%
+- 可读性: 76.8%
+- Flesch-Kincaid等级: 5.4
+全部文章平均值:
+- 平均句长: 5.7
+- 语法错误: 0.5
+- 上下文一致性: 39.7%
+- 主题集中度: 29.3%
+- 关键词匹配: 17.9%
+- 可读性: 38.4%
+- Flesch-Kincaid等级: 2.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+【主题类型统计】
+成功主题覆盖率: 1/1种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+【参数离散度分析】
+- avg_length: 数据不足(需至少2次生成)
+- grammar_errors: 数据不足(需至少2次生成)
+- coherence: 数据不足(需至少2次生成)
+- theme_focus: 数据不足(需至少2次生成)
+- flesch: 数据不足(需至少2次生成)
+- fkgl: 数据不足(需至少2次生成)
+- keyword_score: 数据不足(需至少2次生成)
+
+
+生成时间: 2025-07-12 23:24:02
+【当前文章质量】
+- 平均句长: 23.9(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 81.5%
+- 主题集中度: 66.7%
+- Flesch可读性指数: 64.14%
+- Flesch-Kincaid等级: 10.3
+- 关键词匹配度: 38.1%
+【生成统计】
+- 生成成功率: 2/3=66.7%
+- 新增词汇: 58
+- 生成效率: '58/334=17.37%' | 105/190=55.26% | 内存占用: 10879MB
+- 覆盖率: 105/1311=8.01%
+【Article #2生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about beach sandcastle day
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: sand, dig, tower, graduate, army, command, deputy, faculty, marine, weekend, armed, penalty, assistant, navy, top, senior, associate, officer, commander 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "My sand tower wobbled when the first wave reached our moat... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 17.6
+- 语法错误: 1.0
+- 上下文一致性: 80.5%
+- 主题集中度: 62.7%
+- 关键词匹配: 36.9%
+- 可读性: 70.5%
+- Flesch-Kincaid等级: 7.9
+全部文章平均值:
+- 平均句长: 11.8
+- 语法错误: 0.7
+- 上下文一致性: 53.6%
+- 主题集中度: 41.8%
+- 关键词匹配: 24.6%
+- 可读性: 47.0%
+- Flesch-Kincaid等级: 5.2
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+【主题类型统计】
+成功主题覆盖率: 2/2种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+【参数离散度分析】
+- avg_length: 均值=17.65 标准差=6.21 (范围[11.44-23.86])
+- grammar_errors: 均值=1.00 标准差=0.00 (范围[1.00-1.00])
+- coherence: 均值=80.46 标准差=1.04 (范围[79.42-81.50])
+- theme_focus: 均值=62.66 标准差=4.01 (范围[58.65-66.67])
+- flesch: 均值=70.48 标准差=6.34 (范围[64.14-76.82])
+- fkgl: 均值=7.85 标准差=2.45 (范围[5.40-10.30])
+- keyword_score: 均值=36.91 标准差=1.20 (范围[35.71-38.10])
+
+
+生成时间: 2025-07-13 00:44:35
+【当前文章质量】
+- 平均句长: 22.4(标准7-15)
+- 语法错误数: 2
+- 上下文一致性: 84.3%
+- 主题集中度: 58.4%
+- Flesch可读性指数: 57.2%
+- Flesch-Kincaid等级: 10.8
+- 关键词匹配度: 43.8%
+【生成统计】
+- 生成成功率: 3/7=42.9%
+- 新增词汇: 59
+- 生成效率: '59/336=17.56%' | 164/304=53.95% | 内存占用: 10324MB
+- 覆盖率: 164/1311=12.51%
+【Article #3生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about cookie baking time
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: cookie, mix, smell, bean, cream, cheese, sauce, potato, taste, stir, butter, chocolate, cake, bread, corn, crop, mixture 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "Flour puffed into the air when I poured it into the mixing bowl... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.2
+- 语法错误: 1.3
+- 上下文一致性: 81.7%
+- 主题集中度: 61.2%
+- 关键词匹配: 39.2%
+- 可读性: 66.1%
+- Flesch-Kincaid等级: 8.8
+全部文章平均值:
+- 平均句长: 17.3
+- 语法错误: 1.3
+- 上下文一致性: 58.7%
+- 主题集中度: 42.2%
+- 关键词匹配: 23.8%
+- 可读性: 38.3%
+- Flesch-Kincaid等级: 8.4
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 3/5种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=24.19 标准差=9.01 (范围[11.44-39.67])
+- grammar_errors: 均值=1.80 标准差=1.17 (范围[1.00-4.00])
+- coherence: 均值=82.13 标准差=2.60 (范围[79.42-85.95])
+- theme_focus: 均值=59.12 标准差=5.68 (范围[49.49-66.67])
+- flesch: 均值=53.68 标准差=16.66 (范围[30.60-76.82])
+- fkgl: 均值=11.80 标准差=4.18 (范围[5.40-17.60])
+- keyword_score: 均值=33.26 标准差=8.49 (范围[18.75-43.75])
+
+
+生成时间: 2025-07-13 01:04:22
+【当前文章质量】
+- 平均句长: 20.7(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 91.7%
+- 主题集中度: 63.7%
+- Flesch可读性指数: 75.84%
+- Flesch-Kincaid等级: 7.8
+- 关键词匹配度: 100.0%
+【生成统计】
+- 生成成功率: 4/8=50.0%
+- 新增词汇: 35
+- 生成效率: '35/352=9.94%' | 199/363=54.82% | 内存占用: 10323MB
+- 覆盖率: 199/1311=15.18%
+【Article #4生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about library book mystery
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: library, gallery 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "My library book wasn't on the shelf where I was sure I left it... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.6
+- 语法错误: 1.2
+- 上下文一致性: 84.2%
+- 主题集中度: 61.8%
+- 关键词匹配: 54.4%
+- 可读性: 68.5%
+- Flesch-Kincaid等级: 8.6
+全部文章平均值:
+- 平均句长: 17.7
+- 语法错误: 1.2
+- 上下文一致性: 62.8%
+- 主题集中度: 44.9%
+- 关键词匹配: 33.3%
+- 可读性: 43.0%
+- Flesch-Kincaid等级: 8.3
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+【主题类型统计】
+成功主题覆盖率: 4/6种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=23.61 标准差=8.33 (范围[11.44-39.67])
+- grammar_errors: 均值=1.67 标准差=1.11 (范围[1.00-4.00])
+- coherence: 均值=83.71 标准差=4.27 (范围[79.42-91.65])
+- theme_focus: 均值=59.88 标准差=5.46 (范围[49.49-66.67])
+- flesch: 均值=57.37 标准差=17.30 (范围[30.60-76.82])
+- fkgl: 均值=11.13 标准差=4.10 (范围[5.40-17.60])
+- keyword_score: 均值=44.38 标准差=26.05 (范围[18.75-100.00])
+
+
+生成时间: 2025-07-13 02:48:07
+【当前文章质量】
+- 平均句长: 20.8(标准7-15)
+- 语法错误数: 2
+- 上下文一致性: 85.9%
+- 主题集中度: 56.2%
+- Flesch可读性指数: 41.9%
+- Flesch-Kincaid等级: 12.6
+- 关键词匹配度: 35.0%
+【生成统计】
+- 生成成功率: 5/13=38.5%
+- 新增词汇: 51
+- 生成效率: '51/353=14.45%' | 250/486=51.44% | 内存占用: 10209MB
+- 覆盖率: 250/1311=19.07%
+【Article #5生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about vegetable garden help
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: plant, industrial, waste, truck, clinical, driver, lab, online, airport, experiment, channel, web, network, television, factory, laboratory, facility, storage, station 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "Water splashed everywhere as we planted seeds in the garden rows... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.8
+- 语法错误: 1.4
+- 上下文一致性: 84.5%
+- 主题集中度: 60.7%
+- 关键词匹配: 50.5%
+- 可读性: 63.2%
+- Flesch-Kincaid等级: 9.4
+全部文章平均值:
+- 平均句长: 12.5
+- 语法错误: 0.9
+- 上下文一致性: 45.2%
+- 主题集中度: 32.0%
+- 关键词匹配: 23.2%
+- 可读性: 29.7%
+- Flesch-Kincaid等级: 6.1
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【主题类型统计】
+成功主题覆盖率: 5/7种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=23.20 标准差=7.77 (范围[11.44-39.67])
+- grammar_errors: 均值=1.71 标准差=1.03 (范围[1.00-4.00])
+- coherence: 均值=84.03 标准差=4.03 (范围[79.42-91.65])
+- theme_focus: 均值=59.36 标准差=5.22 (范围[49.49-66.67])
+- flesch: 均值=55.16 标准差=16.91 (范围[30.60-76.82])
+- fkgl: 均值=11.34 标准差=3.83 (范围[5.40-17.60])
+- keyword_score: 均值=43.04 标准差=24.34 (范围[18.75-100.00])
+
+
+生成时间: 2025-07-13 03:08:02
+【当前文章质量】
+- 平均句长: 19.1(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 84.0%
+- 主题集中度: 50.4%
+- Flesch可读性指数: 50.97%
+- Flesch-Kincaid等级: 11.2
+- 关键词匹配度: 25.0%
+【生成统计】
+- 生成成功率: 6/14=42.9%
+- 新增词汇: 52
+- 生成效率: '52/344=15.12%' | 302/572=52.80% | 内存占用: 10211MB
+- 覆盖率: 302/1311=23.04%
+【Article #6生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about garden harvest day
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: seed, investment, fund, computer, approximately, opponent, assistance, corporate, brand, program, candidate, marketing, advertising, internet, reasonable, funding, presidential, roughly, objective 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "Red juice squirted when I pulled the biggest tomato from the vine... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.7
+- 语法错误: 1.3
+- 上下文一致性: 84.4%
+- 主题集中度: 59.0%
+- 关键词匹配: 46.3%
+- 可读性: 61.1%
+- Flesch-Kincaid等级: 9.7
+全部文章平均值:
+- 平均句长: 13.0
+- 语法错误: 0.9
+- 上下文一致性: 48.0%
+- 主题集中度: 33.3%
+- 关键词匹配: 23.3%
+- 可读性: 31.2%
+- Flesch-Kincaid等级: 6.5
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+【主题类型统计】
+成功主题覆盖率: 6/8种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=22.69 标准差=7.40 (范围[11.44-39.67])
+- grammar_errors: 均值=1.62 标准差=0.99 (范围[1.00-4.00])
+- coherence: 均值=84.02 标准差=3.77 (范围[79.42-91.65])
+- theme_focus: 均值=58.24 标准差=5.70 (范围[49.49-66.67])
+- flesch: 均值=54.64 标准差=15.88 (范围[30.60-76.82])
+- fkgl: 均值=11.32 标准差=3.58 (范围[5.40-17.60])
+- keyword_score: 均值=40.79 标准差=23.54 (范围[18.75-100.00])
+
+
+生成时间: 2025-07-13 03:27:41
+【当前文章质量】
+- 平均句长: 20.6(标准7-15)
+- 语法错误数: 2
+- 上下文一致性: 84.4%
+- 主题集中度: 59.4%
+- Flesch可读性指数: 50.57%
+- Flesch-Kincaid等级: 11.3
+- 关键词匹配度: 83.3%
+【生成统计】
+- 生成成功率: 7/15=46.7%
+- 新增词汇: 32
+- 生成效率: '32/352=9.09%' | 334/634=52.68% | 内存占用: 10212MB
+- 覆盖率: 334/1311=25.48%
+【Article #7生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about family pizza night
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: cheese, bread, chocolate, cake 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "Cheese oozed over the edge when the pizza dough stretched too thin... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.8
+- 语法错误: 1.4
+- 上下文一致性: 84.4%
+- 主题集中度: 59.1%
+- 关键词匹配: 51.6%
+- 可读性: 59.6%
+- Flesch-Kincaid等级: 9.9
+全部文章平均值:
+- 平均句长: 13.5
+- 语法错误: 1.0
+- 上下文一致性: 50.4%
+- 主题集中度: 35.0%
+- 关键词匹配: 27.3%
+- 可读性: 32.5%
+- Flesch-Kincaid等级: 6.8
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+【主题类型统计】
+成功主题覆盖率: 7/9种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=22.47 标准差=7.00 (范围[11.44-39.67])
+- grammar_errors: 均值=1.67 标准差=0.94 (范围[1.00-4.00])
+- coherence: 均值=84.06 标准差=3.55 (范围[79.42-91.65])
+- theme_focus: 均值=58.37 标准差=5.39 (范围[49.49-66.67])
+- flesch: 均值=54.19 标准差=15.02 (范围[30.60-76.82])
+- fkgl: 均值=11.32 标准差=3.38 (范围[5.40-17.60])
+- keyword_score: 均值=45.52 标准差=25.91 (范围[18.75-100.00])
+
+
+生成时间: 2025-07-13 04:10:16
+【当前文章质量】
+- 平均句长: 18.2(标准7-15)
+- 语法错误数: 3
+- 上下文一致性: 87.7%
+- 主题集中度: 68.9%
+- Flesch可读性指数: 69.92%
+- Flesch-Kincaid等级: 8.0
+- 关键词匹配度: 4.8%
+【生成统计】
+- 生成成功率: 8/17=47.1%
+- 新增词汇: 13
+- 生成效率: '13/182=7.14%' | 347/669=51.87% | 内存占用: 10221MB
+- 覆盖率: 347/1311=26.47%
+【Article #8生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about family hiking trip
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: executive, illegal, foreign, minister, assistant, senior, agency, chief, deputy, secretary, founder, prime, general, vice, enforcement, immigration, department, commission, president, ceo 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "My shoe slipped on a wet rock halfway up the hill trail... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.6
+- 语法错误: 1.6
+- 上下文一致性: 84.8%
+- 主题集中度: 60.3%
+- 关键词匹配: 45.7%
+- 可读性: 60.9%
+- Flesch-Kincaid等级: 9.7
+全部文章平均值:
+- 平均句长: 13.0
+- 语法错误: 1.1
+- 上下文一致性: 49.7%
+- 主题集中度: 35.0%
+- 关键词匹配: 24.4%
+- 可读性: 32.8%
+- Flesch-Kincaid等级: 6.5
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+【主题类型统计】
+成功主题覆盖率: 8/10种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=22.04 标准差=6.76 (范围[11.44-39.67])
+- grammar_errors: 均值=1.80 标准差=0.98 (范围[1.00-4.00])
+- coherence: 均值=84.42 标准差=3.55 (范围[79.42-91.65])
+- theme_focus: 均值=59.42 标准差=6.01 (范围[49.49-68.89])
+- flesch: 均值=55.76 标准差=15.01 (范围[30.60-76.82])
+- fkgl: 均值=10.99 标准差=3.36 (范围[5.40-17.60])
+- keyword_score: 均值=41.44 标准差=27.45 (范围[4.76-100.00])
+
+
+生成时间: 2025-07-13 04:49:38
+【当前文章质量】
+- 平均句长: 19.3(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 89.9%
+- 主题集中度: 69.6%
+- Flesch可读性指数: 60.35%
+- Flesch-Kincaid等级: 9.6
+- 关键词匹配度: 5.0%
+【生成统计】
+- 生成成功率: 9/19=47.4%
+- 新增词汇: 18
+- 生成效率: '18/366=4.92%' | 365/719=50.76% | 内存占用: 10209MB
+- 覆盖率: 365/1311=27.84%
+【Article #9生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about neighborhood clean-up
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: executive, policy, official, minister, foreign, chief, deputy, secretary, prime, reform, administration, legislation, vice, provision, welfare, department, bureau, commission, president, ceo 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "My trash bag tore open just as we reached the corner street... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.6
+- 语法错误: 1.6
+- 上下文一致性: 85.4%
+- 主题集中度: 61.3%
+- 关键词匹配: 41.2%
+- 可读性: 60.9%
+- Flesch-Kincaid等级: 9.7
+全部文章平均值:
+- 平均句长: 16.9
+- 语法错误: 1.3
+- 上下文一致性: 52.9%
+- 主题集中度: 37.6%
+- 关键词匹配: 25.1%
+- 可读性: 31.9%
+- Flesch-Kincaid等级: 7.9
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+【主题类型统计】
+成功主题覆盖率: 9/12种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=26.76 标准差=17.64 (范围[11.44-81.50])
+- grammar_errors: 均值=2.00 标准差=1.29 (范围[1.00-5.00])
+- coherence: 均值=83.81 标准差=5.15 (范围[71.50-91.65])
+- theme_focus: 均值=59.49 标准差=6.78 (范围[49.49-69.61])
+- flesch: 均值=50.53 标准差=23.25 (范围[-11.63-76.82])
+- fkgl: 均值=12.55 标准差=6.39 (范围[5.40-31.10])
+- keyword_score: 均值=39.71 标准差=27.50 (范围[4.76-100.00])
+
+
+生成时间: 2025-07-13 07:51:32
+【当前文章质量】
+- 平均句长: 19.1(标准7-15)
+- 语法错误数: 2
+- 上下文一致性: 85.7%
+- 主题集中度: 55.6%
+- Flesch可读性指数: 77.47%
+- Flesch-Kincaid等级: 7.2
+- 关键词匹配度: 5.3%
+【生成统计】
+- 生成成功率: 10/28=35.7%
+- 新增词汇: 37
+- 生成效率: '37/344=10.76%' | 402/789=50.95% | 内存占用: 10158MB
+- 覆盖率: 402/1311=30.66%
+【Article #10生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about lost toy search
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: toy, murder, sex, gay, assault, assess, evaluate, immigrant, attack, marriage, rape, solid, suicide, thin, analyze, bomb, abuse, slave, sexual 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "Something blue peeked from under the bed where I'd already looked twice... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.6
+- 语法错误: 1.6
+- 上下文一致性: 85.4%
+- 主题集中度: 60.8%
+- 关键词匹配: 37.6%
+- 可读性: 62.5%
+- Flesch-Kincaid等级: 9.4
+全部文章平均值:
+- 平均句长: 13.9
+- 语法错误: 1.0
+- 上下文一致性: 45.0%
+- 主题集中度: 31.8%
+- 关键词匹配: 19.6%
+- 可读性: 26.9%
+- Flesch-Kincaid等级: 6.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+【主题类型统计】
+成功主题覆盖率: 10/15种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=25.93 标准差=15.95 (范围[11.44-81.50])
+- grammar_errors: 均值=1.93 标准差=1.18 (范围[1.00-5.00])
+- coherence: 均值=84.07 标准差=4.99 (范围[71.50-91.65])
+- theme_focus: 均值=59.35 标准差=6.16 (范围[49.49-69.61])
+- flesch: 均值=50.13 标准差=22.74 (范围[-11.63-77.47])
+- fkgl: 均值=12.46 标准差=5.93 (范围[5.40-31.10])
+- keyword_score: 均值=36.66 标准差=26.10 (范围[4.76-100.00])
+
+
+生成时间: 2025-07-13 11:18:18
+【当前文章质量】
+- 平均句长: 21.6(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 86.1%
+- 主题集中度: 70.0%
+- Flesch可读性指数: 58.01%
+- Flesch-Kincaid等级: 10.5
+- 关键词匹配度: 10.0%
+【生成统计】
+- 生成成功率: 11/38=28.9%
+- 新增词汇: 23
+- 生成效率: '23/346=6.65%' | 425/845=50.30% | 内存占用: 10101MB
+- 覆盖率: 425/1311=32.42%
+【Article #11生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about stormy night experience
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: writer, top, activist, commander, politician, faculty, editor, senior, chief, journalist, journal, founder, associate, vice, professor, command, liberal, ceo, publication, publisher 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "All the lights went out when the loudest thunder cracked overhead... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.7
+- 语法错误: 1.5
+- 上下文一致性: 85.5%
+- 主题集中度: 61.6%
+- 关键词匹配: 35.1%
+- 可读性: 62.1%
+- Flesch-Kincaid等级: 9.5
+全部文章平均值:
+- 平均句长: 11.8
+- 语法错误: 0.8
+- 上下文一致性: 37.8%
+- 主题集中度: 25.4%
+- 关键词匹配: 14.7%
+- 可读性: 22.1%
+- Flesch-Kincaid等级: 5.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+- stormy night experience: 1次
+【主题类型统计】
+成功主题覆盖率: 11/17种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=26.27 标准差=15.21 (范围[11.44-81.50])
+- grammar_errors: 均值=1.82 标准差=1.15 (范围[1.00-5.00])
+- coherence: 均值=84.43 标准差=4.80 (范围[71.50-91.65])
+- theme_focus: 均值=56.81 标准差=14.31 (范围[5.42-70.05])
+- flesch: 均值=49.46 标准差=21.94 (范围[-11.63-77.47])
+- fkgl: 均值=12.72 标准差=5.80 (范围[5.40-31.10])
+- keyword_score: 均值=32.94 标准差=26.61 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 13:09:07
+【当前文章质量】
+- 平均句长: 21.8(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 84.8%
+- 主题集中度: 4.7%
+- Flesch可读性指数: 74.73%
+- Flesch-Kincaid等级: 8.3
+- 关键词匹配度: 4.5%
+【生成统计】
+- 生成成功率: 12/43=27.9%
+- 新增词汇: 18
+- 生成效率: '18/348=5.17%' | 443/895=49.50% | 内存占用: 10103MB
+- 覆盖率: 443/1311=33.79%
+【Article #12生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about rainy day fort
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: executive, university, top, minister, commander, assistant, faculty, senior, chief, institute, deputy, prime, general, administration, associate, vice, department, bureau, commission, president 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "Thunder rattled the windows as we built our pillow fort in the living room... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.9
+- 语法错误: 1.5
+- 上下文一致性: 85.4%
+- 主题集中度: 56.9%
+- 关键词匹配: 32.5%
+- 可读性: 63.2%
+- Flesch-Kincaid等级: 9.4
+全部文章平均值:
+- 平均句长: 11.4
+- 语法错误: 0.8
+- 上下文一致性: 37.3%
+- 主题集中度: 23.8%
+- 关键词匹配: 13.9%
+- 可读性: 22.1%
+- Flesch-Kincaid等级: 5.5
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+【主题类型统计】
+成功主题覆盖率: 12/19种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=25.70 标准差=14.49 (范围[11.44-81.50])
+- grammar_errors: 均值=1.74 标准差=1.12 (范围[1.00-5.00])
+- coherence: 均值=84.34 标准差=4.57 (范围[71.50-91.65])
+- theme_focus: 均值=53.80 标准差=17.84 (范围[4.72-70.05])
+- flesch: 均值=50.00 标准差=21.81 (范围[-11.63-77.47])
+- fkgl: 均值=12.53 标准差=5.57 (范围[5.40-31.10])
+- keyword_score: 均值=31.55 标准差=25.97 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 14:36:14
+【当前文章质量】
+- 平均句长: 23.3(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 84.0%
+- 主题集中度: 51.0%
+- Flesch可读性指数: 64.75%
+- Flesch-Kincaid等级: 10.0
+- 关键词匹配度: 8.7%
+【生成统计】
+- 生成成功率: 13/48=27.1%
+- 新增词汇: 12
+- 生成效率: '12/350=3.43%' | 455/944=48.20% | 内存占用: 10103MB
+- 覆盖率: 455/1311=34.71%
+【Article #13生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about garden harvest day
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: executive, university, official, representative, commander, foreign, minister, assistant, faculty, senior, agency, chief, deputy, secretary, prime, associate, vice, professor, command, president 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "Red juice squirted when I pulled the biggest tomato from the vine... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 20.2
+- 语法错误: 1.5
+- 上下文一致性: 85.3%
+- 主题集中度: 56.4%
+- 关键词匹配: 30.7%
+- 可读性: 63.3%
+- Flesch-Kincaid等级: 9.5
+全部文章平均值:
+- 平均句长: 11.2
+- 语法错误: 0.8
+- 上下文一致性: 37.0%
+- 主题集中度: 23.8%
+- 关键词匹配: 12.8%
+- 可读性: 21.6%
+- Flesch-Kincaid等级: 5.5
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+【主题类型统计】
+成功主题覆盖率: 12/20种
+高频成功主题(top5):
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=25.54 标准差=13.79 (范围[11.44-81.50])
+- grammar_errors: 均值=1.76 标准差=1.11 (范围[1.00-5.00])
+- coherence: 均值=84.52 标准差=4.43 (范围[71.50-91.65])
+- theme_focus: 均值=54.39 标准差=17.30 (范围[4.72-70.05])
+- flesch: 均值=49.32 标准差=21.92 (范围[-11.63-77.47])
+- fkgl: 均值=12.60 标准差=5.40 (范围[5.40-31.10])
+- keyword_score: 均值=29.19 标准差=25.76 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 15:44:30
+【当前文章质量】
+- 平均句长: 15.7(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 81.6%
+- 主题集中度: 71.2%
+- Flesch可读性指数: 64.0%
+- Flesch-Kincaid等级: 8.2
+- 关键词匹配度: 13.6%
+【生成统计】
+- 生成成功率: 14/52=26.9%
+- 新增词汇: 16
+- 生成效率: '16/345=4.64%' | 471/1006=46.82% | 内存占用: 10091MB
+- 覆盖率: 471/1311=35.93%
+【Article #14生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about library book mystery
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: executive, magazine, newspaper, representative, commander, minister, editor, senior, chief, journalist, secretary, founder, prime, associate, vice, professor, interview, president, ceo, publisher 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "My library book wasn't on the shelf where I was sure I left it... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.8
+- 语法错误: 1.4
+- 上下文一致性: 85.1%
+- 主题集中度: 57.5%
+- 关键词匹配: 29.5%
+- 可读性: 63.3%
+- Flesch-Kincaid等级: 9.4
+全部文章平均值:
+- 平均句长: 10.6
+- 语法错误: 0.7
+- 上下文一致性: 35.7%
+- 主题集中度: 23.3%
+- 关键词匹配: 12.0%
+- 可读性: 21.1%
+- Flesch-Kincaid等级: 5.2
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+【主题类型统计】
+成功主题覆盖率: 12/20种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.09 标准差=13.63 (范围[11.44-81.50])
+- grammar_errors: 均值=1.73 标准差=1.09 (范围[1.00-5.00])
+- coherence: 均值=84.39 标准差=4.37 (范围[71.50-91.65])
+- theme_focus: 均值=55.16 标准差=17.26 (范围[4.72-71.23])
+- flesch: 均值=49.99 标准差=21.63 (范围[-11.63-77.47])
+- fkgl: 均值=12.40 标准差=5.36 (范围[5.40-31.10])
+- keyword_score: 均值=28.48 标准差=25.37 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 19:22:39
+【当前文章质量】
+- 平均句长: 20.6(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 86.4%
+- 主题集中度: 5.0%
+- Flesch可读性指数: 50.57%
+- Flesch-Kincaid等级: 11.3
+- 关键词匹配度: 0.0%
+【生成统计】
+- 生成成功率: 15/65=23.1%
+- 新增词汇: 9
+- 生成效率: '9/351=2.56%' | 480/1043=46.02% | 内存占用: 10060MB
+- 覆盖率: 480/1311=36.61%
+【Article #15生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about backyard campout
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: magazine, activist, commander, politician, editor, chief, journalist, candidate, reporter, founder, general, vice, department, presidential, interview, command, president, correspondent, ceo, publisher 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "My marshmallow caught fire when I held it too close to the flames... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.9
+- 语法错误: 1.4
+- 上下文一致性: 85.1%
+- 主题集中度: 54.0%
+- 关键词匹配: 27.5%
+- 可读性: 62.5%
+- Flesch-Kincaid等级: 9.5
+全部文章平均值:
+- 平均句长: 10.2
+- 语法错误: 0.9
+- 上下文一致性: 33.9%
+- 主题集中度: 21.4%
+- 关键词匹配: 9.9%
+- 可读性: 18.7%
+- Flesch-Kincaid等级: 5.2
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 13/21种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.54 标准差=12.92 (范围[11.44-81.50])
+- grammar_errors: 均值=2.23 标准差=2.94 (范围[1.00-16.00])
+- coherence: 均值=84.76 标准差=4.17 (范围[71.50-91.65])
+- theme_focus: 均值=53.45 标准差=18.85 (范围[4.72-71.23])
+- flesch: 均值=46.82 标准差=22.37 (范围[-11.63-77.47])
+- fkgl: 均值=12.92 标准差=5.26 (范围[5.40-31.10])
+- keyword_score: 均值=24.84 标准差=24.89 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 19:39:36
+【当前文章质量】
+- 平均句长: 19.9(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 82.3%
+- 主题集中度: 49.9%
+- Flesch可读性指数: 41.6%
+- Flesch-Kincaid等级: 12.7
+- 关键词匹配度: 18.2%
+【生成统计】
+- 生成成功率: 16/66=24.2%
+- 新增词汇: 30
+- 生成效率: '30/358=8.38%' | 510/1130=45.13% | 内存占用: 10044MB
+- 覆盖率: 510/1311=38.90%
+【Article #16生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about school art project
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: university, policy, minister, faculty, senior, chief, institute, agenda, campus, deputy, secretary, general, administration, associate, vice, professor, president, college, ceo, academy 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "Blue paint dripped onto my shirt as I reached for the red brush... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.9
+- 语法错误: 1.4
+- 上下文一致性: 85.0%
+- 主题集中度: 53.7%
+- 关键词匹配: 26.9%
+- 可读性: 61.2%
+- Flesch-Kincaid等级: 9.7
+全部文章平均值:
+- 平均句长: 10.4
+- 语法错误: 0.9
+- 上下文一致性: 34.6%
+- 主题集中度: 21.8%
+- 关键词匹配: 10.1%
+- 可读性: 19.1%
+- Flesch-Kincaid等级: 5.3
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 14/21种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.33 标准差=12.73 (范围[11.44-81.50])
+- grammar_errors: 均值=2.19 标准差=2.89 (范围[1.00-16.00])
+- coherence: 均值=84.66 标准差=4.12 (范围[71.50-91.65])
+- theme_focus: 均值=53.32 标准差=18.51 (范围[4.72-71.23])
+- flesch: 均值=46.62 标准差=21.97 (范围[-11.63-77.47])
+- fkgl: 均值=12.91 标准差=5.16 (范围[5.40-31.10])
+- keyword_score: 均值=24.59 标准差=24.45 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 21:20:11
+【当前文章质量】
+- 平均句长: 16.3(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 84.4%
+- 主题集中度: 62.0%
+- Flesch可读性指数: 46.47%
+- Flesch-Kincaid等级: 10.8
+- 关键词匹配度: 13.6%
+【生成统计】
+- 生成成功率: 17/72=23.6%
+- 新增词汇: 39
+- 生成效率: '39/339=11.50%' | 549/1225=44.82% | 内存占用: 10045MB
+- 覆盖率: 549/1311=41.88%
+【Article #17生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about garden harvest day
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: statistics, executive, minister, commander, assistant, senior, deputy, secretary, founder, prime, general, administration, vice, enforcement, department, command, bureau, commission, president, ceo 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "Red juice squirted when I pulled the biggest tomato from the vine... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.7
+- 语法错误: 1.4
+- 上下文一致性: 84.9%
+- 主题集中度: 54.2%
+- 关键词匹配: 26.2%
+- 可读性: 60.3%
+- Flesch-Kincaid等级: 9.8
+全部文章平均值:
+- 平均句长: 9.7
+- 语法错误: 0.8
+- 上下文一致性: 32.9%
+- 主题集中度: 20.9%
+- 关键词匹配: 9.4%
+- 可读性: 18.1%
+- Flesch-Kincaid等级: 5.0
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 14/21种
+高频成功主题(top5):
+- garden harvest day: 3次
+- library book mystery: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.01 标准差=12.61 (范围[11.44-81.50])
+- grammar_errors: 均值=2.14 标准差=2.85 (范围[1.00-16.00])
+- coherence: 均值=84.65 标准差=4.04 (范围[71.50-91.65])
+- theme_focus: 均值=53.63 标准差=18.25 (范围[4.72-71.23])
+- flesch: 均值=46.62 标准差=21.57 (范围[-11.63-77.47])
+- fkgl: 均值=12.84 标准差=5.08 (范围[5.40-31.10])
+- keyword_score: 均值=24.20 标准差=24.10 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 22:09:25
+【当前文章质量】
+- 平均句长: 15.0(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 86.5%
+- 主题集中度: 70.2%
+- Flesch可读性指数: 72.56%
+- Flesch-Kincaid等级: 7.0
+- 关键词匹配度: 5.9%
+【生成统计】
+- 生成成功率: 18/75=24.0%
+- 新增词汇: 11
+- 生成效率: '11/344=3.20%' | 560/1280=43.75% | 内存占用: 10045MB
+- 覆盖率: 560/1311=42.72%
+【Article #18生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about cookie baking time
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: magazine, newspaper, activist, advocate, representative, assistant, publish, editor, senior, journalist, secretary, supporter, reporter, founder, administration, vice, correspondent, ceo, publication, publisher 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "Flour puffed into the air when I poured it into the mixing bowl... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.4
+- 语法错误: 1.3
+- 上下文一致性: 85.0%
+- 主题集中度: 55.1%
+- 关键词匹配: 25.0%
+- 可读性: 61.0%
+- Flesch-Kincaid等级: 9.6
+全部文章平均值:
+- 平均句长: 9.5
+- 语法错误: 0.8
+- 上下文一致性: 32.8%
+- 主题集中度: 21.0%
+- 关键词匹配: 9.1%
+- 可读性: 18.4%
+- Flesch-Kincaid等级: 4.9
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 14/21种
+高频成功主题(top5):
+- garden harvest day: 3次
+- cookie baking time: 2次
+- library book mystery: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+【参数离散度分析】
+- avg_length: 均值=24.66 标准差=12.53 (范围[11.44-81.50])
+- grammar_errors: 均值=2.10 标准差=2.81 (范围[1.00-16.00])
+- coherence: 均值=84.72 标准差=3.99 (范围[71.50-91.65])
+- theme_focus: 均值=54.20 标准差=18.19 (范围[4.72-71.23])
+- flesch: 均值=47.51 标准差=21.72 (范围[-11.63-77.47])
+- fkgl: 均值=12.64 标准差=5.10 (范围[5.40-31.10])
+- keyword_score: 均值=23.57 标准差=23.92 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 22:42:30
+【当前文章质量】
+- 平均句长: 17.4(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 85.1%
+- 主题集中度: 47.0%
+- Flesch可读性指数: 45.35%
+- Flesch-Kincaid等级: 11.3
+- 关键词匹配度: 9.5%
+【生成统计】
+- 生成成功率: 19/77=24.7%
+- 新增词汇: 9
+- 生成效率: '9/263=3.42%' | 569/1320=43.11% | 内存占用: 10053MB
+- 覆盖率: 569/1311=43.40%
+【Article #19生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about library book mystery
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: magazine, newspaper, activist, representative, minister, foreign, assistant, politician, senior, journalist, secretary, reporter, founder, administration, vice, interview, president, correspondent, ceo, publisher 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "My library book wasn't on the shelf where I was sure I left it... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.3
+- 语法错误: 1.3
+- 上下文一致性: 85.0%
+- 主题集中度: 54.7%
+- 关键词匹配: 24.2%
+- 可读性: 60.2%
+- Flesch-Kincaid等级: 9.7
+全部文章平均值:
+- 平均句长: 9.5
+- 语法错误: 0.8
+- 上下文一致性: 33.0%
+- 主题集中度: 21.0%
+- 关键词匹配: 9.0%
+- 可读性: 18.5%
+- Flesch-Kincaid等级: 4.9
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 14/21种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+【参数离散度分析】
+- avg_length: 均值=24.42 标准差=12.38 (范围[11.44-81.50])
+- grammar_errors: 均值=2.07 标准差=2.77 (范围[1.00-16.00])
+- coherence: 均值=84.73 标准差=3.92 (范围[71.50-91.65])
+- theme_focus: 均值=53.96 标准差=17.93 (范围[4.72-71.23])
+- flesch: 均值=47.44 标准差=21.36 (范围[-11.63-77.47])
+- fkgl: 均值=12.59 标准差=5.02 (范围[5.40-31.10])
+- keyword_score: 均值=23.10 标准差=23.65 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-14 01:45:54
+【当前文章质量】
+- 平均句长: 21.9(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 84.9%
+- 主题集中度: 5.0%
+- Flesch可读性指数: 49.25%
+- Flesch-Kincaid等级: 11.8
+- 关键词匹配度: 0.0%
+【生成统计】
+- 生成成功率: 20/88=22.7%
+- 新增词汇: 3
+- 生成效率: '3/351=0.85%' | 572/1370=41.75% | 内存占用: 10048MB
+- 覆盖率: 572/1311=43.63%
+【Article #20生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about backyard campout
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: newspaper, activist, representative, minister, editor, senior, journalist, deputy, secretary, reporter, founder, prime, general, administration, vice, interview, correspondent, ceo, publication, publisher 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "My marshmallow caught fire when I held it too close to the flames... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.5
+- 语法错误: 1.3
+- 上下文一致性: 85.0%
+- 主题集中度: 52.2%
+- 关键词匹配: 23.0%
+- 可读性: 59.6%
+- Flesch-Kincaid等级: 9.8
+全部文章平均值:
+- 平均句长: 8.8
+- 语法错误: 0.8
+- 上下文一致性: 30.6%
+- 主题集中度: 19.1%
+- 关键词匹配: 8.3%
+- 可读性: 17.2%
+- Flesch-Kincaid等级: 4.6
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 2次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 3次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+- school science fair: 1次
+【主题类型统计】
+成功主题覆盖率: 14/22种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- backyard campout: 2次
+- bicycle trail adventure: 1次
+【参数离散度分析】
+- avg_length: 均值=24.12 标准差=12.06 (范围[11.44-81.50])
+- grammar_errors: 均值=2.09 标准差=2.71 (范围[1.00-16.00])
+- coherence: 均值=84.23 标准差=4.73 (范围[68.50-91.65])
+- theme_focus: 均值=52.42 标准差=19.34 (范围[4.72-71.23])
+- flesch: 均值=47.40 标准差=20.69 (范围[-11.63-77.47])
+- fkgl: 均值=12.54 标准差=4.87 (范围[5.40-31.10])
+- keyword_score: 均值=22.70 标准差=23.33 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-14 02:36:12
+【当前文章质量】
+- 平均句长: 17.4(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 82.7%
+- 主题集中度: 5.7%
+- Flesch可读性指数: 70.73%
+- Flesch-Kincaid等级: 7.7
+- 关键词匹配度: 0.0%
+【生成统计】
+- 生成成功率: 21/91=23.1%
+- 新增词汇: 12
+- 生成效率: '12/331=3.63%' | 584/1441=40.53% | 内存占用: 10048MB
+- 覆盖率: 584/1311=44.55%
+【Article #21生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about secret recipe discovery
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: magazine, newspaper, representative, foreign, minister, commander, assistant, deputy, secretary, reporter, founder, prime, general, administration, vice, interview, command, president, ceo, publisher 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "Grandma's recipe card had a mysterious stain on the instructions... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.4
+- 语法错误: 1.3
+- 上下文一致性: 84.9%
+- 主题集中度: 50.0%
+- 关键词匹配: 21.9%
+- 可读性: 60.2%
+- Flesch-Kincaid等级: 9.7
+全部文章平均值:
+- 平均句长: 9.0
+- 语法错误: 0.8
+- 上下文一致性: 31.5%
+- 主题集中度: 19.1%
+- 关键词匹配: 8.1%
+- 可读性: 17.9%
+- Flesch-Kincaid等级: 4.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 2次
+- school art project: 1次
+- secret recipe discovery: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 2次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 3次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+- school science fair: 1次
+- fishing trip surprise: 1次
+【主题类型统计】
+成功主题覆盖率: 15/23种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- backyard campout: 2次
+- bicycle trail adventure: 1次
+【参数离散度分析】
+- avg_length: 均值=23.97 标准差=11.76 (范围[11.44-81.50])
+- grammar_errors: 均值=2.03 标准差=2.64 (范围[1.00-16.00])
+- coherence: 均值=84.25 标准差=4.62 (范围[68.50-91.65])
+- theme_focus: 均值=51.24 标准差=20.40 (范围[4.72-71.23])
+- flesch: 均值=47.78 标准差=20.54 (范围[-11.63-77.47])
+- fkgl: 均值=12.45 标准差=4.81 (范围[5.40-31.10])
+- keyword_score: 均值=21.64 标准差=23.05 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-14 03:09:44
+【当前文章质量】
+- 平均句长: 16.1(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 83.2%
+- 主题集中度: 68.4%
+- Flesch可读性指数: 80.51%
+- Flesch-Kincaid等级: 6.0
+- 关键词匹配度: 5.0%
+【生成统计】
+- 生成成功率: 22/93=23.7%
+- 新增词汇: 8
+- 生成效率: '8/338=2.37%' | 592/1484=39.89% | 内存占用: 10050MB
+- 覆盖率: 592/1311=45.16%
+【Article #22生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about rainy day fort
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: magazine, newspaper, minister, foreign, assistant, publish, submit, senior, reject, deputy, secretary, founder, prime, general, administration, vice, approve, ceo, publication, publisher 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "Thunder rattled the windows as we built our pillow fort in the living room... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.2
+- 语法错误: 1.3
+- 上下文一致性: 84.8%
+- 主题集中度: 50.8%
+- 关键词匹配: 21.1%
+- 可读性: 61.1%
+- Flesch-Kincaid等级: 9.5
+全部文章平均值:
+- 平均句长: 9.1
+- 语法错误: 0.8
+- 上下文一致性: 32.4%
+- 主题集中度: 19.5%
+- 关键词匹配: 8.0%
+- 可读性: 18.8%
+- Flesch-Kincaid等级: 4.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 2次
+- backyard campout: 2次
+- school art project: 1次
+- secret recipe discovery: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 2次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 3次
+- rainy day fort: 2次
+- bike parade fun: 2次
+- school play rehearsal: 1次
+- school science fair: 1次
+- fishing trip surprise: 1次
+【主题类型统计】
+成功主题覆盖率: 15/23种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- rainy day fort: 2次
+- backyard campout: 2次
+【参数离散度分析】
+- avg_length: 均值=23.46 标准差=11.62 (范围[11.44-81.50])
+- grammar_errors: 均值=2.00 标准差=2.57 (范围[1.00-16.00])
+- coherence: 均值=83.67 标准差=5.55 (范围[64.33-91.65])
+- theme_focus: 均值=50.45 标准差=21.41 (范围[4.72-71.23])
+- flesch: 均值=48.69 标准差=20.67 (范围[-11.63-80.51])
+- fkgl: 均值=12.22 标准差=4.80 (范围[5.40-31.10])
+- keyword_score: 均值=20.58 标准差=22.83 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-14 04:00:53
+【当前文章质量】
+- 平均句长: 15.7(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 83.3%
+- 主题集中度: 62.5%
+- Flesch可读性指数: 64.0%
+- Flesch-Kincaid等级: 8.2
+- 关键词匹配度: 14.3%
+【生成统计】
+- 生成成功率: 23/96=24.0%
+- 新增词汇: 3
+- 生成效率: '3/346=0.87%' | 595/1525=39.02% | 内存占用: 10051MB
+- 覆盖率: 595/1311=45.39%
+【Article #23生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about vegetable garden help
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: activist, representative, foreign, minister, commander, assistant, editor, journalist, deputy, secretary, founder, prime, general, administration, vice, command, president, ceo, publication, publisher 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "Water splashed everywhere as we planted seeds in the garden rows... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.1
+- 语法错误: 1.3
+- 上下文一致性: 84.8%
+- 主题集中度: 51.3%
+- 关键词匹配: 20.8%
+- 可读性: 61.2%
+- Flesch-Kincaid等级: 9.5
+全部文章平均值:
+- 平均句长: 9.0
+- 语法错误: 0.8
+- 上下文一致性: 32.2%
+- 主题集中度: 19.6%
+- 关键词匹配: 7.9%
+- 可读性: 18.9%
+- Flesch-Kincaid等级: 4.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 2次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 2次
+- backyard campout: 2次
+- school art project: 1次
+- secret recipe discovery: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 2次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 2次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 3次
+- rainy day fort: 2次
+- bike parade fun: 2次
+- school play rehearsal: 1次
+- school science fair: 1次
+- fishing trip surprise: 1次
+【主题类型统计】
+成功主题覆盖率: 15/23种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- vegetable garden help: 2次
+- rainy day fort: 2次
+【参数离散度分析】
+- avg_length: 均值=23.25 标准差=11.53 (范围[11.44-81.50])
+- grammar_errors: 均值=1.97 标准差=2.54 (范围[1.00-16.00])
+- coherence: 均值=83.66 标准差=5.48 (范围[64.33-91.65])
+- theme_focus: 均值=50.78 标准差=21.21 (范围[4.72-71.23])
+- flesch: 均值=49.10 标准差=20.54 (范围[-11.63-80.51])
+- fkgl: 均值=12.11 标准差=4.78 (范围[5.40-31.10])
+- keyword_score: 均值=20.41 标准差=22.54 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-14 04:17:10
+【当前文章质量】
+- 平均句长: 23.4(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 86.8%
+- 主题集中度: 5.5%
+- Flesch可读性指数: 54.46%
+- Flesch-Kincaid等级: 11.9
+- 关键词匹配度: 4.5%
+【生成统计】
+- 生成成功率: 24/97=24.7%
+- 新增词汇: 4
+- 生成效率: '4/351=1.14%' | 599/1575=38.03% | 内存占用: 10050MB
+- 覆盖率: 599/1311=45.69%
+【Article #24生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about garden harvest day
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: magazine, newspaper, representative, commander, foreign, minister, assistant, editor, senior, deputy, secretary, founder, prime, general, administration, vice, command, president, ceo, publisher 
+                2. Flesch-Kincaid ≤7 & 70% top-3000 words
+            [EXAMPLE]
+            "Red juice squirted when I pulled the biggest tomato from the vine... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.2
+- 语法错误: 1.2
+- 上下文一致性: 84.8%
+- 主题集中度: 49.4%
+- 关键词匹配: 20.2%
+- 可读性: 60.9%
+- Flesch-Kincaid等级: 9.6
+全部文章平均值:
+- 平均句长: 9.1
+- 语法错误: 0.8
+- 上下文一致性: 32.8%
+- 主题集中度: 19.4%
+- 关键词匹配: 7.8%
+- 可读性: 19.3%
+- Flesch-Kincaid等级: 4.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 2次
+- garden harvest day: 4次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 2次
+- backyard campout: 2次
+- school art project: 1次
+- secret recipe discovery: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 2次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 2次
+- garden harvest day: 4次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 3次
+- rainy day fort: 2次
+- bike parade fun: 2次
+- school play rehearsal: 1次
+- school science fair: 1次
+- fishing trip surprise: 1次
+【主题类型统计】
+成功主题覆盖率: 15/23种
+高频成功主题(top5):
+- garden harvest day: 4次
+- library book mystery: 3次
+- cookie baking time: 2次
+- vegetable garden help: 2次
+- rainy day fort: 2次
+【参数离散度分析】
+- avg_length: 均值=23.26 标准差=11.38 (范围[11.44-81.50])
+- grammar_errors: 均值=1.95 标准差=2.51 (范围[1.00-16.00])
+- coherence: 均值=83.74 标准差=5.43 (范围[64.33-91.65])
+- theme_focus: 均值=49.59 标准差=22.15 (范围[4.72-71.23])
+- flesch: 均值=49.25 标准差=20.29 (范围[-11.63-80.51])
+- fkgl: 均值=12.10 标准差=4.72 (范围[5.40-31.10])
+- keyword_score: 均值=19.99 标准差=22.39 (范围[0.00-100.00])
+
+

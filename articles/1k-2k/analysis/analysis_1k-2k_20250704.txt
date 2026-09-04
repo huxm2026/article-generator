@@ -1,0 +1,1167 @@
+生成时间: 2025-07-04 12:59:12
+【当前文章质量】
+- 平均句长: 12.3(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 80.4%
+- 主题集中度: 56.9%
+- Flesch可读性指数: 75.91%
+- Flesch-Kincaid等级: 5.7
+- 关键词匹配度: 30.0%
+【生成统计】
+- 生成成功率: 1/1=100.0%
+- 新增词汇: 72
+- 生成效率: '72/344=20.93%' | 72/160=45.00% | 内存占用: 7172MB
+- 覆盖率: 72/983=7.32%
+【Article #1生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about magic garden
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: flower, secret, path, discover, green, hide, direction, peace, progress, defend, struggle, conflict, though, fight, claim, maintain, towards, clear, but 
+                2. Flesch-Kincaid ≤4 & 85% top-2000 words
+            [EXAMPLE]
+            "Behind the old oak tree, I found a tiny door covered in vines... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 12.3
+- 语法错误: 1.0
+- 上下文一致性: 80.4%
+- 主题集中度: 56.9%
+- 关键词匹配: 30.0%
+- 可读性: 75.9%
+- Flesch-Kincaid等级: 5.7
+全部文章平均值:
+- 平均句长: 12.3
+- 语法错误: 1.0
+- 上下文一致性: 80.4%
+- 主题集中度: 56.9%
+- 关键词匹配: 30.0%
+- 可读性: 75.9%
+- Flesch-Kincaid等级: 5.7
+【主题类型统计】
+成功文章主题分布:
+- magic garden: 1次
+全部文章主题分布:
+- magic garden: 1次
+【主题类型统计】
+成功主题覆盖率: 1/1种
+高频成功主题(top5):
+- magic garden: 1次
+【参数离散度分析】
+- avg_length: 数据不足(需至少2次生成)
+- grammar_errors: 数据不足(需至少2次生成)
+- coherence: 数据不足(需至少2次生成)
+- theme_focus: 数据不足(需至少2次生成)
+- flesch: 数据不足(需至少2次生成)
+- fkgl: 数据不足(需至少2次生成)
+- keyword_score: 数据不足(需至少2次生成)
+
+
+生成时间: 2025-07-04 14:06:31
+【当前文章质量】
+- 平均句长: 21.1(标准7-15)
+- 语法错误数: 2
+- 上下文一致性: 84.9%
+- 主题集中度: 57.4%
+- Flesch可读性指数: 50.06%
+- Flesch-Kincaid等级: 11.5
+- 关键词匹配度: 26.7%
+【生成统计】
+- 生成成功率: 2/2=100.0%
+- 新增词汇: 76
+- 生成效率: '76/335=22.69%' | 148/287=51.57% | 内存占用: 7194MB
+- 覆盖率: 148/983=15.06%
+【Article #2生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about broken wing
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: bird, fly, kind, troop, afternoon, weekend, thinking, friday, television, thursday, saturday, wednesday, mind, tuesday, last, advantage, monday, gain, radio 
+                2. Flesch-Kincaid ≤4 & 85% top-2000 words
+            [EXAMPLE]
+            "A thump on the window revealed a bird with drooping wings... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.7
+- 语法错误: 1.5
+- 上下文一致性: 82.7%
+- 主题集中度: 57.1%
+- 关键词匹配: 28.3%
+- 可读性: 63.0%
+- Flesch-Kincaid等级: 8.6
+全部文章平均值:
+- 平均句长: 16.7
+- 语法错误: 1.5
+- 上下文一致性: 82.7%
+- 主题集中度: 57.1%
+- 关键词匹配: 28.3%
+- 可读性: 63.0%
+- Flesch-Kincaid等级: 8.6
+【主题类型统计】
+成功文章主题分布:
+- magic garden: 1次
+- broken wing: 1次
+全部文章主题分布:
+- magic garden: 1次
+- broken wing: 1次
+【主题类型统计】
+成功主题覆盖率: 2/2种
+高频成功主题(top5):
+- magic garden: 1次
+- broken wing: 1次
+【参数离散度分析】
+- avg_length: 均值=16.67 标准差=4.39 (范围[12.29-21.06])
+- grammar_errors: 均值=1.50 标准差=0.50 (范围[1.00-2.00])
+- coherence: 均值=82.66 标准差=2.28 (范围[80.38-84.94])
+- theme_focus: 均值=57.15 标准差=0.26 (范围[56.89-57.41])
+- flesch: 均值=62.98 标准差=12.92 (范围[50.06-75.91])
+- fkgl: 均值=8.60 标准差=2.90 (范围[5.70-11.50])
+- keyword_score: 均值=28.34 标准差=1.66 (范围[26.67-30.00])
+
+
+生成时间: 2025-07-04 14:23:29
+【当前文章质量】
+- 平均句长: 14.7(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 85.3%
+- 主题集中度: 69.8%
+- Flesch可读性指数: 81.93%
+- Flesch-Kincaid等级: 5.5
+- 关键词匹配度: 20.0%
+【生成统计】
+- 生成成功率: 3/3=100.0%
+- 新增词汇: 55
+- 生成效率: '55/337=16.32%' | 203/425=47.76% | 内存占用: 7199MB
+- 覆盖率: 203/983=20.65%
+【Article #3生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about lost kitten
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: rain, kind, storm 
+                2. Flesch-Kincaid ≤4 & 85% top-2000 words
+            [EXAMPLE]
+            "Meow! The sound came from a soggy cardboard box in the alley... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.0
+- 语法错误: 1.3
+- 上下文一致性: 83.5%
+- 主题集中度: 61.4%
+- 关键词匹配: 25.6%
+- 可读性: 69.3%
+- Flesch-Kincaid等级: 7.6
+全部文章平均值:
+- 平均句长: 16.0
+- 语法错误: 1.3
+- 上下文一致性: 83.5%
+- 主题集中度: 61.4%
+- 关键词匹配: 25.6%
+- 可读性: 69.3%
+- Flesch-Kincaid等级: 7.6
+【主题类型统计】
+成功文章主题分布:
+- magic garden: 1次
+- broken wing: 1次
+- lost kitten: 1次
+全部文章主题分布:
+- magic garden: 1次
+- broken wing: 1次
+- lost kitten: 1次
+【主题类型统计】
+成功主题覆盖率: 3/3种
+高频成功主题(top5):
+- magic garden: 1次
+- broken wing: 1次
+- lost kitten: 1次
+【参数离散度分析】
+- avg_length: 均值=16.00 标准差=3.71 (范围[12.29-21.06])
+- grammar_errors: 均值=1.33 标准差=0.47 (范围[1.00-2.00])
+- coherence: 均值=83.55 标准差=2.24 (范围[80.38-85.32])
+- theme_focus: 均值=61.35 标准差=5.95 (范围[56.89-69.76])
+- flesch: 均值=69.30 标准差=13.82 (范围[50.06-81.93])
+- fkgl: 均值=7.57 标准差=2.78 (范围[5.50-11.50])
+- keyword_score: 均值=25.56 标准差=4.16 (范围[20.00-30.00])
+
+
+生成时间: 2025-07-04 14:40:05
+【当前文章质量】
+- 平均句长: 15.0(标准7-15)
+- 语法错误数: 2
+- 上下文一致性: 80.7%
+- 主题集中度: 51.5%
+- Flesch可读性指数: 80.92%
+- Flesch-Kincaid等级: 5.9
+- 关键词匹配度: 60.0%
+【生成统计】
+- 生成成功率: 4/4=100.0%
+- 新增词汇: 41
+- 生成效率: '41/346=11.85%' | 244/551=44.28% | 内存占用: 7199MB
+- 覆盖率: 244/983=24.82%
+【Article #4生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about beach treasure
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: wave, surprise, massive, scale 
+                2. Flesch-Kincaid ≤4 & 85% top-2000 words
+            [EXAMPLE]
+            "My toes sank in wet sand when something shiny caught my eye... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 15.8
+- 语法错误: 1.5
+- 上下文一致性: 82.8%
+- 主题集中度: 58.9%
+- 关键词匹配: 34.2%
+- 可读性: 72.2%
+- Flesch-Kincaid等级: 7.2
+全部文章平均值:
+- 平均句长: 15.8
+- 语法错误: 1.5
+- 上下文一致性: 82.8%
+- 主题集中度: 58.9%
+- 关键词匹配: 34.2%
+- 可读性: 72.2%
+- Flesch-Kincaid等级: 7.2
+【主题类型统计】
+成功文章主题分布:
+- magic garden: 1次
+- broken wing: 1次
+- lost kitten: 1次
+- beach treasure: 1次
+全部文章主题分布:
+- magic garden: 1次
+- broken wing: 1次
+- lost kitten: 1次
+- beach treasure: 1次
+【主题类型统计】
+成功主题覆盖率: 4/4种
+高频成功主题(top5):
+- magic garden: 1次
+- broken wing: 1次
+- lost kitten: 1次
+- beach treasure: 1次
+【参数离散度分析】
+- avg_length: 均值=15.76 标准差=3.24 (范围[12.29-21.06])
+- grammar_errors: 均值=1.50 标准差=0.50 (范围[1.00-2.00])
+- coherence: 均值=82.83 标准差=2.30 (范围[80.38-85.32])
+- theme_focus: 均值=58.89 标准差=6.69 (范围[51.50-69.76])
+- flesch: 均值=72.20 标准差=12.99 (范围[50.06-81.93])
+- fkgl: 均值=7.15 标准差=2.52 (范围[5.50-11.50])
+- keyword_score: 均值=34.17 标准差=15.34 (范围[20.00-60.00])
+
+
+生成时间: 2025-07-04 14:56:29
+【当前文章质量】
+- 平均句长: 23.9(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 84.4%
+- 主题集中度: 71.1%
+- Flesch可读性指数: 47.22%
+- Flesch-Kincaid等级: 12.6
+- 关键词匹配度: 14.3%
+【生成统计】
+- 生成成功率: 5/5=100.0%
+- 新增词汇: 63
+- 生成效率: '63/335=18.81%' | 307/683=44.95% | 内存占用: 7202MB
+- 覆盖率: 307/983=31.23%
+【Article #5生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about cookie mystery
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: kitchen, solve, hotel, apartment, shop, restaurant 
+                2. Flesch-Kincaid ≤4 & 85% top-2000 words
+            [EXAMPLE]
+            "The cookie jar was full last night, but now it sat empty... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 17.4
+- 语法错误: 1.4
+- 上下文一致性: 83.1%
+- 主题集中度: 61.3%
+- 关键词匹配: 30.2%
+- 可读性: 67.2%
+- Flesch-Kincaid等级: 8.2
+全部文章平均值:
+- 平均句长: 17.4
+- 语法错误: 1.4
+- 上下文一致性: 83.1%
+- 主题集中度: 61.3%
+- 关键词匹配: 30.2%
+- 可读性: 67.2%
+- Flesch-Kincaid等级: 8.2
+【主题类型统计】
+成功文章主题分布:
+- magic garden: 1次
+- broken wing: 1次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+全部文章主题分布:
+- magic garden: 1次
+- broken wing: 1次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+【主题类型统计】
+成功主题覆盖率: 5/5种
+高频成功主题(top5):
+- magic garden: 1次
+- broken wing: 1次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=17.39 标准差=4.37 (范围[12.29-23.93])
+- grammar_errors: 均值=1.40 标准差=0.49 (范围[1.00-2.00])
+- coherence: 均值=83.14 标准差=2.15 (范围[80.38-85.32])
+- theme_focus: 均值=61.33 标准差=7.72 (范围[51.50-71.09])
+- flesch: 均值=67.21 标准差=15.32 (范围[47.22-81.93])
+- fkgl: 均值=8.24 标准差=3.13 (范围[5.50-12.60])
+- keyword_score: 均值=30.19 标准差=15.86 (范围[14.29-60.00])
+
+
+生成时间: 2025-07-04 15:29:06
+【当前文章质量】
+- 平均句长: 20.4(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 84.3%
+- 主题集中度: 58.4%
+- Flesch可读性指数: 50.77%
+- Flesch-Kincaid等级: 11.2
+- 关键词匹配度: 50.0%
+【生成统计】
+- 生成成功率: 6/6=100.0%
+- 新增词汇: 50
+- 生成效率: '50/346=14.45%' | 357/817=43.70% | 内存占用: 7206MB
+- 覆盖率: 357/983=36.32%
+【Article #6生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about island quest
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: boat, ship, plane, crew 
+                2. Flesch-Kincaid ≤4 & 85% top-2000 words
+            [EXAMPLE]
+            "Our tiny boat bumped against a beach with golden sand... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 17.9
+- 语法错误: 1.3
+- 上下文一致性: 83.3%
+- 主题集中度: 60.8%
+- 关键词匹配: 33.5%
+- 可读性: 64.5%
+- Flesch-Kincaid等级: 8.7
+全部文章平均值:
+- 平均句长: 17.9
+- 语法错误: 1.3
+- 上下文一致性: 83.3%
+- 主题集中度: 60.8%
+- 关键词匹配: 33.5%
+- 可读性: 64.5%
+- Flesch-Kincaid等级: 8.7
+【主题类型统计】
+成功文章主题分布:
+- magic garden: 1次
+- broken wing: 1次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+全部文章主题分布:
+- magic garden: 1次
+- broken wing: 1次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+【主题类型统计】
+成功主题覆盖率: 6/6种
+高频成功主题(top5):
+- magic garden: 1次
+- broken wing: 1次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=17.89 标准差=4.14 (范围[12.29-23.93])
+- grammar_errors: 均值=1.33 标准差=0.47 (范围[1.00-2.00])
+- coherence: 均值=83.34 标准差=2.01 (范围[80.38-85.32])
+- theme_focus: 均值=60.84 标准差=7.13 (范围[51.50-71.09])
+- flesch: 均值=64.47 标准差=15.27 (范围[47.22-81.93])
+- fkgl: 均值=8.73 标准差=3.07 (范围[5.50-12.60])
+- keyword_score: 均值=33.49 标准差=16.25 (范围[14.29-60.00])
+
+
+生成时间: 2025-07-04 18:35:41
+【当前文章质量】
+- 平均句长: 15.4(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 80.0%
+- 主题集中度: 6.7%
+- Flesch可读性指数: 54.73%
+- Flesch-Kincaid等级: 9.7
+- 关键词匹配度: 33.3%
+【生成统计】
+- 生成成功率: 7/7=100.0%
+- 新增词汇: 26
+- 生成效率: '26/247=10.53%' | 383/900=42.56% | 内存占用: 7227MB
+- 覆盖率: 383/983=38.96%
+【Article #7生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about camping surprise
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: april, march, january, july, november, february, june, august, december 
+                2. Flesch-Kincaid ≤4 & 85% top-2000 words
+            [EXAMPLE]
+            "Something rustled outside our tent just as the flashlight died... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 17.5
+- 语法错误: 1.3
+- 上下文一致性: 82.9%
+- 主题集中度: 53.1%
+- 关键词匹配: 33.5%
+- 可读性: 63.1%
+- Flesch-Kincaid等级: 8.9
+全部文章平均值:
+- 平均句长: 17.5
+- 语法错误: 1.3
+- 上下文一致性: 82.9%
+- 主题集中度: 53.1%
+- 关键词匹配: 33.5%
+- 可读性: 63.1%
+- Flesch-Kincaid等级: 8.9
+【主题类型统计】
+成功文章主题分布:
+- magic garden: 1次
+- broken wing: 1次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+- camping surprise: 1次
+全部文章主题分布:
+- magic garden: 1次
+- broken wing: 1次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+- camping surprise: 1次
+【主题类型统计】
+成功主题覆盖率: 7/7种
+高频成功主题(top5):
+- magic garden: 1次
+- broken wing: 1次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=17.54 标准差=3.92 (范围[12.29-23.93])
+- grammar_errors: 均值=1.29 标准差=0.45 (范围[1.00-2.00])
+- coherence: 均值=82.86 标准差=2.21 (范围[79.96-85.32])
+- theme_focus: 均值=53.11 标准差=20.05 (范围[6.73-71.09])
+- flesch: 均值=63.08 标准差=14.54 (范围[47.22-81.93])
+- fkgl: 均值=8.87 标准差=2.86 (范围[5.50-12.60])
+- keyword_score: 均值=33.47 标准差=15.05 (范围[14.29-60.00])
+
+
+生成时间: 2025-07-04 19:09:18
+【当前文章质量】
+- 平均句长: 17.7(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 83.4%
+- 主题集中度: 61.9%
+- Flesch可读性指数: 69.52%
+- Flesch-Kincaid等级: 8.2
+- 关键词匹配度: 23.8%
+【生成统计】
+- 生成成功率: 8/8=100.0%
+- 新增词汇: 34
+- 生成效率: '34/354=9.60%' | 417/1022=40.80% | 内存占用: 7230MB
+- 覆盖率: 417/983=42.42%
+【Article #8生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about magic garden
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: green, hide, ice, corporate, management, winter, secretary, minister, chief, investment, capital, sick, senior, spring, executive, general, prime, warm, chairman 
+                2. Flesch-Kincaid ≤4 & 85% top-2000 words
+            [EXAMPLE]
+            "Behind the old oak tree, I found a tiny door covered in vines... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 17.6
+- 语法错误: 1.2
+- 上下文一致性: 82.9%
+- 主题集中度: 54.2%
+- 关键词匹配: 32.3%
+- 可读性: 63.9%
+- Flesch-Kincaid等级: 8.8
+全部文章平均值:
+- 平均句长: 17.6
+- 语法错误: 1.2
+- 上下文一致性: 82.9%
+- 主题集中度: 54.2%
+- 关键词匹配: 32.3%
+- 可读性: 63.9%
+- Flesch-Kincaid等级: 8.8
+【主题类型统计】
+成功文章主题分布:
+- magic garden: 2次
+- broken wing: 1次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+- camping surprise: 1次
+全部文章主题分布:
+- magic garden: 2次
+- broken wing: 1次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+- camping surprise: 1次
+【主题类型统计】
+成功主题覆盖率: 7/7种
+高频成功主题(top5):
+- magic garden: 2次
+- broken wing: 1次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=17.56 标准差=3.67 (范围[12.29-23.93])
+- grammar_errors: 均值=1.25 标准差=0.43 (范围[1.00-2.00])
+- coherence: 均值=82.92 标准差=2.07 (范围[79.96-85.32])
+- theme_focus: 均值=54.20 标准差=18.98 (范围[6.73-71.09])
+- flesch: 均值=63.88 标准差=13.77 (范围[47.22-81.93])
+- fkgl: 均值=8.79 标准差=2.68 (范围[5.50-12.60])
+- keyword_score: 均值=32.26 标准差=14.43 (范围[14.29-60.00])
+
+
+生成时间: 2025-07-04 20:30:39
+【当前文章质量】
+- 平均句长: 20.9(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 81.0%
+- 主题集中度: 53.4%
+- Flesch可读性指数: 67.18%
+- Flesch-Kincaid等级: 9.1
+- 关键词匹配度: 66.7%
+【生成统计】
+- 生成成功率: 9/9=100.0%
+- 新增词汇: 32
+- 生成效率: '32/332=9.64%' | 449/1143=39.28% | 内存占用: 7231MB
+- 覆盖率: 449/983=45.68%
+【Article #9生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about broken wing
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: march, january, february, november, june, august, december 
+                2. Flesch-Kincaid ≤4 & 85% top-2000 words
+            [EXAMPLE]
+            "A thump on the window revealed a bird with drooping wings... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 17.9
+- 语法错误: 1.2
+- 上下文一致性: 82.7%
+- 主题集中度: 54.1%
+- 关键词匹配: 36.1%
+- 可读性: 64.2%
+- Flesch-Kincaid等级: 8.8
+全部文章平均值:
+- 平均句长: 17.9
+- 语法错误: 1.2
+- 上下文一致性: 82.7%
+- 主题集中度: 54.1%
+- 关键词匹配: 36.1%
+- 可读性: 64.2%
+- Flesch-Kincaid等级: 8.8
+【主题类型统计】
+成功文章主题分布:
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+- camping surprise: 1次
+全部文章主题分布:
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+- camping surprise: 1次
+【主题类型统计】
+成功主题覆盖率: 7/7种
+高频成功主题(top5):
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=17.93 标准差=3.61 (范围[12.29-23.93])
+- grammar_errors: 均值=1.22 标准差=0.42 (范围[1.00-2.00])
+- coherence: 均值=82.71 标准差=2.05 (范围[79.96-85.32])
+- theme_focus: 均值=54.11 标准差=17.90 (范围[6.73-71.09])
+- flesch: 均值=64.25 标准差=13.02 (范围[47.22-81.93])
+- fkgl: 均值=8.82 标准差=2.53 (范围[5.50-12.60])
+- keyword_score: 均值=36.09 标准差=17.38 (范围[14.29-66.67])
+
+
+生成时间: 2025-07-04 20:46:52
+【当前文章质量】
+- 平均句长: 19.2(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 85.4%
+- 主题集中度: 58.7%
+- Flesch可读性指数: 59.33%
+- Flesch-Kincaid等级: 10.0
+- 关键词匹配度: 100.0%
+【生成统计】
+- 生成成功率: 10/10=100.0%
+- 新增词汇: 21
+- 生成效率: '21/342=6.14%' | 470/1244=37.78% | 内存占用: 7231MB
+- 覆盖率: 470/983=47.81%
+【Article #10生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about message bottle
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: weekend, friday, thursday, saturday, wednesday, tuesday, monday 
+                2. Flesch-Kincaid ≤4 & 85% top-2000 words
+            [EXAMPLE]
+            "A glass bottle with rolled paper inside washed ashore... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 18.1
+- 语法错误: 1.2
+- 上下文一致性: 83.0%
+- 主题集中度: 54.6%
+- 关键词匹配: 42.5%
+- 可读性: 63.8%
+- Flesch-Kincaid等级: 8.9
+全部文章平均值:
+- 平均句长: 18.1
+- 语法错误: 1.2
+- 上下文一致性: 83.0%
+- 主题集中度: 54.6%
+- 关键词匹配: 42.5%
+- 可读性: 63.8%
+- Flesch-Kincaid等级: 8.9
+【主题类型统计】
+成功文章主题分布:
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+- camping surprise: 1次
+- message bottle: 1次
+全部文章主题分布:
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+- camping surprise: 1次
+- message bottle: 1次
+【主题类型统计】
+成功主题覆盖率: 8/8种
+高频成功主题(top5):
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=18.05 标准差=3.45 (范围[12.29-23.93])
+- grammar_errors: 均值=1.20 标准差=0.40 (范围[1.00-2.00])
+- coherence: 均值=82.98 标准差=2.11 (范围[79.96-85.42])
+- theme_focus: 均值=54.57 标准差=17.03 (范围[6.73-71.09])
+- flesch: 均值=63.76 标准差=12.44 (范围[47.22-81.93])
+- fkgl: 均值=8.94 标准差=2.43 (范围[5.50-12.60])
+- keyword_score: 均值=42.48 标准差=25.29 (范围[14.29-100.00])
+
+
+生成时间: 2025-07-04 21:36:14
+【当前文章质量】
+- 平均句长: 31.5(标准7-15)
+- 语法错误数: 2
+- 上下文一致性: 88.5%
+- 主题集中度: 69.0%
+- Flesch可读性指数: 56.42%
+- Flesch-Kincaid等级: 13.2
+- 关键词匹配度: 10.0%
+【生成统计】
+- 生成成功率: 11/11=100.0%
+- 新增词汇: 27
+- 生成效率: '27/345=7.83%' | 497/1342=37.03% | 内存占用: 7234MB
+- 覆盖率: 497/983=50.56%
+【Article #11生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about magic paint
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: attorney, supreme, judge, lawyer, jury, trial, hearing, murder 
+                2. Flesch-Kincaid ≤4 & 85% top-2000 words
+            [EXAMPLE]
+            "The dinosaur I painted on my wall blinked its big eyes... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.3
+- 语法错误: 1.3
+- 上下文一致性: 83.5%
+- 主题集中度: 55.9%
+- 关键词匹配: 39.5%
+- 可读性: 63.1%
+- Flesch-Kincaid等级: 9.3
+全部文章平均值:
+- 平均句长: 19.3
+- 语法错误: 1.3
+- 上下文一致性: 83.5%
+- 主题集中度: 55.9%
+- 关键词匹配: 39.5%
+- 可读性: 63.1%
+- Flesch-Kincaid等级: 9.3
+【主题类型统计】
+成功文章主题分布:
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+- camping surprise: 1次
+- message bottle: 1次
+- magic paint: 1次
+全部文章主题分布:
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+- camping surprise: 1次
+- message bottle: 1次
+- magic paint: 1次
+【主题类型统计】
+成功主题覆盖率: 9/9种
+高频成功主题(top5):
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 1次
+- beach treasure: 1次
+- cookie mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=19.28 标准差=5.09 (范围[12.29-31.55])
+- grammar_errors: 均值=1.27 标准差=0.45 (范围[1.00-2.00])
+- coherence: 均值=83.48 标准差=2.55 (范围[79.96-88.47])
+- theme_focus: 均值=55.88 标准差=16.76 (范围[6.73-71.09])
+- flesch: 均值=63.09 标准差=12.05 (范围[47.22-81.93])
+- fkgl: 均值=9.33 标准差=2.62 (范围[5.50-13.20])
+- keyword_score: 均值=39.52 标准差=25.86 (范围[10.00-100.00])
+
+
+生成时间: 2025-07-04 21:53:02
+【当前文章质量】
+- 平均句长: 19.8(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 85.7%
+- 主题集中度: 57.1%
+- Flesch可读性指数: 42.92%
+- Flesch-Kincaid等级: 12.2
+- 关键词匹配度: 50.0%
+【生成统计】
+- 生成成功率: 12/12=100.0%
+- 新增词汇: 38
+- 生成效率: '38/356=10.67%' | 535/1460=36.64% | 内存占用: 7246MB
+- 覆盖率: 535/983=54.43%
+【Article #12生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about lost kitten
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: attorney, supreme, judge, lawyer, trial, hearing, jury, murder 
+                2. Flesch-Kincaid ≤4 & 85% top-2300 words
+            [EXAMPLE]
+            "Meow! The sound came from a soggy cardboard box in the alley... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.3
+- 语法错误: 1.2
+- 上下文一致性: 83.7%
+- 主题集中度: 56.0%
+- 关键词匹配: 40.4%
+- 可读性: 61.4%
+- Flesch-Kincaid等级: 9.6
+全部文章平均值:
+- 平均句长: 19.3
+- 语法错误: 1.2
+- 上下文一致性: 83.7%
+- 主题集中度: 56.0%
+- 关键词匹配: 40.4%
+- 可读性: 61.4%
+- Flesch-Kincaid等级: 9.6
+【主题类型统计】
+成功文章主题分布:
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 2次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+- camping surprise: 1次
+- message bottle: 1次
+- magic paint: 1次
+全部文章主题分布:
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 2次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+- camping surprise: 1次
+- message bottle: 1次
+- magic paint: 1次
+【主题类型统计】
+成功主题覆盖率: 9/9种
+高频成功主题(top5):
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 2次
+- beach treasure: 1次
+- cookie mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=19.32 标准差=4.87 (范围[12.29-31.55])
+- grammar_errors: 均值=1.25 标准差=0.43 (范围[1.00-2.00])
+- coherence: 均值=83.66 标准差=2.52 (范围[79.96-88.47])
+- theme_focus: 均值=55.99 标准差=16.05 (范围[6.73-71.09])
+- flesch: 均值=61.41 标准差=12.81 (范围[42.92-81.93])
+- fkgl: 均值=9.57 标准差=2.63 (范围[5.50-13.20])
+- keyword_score: 均值=40.40 标准差=24.92 (范围[10.00-100.00])
+
+
+生成时间: 2025-07-04 22:40:24
+【当前文章质量】
+- 平均句长: 18.1(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 84.7%
+- 主题集中度: 5.8%
+- Flesch可读性指数: 86.94%
+- Flesch-Kincaid等级: 5.6
+- 关键词匹配度: 12.5%
+【生成统计】
+- 生成成功率: 13/13=100.0%
+- 新增词汇: 14
+- 生成效率: '14/343=4.08%' | 549/1554=35.33% | 内存占用: 7243MB
+- 覆盖率: 549/983=55.85%
+【Article #13生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about puppy rescue
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: beer, tea, lunch, dinner, coffee, wine, drink 
+                2. Flesch-Kincaid ≤4 & 85% top-2300 words
+            [EXAMPLE]
+            "A soft whimper came from under the thorny bushes near the park... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.2
+- 语法错误: 1.2
+- 上下文一致性: 83.7%
+- 主题集中度: 52.1%
+- 关键词匹配: 38.3%
+- 可读性: 63.4%
+- Flesch-Kincaid等级: 9.3
+全部文章平均值:
+- 平均句长: 19.2
+- 语法错误: 1.2
+- 上下文一致性: 83.7%
+- 主题集中度: 52.1%
+- 关键词匹配: 38.3%
+- 可读性: 63.4%
+- Flesch-Kincaid等级: 9.3
+【主题类型统计】
+成功文章主题分布:
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 2次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+- camping surprise: 1次
+- message bottle: 1次
+- magic paint: 1次
+- puppy rescue: 1次
+全部文章主题分布:
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 2次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+- camping surprise: 1次
+- message bottle: 1次
+- magic paint: 1次
+- puppy rescue: 1次
+【主题类型统计】
+成功主题覆盖率: 10/10种
+高频成功主题(top5):
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 2次
+- beach treasure: 1次
+- cookie mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=19.22 标准差=4.69 (范围[12.29-31.55])
+- grammar_errors: 均值=1.23 标准差=0.42 (范围[1.00-2.00])
+- coherence: 均值=83.74 标准差=2.43 (范围[79.96-88.47])
+- theme_focus: 均值=52.13 标准差=20.41 (范围[5.82-71.09])
+- flesch: 均值=63.37 标准差=14.07 (范围[42.92-86.94])
+- fkgl: 均值=9.26 标准差=2.74 (范围[5.50-13.20])
+- keyword_score: 均值=38.25 标准差=25.07 (范围[10.00-100.00])
+
+
+生成时间: 2025-07-04 22:56:20
+【当前文章质量】
+- 平均句长: 20.1(标准7-15)
+- 语法错误数: 2
+- 上下文一致性: 88.5%
+- 主题集中度: 5.5%
+- Flesch可读性指数: 83.59%
+- Flesch-Kincaid等级: 6.9
+- 关键词匹配度: 0.0%
+【生成统计】
+- 生成成功率: 14/14=100.0%
+- 新增词汇: 4
+- 生成效率: '4/342=1.17%' | 553/1632=33.88% | 内存占用: 7247MB
+- 覆盖率: 553/983=56.26%
+【Article #14生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about hidden cave
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: catholic, holy, religion, god, christian, faith, religious 
+                2. Flesch-Kincaid ≤4 & 85% top-2300 words
+            [EXAMPLE]
+            "The boulder rolled aside with a rumble, revealing darkness... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.3
+- 语法错误: 1.3
+- 上下文一致性: 84.1%
+- 主题集中度: 48.8%
+- 关键词匹配: 35.5%
+- 可读性: 64.8%
+- Flesch-Kincaid等级: 9.1
+全部文章平均值:
+- 平均句长: 19.3
+- 语法错误: 1.3
+- 上下文一致性: 84.1%
+- 主题集中度: 48.8%
+- 关键词匹配: 35.5%
+- 可读性: 64.8%
+- Flesch-Kincaid等级: 9.1
+【主题类型统计】
+成功文章主题分布:
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 2次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+- camping surprise: 1次
+- message bottle: 1次
+- magic paint: 1次
+- puppy rescue: 1次
+- hidden cave: 1次
+全部文章主题分布:
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 2次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+- camping surprise: 1次
+- message bottle: 1次
+- magic paint: 1次
+- puppy rescue: 1次
+- hidden cave: 1次
+【主题类型统计】
+成功主题覆盖率: 11/11种
+高频成功主题(top5):
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 2次
+- beach treasure: 1次
+- cookie mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=19.29 标准差=4.53 (范围[12.29-31.55])
+- grammar_errors: 均值=1.29 标准差=0.45 (范围[1.00-2.00])
+- coherence: 均值=84.07 标准差=2.64 (范围[79.96-88.47])
+- theme_focus: 均值=48.80 标准差=23.04 (范围[5.55-71.09])
+- flesch: 均值=64.82 标准差=14.52 (范围[42.92-86.94])
+- fkgl: 均值=9.09 标准差=2.71 (范围[5.50-13.20])
+- keyword_score: 均值=35.52 标准差=26.09 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-04 23:12:54
+【当前文章质量】
+- 平均句长: 14.9(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 85.9%
+- 主题集中度: 52.9%
+- Flesch可读性指数: 81.73%
+- Flesch-Kincaid等级: 5.6
+- 关键词匹配度: 33.3%
+【生成统计】
+- 生成成功率: 15/15=100.0%
+- 新增词汇: 11
+- 生成效率: '11/358=3.07%' | 564/1719=32.81% | 内存占用: 7245MB
+- 覆盖率: 564/983=57.38%
+【Article #15生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about sunflower giant
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: catholic, holy, god, christian, religion, faith, religious 
+                2. Flesch-Kincaid ≤4 & 85% top-2300 words
+            [EXAMPLE]
+            "My sunflower grew taller than our house overnight... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.0
+- 语法错误: 1.3
+- 上下文一致性: 84.2%
+- 主题集中度: 49.1%
+- 关键词匹配: 35.4%
+- 可读性: 65.9%
+- Flesch-Kincaid等级: 8.9
+全部文章平均值:
+- 平均句长: 19.0
+- 语法错误: 1.3
+- 上下文一致性: 84.2%
+- 主题集中度: 49.1%
+- 关键词匹配: 35.4%
+- 可读性: 65.9%
+- Flesch-Kincaid等级: 8.9
+【主题类型统计】
+成功文章主题分布:
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 2次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+- camping surprise: 1次
+- message bottle: 1次
+- magic paint: 1次
+- puppy rescue: 1次
+- hidden cave: 1次
+- sunflower giant: 1次
+全部文章主题分布:
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 2次
+- beach treasure: 1次
+- cookie mystery: 1次
+- island quest: 1次
+- camping surprise: 1次
+- message bottle: 1次
+- magic paint: 1次
+- puppy rescue: 1次
+- hidden cave: 1次
+- sunflower giant: 1次
+【主题类型统计】
+成功主题覆盖率: 12/12种
+高频成功主题(top5):
+- magic garden: 2次
+- broken wing: 2次
+- lost kitten: 2次
+- beach treasure: 1次
+- cookie mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=18.99 标准差=4.51 (范围[12.29-31.55])
+- grammar_errors: 均值=1.27 标准差=0.44 (范围[1.00-2.00])
+- coherence: 均值=84.19 标准差=2.59 (范围[79.96-88.47])
+- theme_focus: 均值=49.08 标准差=22.28 (范围[5.55-71.09])
+- flesch: 均值=65.94 标准差=14.65 (范围[42.92-86.94])
+- fkgl: 均值=8.86 标准差=2.76 (范围[5.50-13.20])
+- keyword_score: 均值=35.37 标准差=25.21 (范围[0.00-100.00])
+
+

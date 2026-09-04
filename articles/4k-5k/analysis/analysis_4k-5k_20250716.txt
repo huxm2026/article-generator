@@ -1,0 +1,2371 @@
+生成时间: 2025-07-16 04:36:31
+【当前文章质量】
+- 平均句长: 18.5(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 86.6%
+- 主题集中度: 60.8%
+- Flesch可读性指数: 60.04%
+- Flesch-Kincaid等级: 9.8
+- 关键词匹配度: 18.8%
+【生成统计】
+- 生成成功率: 1/2=50.0%
+- 新增词汇: 41
+- 生成效率: '41/352=11.65%' | 41/52=78.85% | 内存占用: 11382MB
+- 覆盖率: 41/1936=2.12%
+【Article #1生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about neighborhood clean-up
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: trash, pick, glove, discourse, sensor, hypothesis, theoretical, elegant, philosophical, attractive, theory, ethical, laser, ethics, gravity, handsome, sustainable, beam, particle 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "My trash bag tore open just as we reached the corner street... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 18.5
+- 语法错误: 1.0
+- 上下文一致性: 86.6%
+- 主题集中度: 60.8%
+- 关键词匹配: 18.8%
+- 可读性: 60.0%
+- Flesch-Kincaid等级: 9.8
+全部文章平均值:
+- 平均句长: 9.3
+- 语法错误: 0.5
+- 上下文一致性: 43.3%
+- 主题集中度: 30.4%
+- 关键词匹配: 9.4%
+- 可读性: 30.0%
+- Flesch-Kincaid等级: 4.9
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+【主题类型统计】
+成功主题覆盖率: 1/1种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+【参数离散度分析】
+- avg_length: 数据不足(需至少2次生成)
+- grammar_errors: 数据不足(需至少2次生成)
+- coherence: 数据不足(需至少2次生成)
+- theme_focus: 数据不足(需至少2次生成)
+- flesch: 数据不足(需至少2次生成)
+- fkgl: 数据不足(需至少2次生成)
+- keyword_score: 数据不足(需至少2次生成)
+
+
+生成时间: 2025-07-16 04:58:23
+【当前文章质量】
+- 平均句长: 21.4(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 81.4%
+- 主题集中度: 66.0%
+- Flesch可读性指数: 49.75%
+- Flesch-Kincaid等级: 11.6
+- 关键词匹配度: 22.7%
+【生成统计】
+- 生成成功率: 2/3=66.7%
+- 新增词汇: 42
+- 生成效率: '42/342=12.28%' | 83/116=71.55% | 内存占用: 11358MB
+- 覆盖率: 83/1936=4.29%
+【Article #2生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about fishing trip surprise
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: pond, net, ridge, creek, agriculture, highway, exchange, trading, trail, route, railroad, rail, transport, commerce, transit, trade, bureau, transportation, fork 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "My fishing rod bent nearly double when something big tugged... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 20.0
+- 语法错误: 1.0
+- 上下文一致性: 84.0%
+- 主题集中度: 63.4%
+- 关键词匹配: 20.7%
+- 可读性: 54.9%
+- Flesch-Kincaid等级: 10.7
+全部文章平均值:
+- 平均句长: 13.3
+- 语法错误: 0.7
+- 上下文一致性: 56.0%
+- 主题集中度: 42.3%
+- 关键词匹配: 13.8%
+- 可读性: 36.6%
+- Flesch-Kincaid等级: 7.1
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+【主题类型统计】
+成功主题覆盖率: 2/2种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+【参数离散度分析】
+- avg_length: 均值=19.95 标准差=1.42 (范围[18.53-21.38])
+- grammar_errors: 均值=1.00 标准差=0.00 (范围[1.00-1.00])
+- coherence: 均值=83.97 标准差=2.59 (范围[81.38-86.57])
+- theme_focus: 均值=63.39 标准差=2.58 (范围[60.81-65.97])
+- flesch: 均值=54.89 标准差=5.14 (范围[49.75-60.04])
+- fkgl: 均值=10.70 标准差=0.90 (范围[9.80-11.60])
+- keyword_score: 均值=20.74 标准差=1.99 (范围[18.75-22.73])
+
+
+生成时间: 2025-07-16 05:19:58
+【当前文章质量】
+- 平均句长: 18.6(标准7-15)
+- 语法错误数: 2
+- 上下文一致性: 78.0%
+- 主题集中度: 51.1%
+- Flesch可读性指数: 77.98%
+- Flesch-Kincaid等级: 7.0
+- 关键词匹配度: 90.9%
+【生成统计】
+- 生成成功率: 3/4=75.0%
+- 新增词汇: 22
+- 生成效率: '22/332=6.63%' | 105/152=69.08% | 内存占用: 11361MB
+- 覆盖率: 105/1936=5.42%
+【Article #3生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about rainy day fort building
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: rain, pillow, towel, couch, cloth, silk, canvas, cotton 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "Thunder boomed outside our blanket fort in the living room... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 19.5
+- 语法错误: 1.3
+- 上下文一致性: 82.0%
+- 主题集中度: 59.3%
+- 关键词匹配: 44.1%
+- 可读性: 62.6%
+- Flesch-Kincaid等级: 9.5
+全部文章平均值:
+- 平均句长: 14.6
+- 语法错误: 1.0
+- 上下文一致性: 61.5%
+- 主题集中度: 44.5%
+- 关键词匹配: 33.1%
+- 可读性: 46.9%
+- Flesch-Kincaid等级: 7.1
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+【主题类型统计】
+成功主题覆盖率: 3/3种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+【参数离散度分析】
+- avg_length: 均值=19.49 标准差=1.34 (范围[18.53-21.38])
+- grammar_errors: 均值=1.33 标准差=0.47 (范围[1.00-2.00])
+- coherence: 均值=82.00 标准差=3.51 (范围[78.05-86.57])
+- theme_focus: 均值=59.29 标准差=6.17 (范围[51.08-65.97])
+- flesch: 均值=62.59 标准差=11.67 (范围[49.75-77.98])
+- fkgl: 均值=9.47 标准差=1.89 (范围[7.00-11.60])
+- keyword_score: 均值=44.13 标准差=33.12 (范围[18.75-90.91])
+
+
+生成时间: 2025-07-16 05:42:14
+【当前文章质量】
+- 平均句长: 15.7(标准7-15)
+- 语法错误数: 2
+- 上下文一致性: 83.5%
+- 主题集中度: 53.8%
+- Flesch可读性指数: 72.46%
+- Flesch-Kincaid等级: 7.1
+- 关键词匹配度: 70.0%
+【生成统计】
+- 生成成功率: 4/5=80.0%
+- 新增词汇: 21
+- 生成效率: '21/345=6.09%' | 126/205=61.46% | 内存占用: 11365MB
+- 覆盖率: 126/1936=6.51%
+【Article #4生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about family pizza night
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: dough, slice, chunk, dessert, fraction, roughly, delicious, estimate, pie, estimated 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "Cheese oozed over the edge when the pizza dough stretched too thin... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 18.5
+- 语法错误: 1.5
+- 上下文一致性: 82.4%
+- 主题集中度: 57.9%
+- 关键词匹配: 50.6%
+- 可读性: 65.1%
+- Flesch-Kincaid等级: 8.9
+全部文章平均值:
+- 平均句长: 14.8
+- 语法错误: 1.2
+- 上下文一致性: 65.9%
+- 主题集中度: 46.3%
+- 关键词匹配: 40.5%
+- 可读性: 52.0%
+- Flesch-Kincaid等级: 7.1
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+【主题类型统计】
+成功主题覆盖率: 4/4种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+【参数离散度分析】
+- avg_length: 均值=18.53 标准差=2.01 (范围[15.68-21.38])
+- grammar_errors: 均值=1.50 标准差=0.50 (范围[1.00-2.00])
+- coherence: 均值=82.37 标准差=3.10 (范围[78.05-86.57])
+- theme_focus: 均值=57.92 标准差=5.85 (范围[51.08-65.97])
+- flesch: 均值=65.06 标准差=10.97 (范围[49.75-77.98])
+- fkgl: 均值=8.88 标准差=1.93 (范围[7.00-11.60])
+- keyword_score: 均值=50.60 标准差=30.79 (范围[18.75-90.91])
+
+
+生成时间: 2025-07-16 06:03:52
+【当前文章质量】
+- 平均句长: 16.9(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 83.0%
+- 主题集中度: 60.2%
+- Flesch可读性指数: 71.24%
+- Flesch-Kincaid等级: 7.5
+- 关键词匹配度: 27.8%
+【生成统计】
+- 生成成功率: 5/6=83.3%
+- 新增词汇: 21
+- 生成效率: '21/355=5.92%' | 147/255=57.65% | 内存占用: 11140MB
+- 覆盖率: 147/1936=7.59%
+【Article #5生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about grandpas workshop day
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: nail, divine, behavioral, economics, psychology, biology, missile, cognitive, professor, rocket, developmental, gene, genetic, chemistry, mathematics, university, nuclear, institute, biological 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "Sawdust filled the air as Grandpa showed me how to cut wood... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 18.2
+- 语法错误: 1.4
+- 上下文一致性: 82.5%
+- 主题集中度: 58.4%
+- 关键词匹配: 46.0%
+- 可读性: 66.3%
+- Flesch-Kincaid等级: 8.6
+全部文章平均值:
+- 平均句长: 15.2
+- 语法错误: 1.2
+- 上下文一致性: 68.8%
+- 主题集中度: 48.6%
+- 关键词匹配: 38.4%
+- 可读性: 55.2%
+- Flesch-Kincaid等级: 7.2
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【主题类型统计】
+成功主题覆盖率: 5/5种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=18.21 标准差=1.91 (范围[15.68-21.38])
+- grammar_errors: 均值=1.40 标准差=0.49 (范围[1.00-2.00])
+- coherence: 均值=82.50 标准差=2.79 (范围[78.05-86.57])
+- theme_focus: 均值=58.38 标准差=5.31 (范围[51.08-65.97])
+- flesch: 均值=66.29 标准差=10.12 (范围[49.75-77.98])
+- fkgl: 均值=8.60 标准差=1.81 (范围[7.00-11.60])
+- keyword_score: 均值=46.03 标准差=29.01 (范围[18.75-90.91])
+
+
+生成时间: 2025-07-16 06:25:38
+【当前文章质量】
+- 平均句长: 16.0(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 77.2%
+- 主题集中度: 55.0%
+- Flesch可读性指数: 63.7%
+- Flesch-Kincaid等级: 8.4
+- 关键词匹配度: 19.1%
+【生成统计】
+- 生成成功率: 6/7=85.7%
+- 新增词汇: 29
+- 生成效率: '29/336=8.63%' | 176/306=57.52% | 内存占用: 11099MB
+- 覆盖率: 176/1936=9.09%
+【Article #6生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about family hiking trip
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: trail, monetary, commerce, currency, investment, route, railroad, transportation, fork, creek, trading, rail, transit, highway, export, exchange, trade, bureau, finance 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "My shoe slipped on a wet rock halfway up the hill trail... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 17.8
+- 语法错误: 1.3
+- 上下文一致性: 81.6%
+- 主题集中度: 57.8%
+- 关键词匹配: 41.5%
+- 可读性: 65.9%
+- Flesch-Kincaid等级: 8.6
+全部文章平均值:
+- 平均句长: 15.3
+- 语法错误: 1.1
+- 上下文一致性: 70.0%
+- 主题集中度: 49.6%
+- 关键词匹配: 35.6%
+- 可读性: 56.5%
+- Flesch-Kincaid等级: 7.3
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+【主题类型统计】
+成功主题覆盖率: 6/6种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=17.84 标准差=1.93 (范围[15.68-21.38])
+- grammar_errors: 均值=1.33 标准差=0.47 (范围[1.00-2.00])
+- coherence: 均值=81.61 标准差=3.23 (范围[77.17-86.57])
+- theme_focus: 均值=57.82 标准差=5.01 (范围[51.08-65.97])
+- flesch: 均值=65.86 标准差=9.29 (范围[49.75-77.98])
+- fkgl: 均值=8.57 标准差=1.66 (范围[7.00-11.60])
+- keyword_score: 均值=41.54 标准差=28.33 (范围[18.75-90.91])
+
+
+生成时间: 2025-07-16 06:46:48
+【当前文章质量】
+- 平均句长: 17.3(标准7-15)
+- 语法错误数: 3
+- 上下文一致性: 79.7%
+- 主题集中度: 52.3%
+- Flesch可读性指数: 61.26%
+- Flesch-Kincaid等级: 9.3
+- 关键词匹配度: 21.1%
+【生成统计】
+- 生成成功率: 7/8=87.5%
+- 新增词汇: 17
+- 生成效率: '17/312=5.45%' | 193/339=56.93% | 内存占用: 11053MB
+- 覆盖率: 193/1936=9.97%
+【Article #7生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about school art class
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: brush, minimum, freshman, physician, economy, pitcher, inflation, employment, required, teammate, salary, starter, recession, sector, crawl, unemployment, quarterback, wage, rookie 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "Green paint dripped onto my shoes as I reached for the red... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 17.8
+- 语法错误: 1.6
+- 上下文一致性: 81.3%
+- 主题集中度: 57.0%
+- 关键词匹配: 38.6%
+- 可读性: 65.2%
+- Flesch-Kincaid等级: 8.7
+全部文章平均值:
+- 平均句长: 15.5
+- 语法错误: 1.4
+- 上下文一致性: 71.2%
+- 主题集中度: 49.9%
+- 关键词匹配: 33.8%
+- 可读性: 57.1%
+- Flesch-Kincaid等级: 7.6
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+【主题类型统计】
+成功主题覆盖率: 7/7种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=17.77 标准差=1.80 (范围[15.68-21.38])
+- grammar_errors: 均值=1.57 标准差=0.73 (范围[1.00-3.00])
+- coherence: 均值=81.35 标准差=3.06 (范围[77.17-86.57])
+- theme_focus: 均值=57.03 标准差=5.02 (范围[51.08-65.97])
+- flesch: 均值=65.20 标准差=8.75 (范围[49.75-77.98])
+- fkgl: 均值=8.67 标准差=1.56 (范围[7.00-11.60])
+- keyword_score: 均值=38.61 标准差=27.19 (范围[18.75-90.91])
+
+
+生成时间: 2025-07-16 07:08:15
+【当前文章质量】
+- 平均句长: 11.8(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 76.9%
+- 主题集中度: 59.9%
+- Flesch可读性指数: 84.88%
+- Flesch-Kincaid等级: 4.4
+- 关键词匹配度: 75.0%
+【生成统计】
+- 生成成功率: 8/9=88.9%
+- 新增词汇: 22
+- 生成效率: '22/330=6.67%' | 215/379=56.73% | 内存占用: 11053MB
+- 覆盖率: 215/1936=11.11%
+【Article #8生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about stormy power outage
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: candle, flame, lamp 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "All the lights went out just as the thunder cracked loudest... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 17.0
+- 语法错误: 1.5
+- 上下文一致性: 80.8%
+- 主题集中度: 57.4%
+- 关键词匹配: 43.2%
+- 可读性: 67.7%
+- Flesch-Kincaid等级: 8.1
+全部文章平均值:
+- 平均句长: 15.1
+- 语法错误: 1.3
+- 上下文一致性: 71.8%
+- 主题集中度: 51.0%
+- 关键词匹配: 38.4%
+- 可读性: 60.1%
+- Flesch-Kincaid等级: 7.2
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+【主题类型统计】
+成功主题覆盖率: 8/8种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=17.02 标准差=2.60 (范围[11.79-21.38])
+- grammar_errors: 均值=1.50 标准差=0.71 (范围[1.00-3.00])
+- coherence: 均值=80.79 标准差=3.22 (范围[76.90-86.57])
+- theme_focus: 均值=57.38 标准差=4.79 (范围[51.08-65.97])
+- flesch: 均值=67.66 标准差=10.45 (范围[49.75-84.88])
+- fkgl: 均值=8.14 标准差=2.03 (范围[4.40-11.60])
+- keyword_score: 均值=43.16 标准差=28.14 (范围[18.75-90.91])
+
+
+生成时间: 2025-07-16 07:31:30
+【当前文章质量】
+- 平均句长: 12.0(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 79.2%
+- 主题集中度: 5.5%
+- Flesch可读性指数: 75.81%
+- Flesch-Kincaid等级: 5.8
+- 关键词匹配度: 0.0%
+【生成统计】
+- 生成成功率: 9/10=90.0%
+- 新增词汇: 15
+- 生成效率: '15/323=4.64%' | 230/408=56.37% | 内存占用: 10988MB
+- 覆盖率: 230/1936=11.88%
+【Article #9生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about sandcastle competition
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: castle, lady, ceo, queen, representative, aunt, uncle, ambassador, royal, secretary, diplomatic, emperor, embassy, vice, crown, residence, throne, prince, palace 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "My sand tower collapsed just before the judge walked by... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.5
+- 语法错误: 1.4
+- 上下文一致性: 80.6%
+- 主题集中度: 51.6%
+- 关键词匹配: 38.4%
+- 可读性: 68.6%
+- Flesch-Kincaid等级: 7.9
+全部文章平均值:
+- 平均句长: 14.8
+- 语法错误: 1.3
+- 上下文一致性: 72.5%
+- 主题集中度: 46.5%
+- 关键词匹配: 34.5%
+- 可读性: 61.7%
+- Flesch-Kincaid等级: 7.1
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+【主题类型统计】
+成功主题覆盖率: 9/9种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=16.46 标准差=2.92 (范围[11.79-21.38])
+- grammar_errors: 均值=1.44 标准差=0.68 (范围[1.00-3.00])
+- coherence: 均值=80.61 标准差=3.08 (范围[76.90-86.57])
+- theme_focus: 均值=51.62 标准差=16.91 (范围[5.54-65.97])
+- flesch: 均值=68.57 标准差=10.18 (范围[49.75-84.88])
+- fkgl: 均值=7.88 标准差=2.05 (范围[4.40-11.60])
+- keyword_score: 均值=38.36 标准差=29.80 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 09:24:49
+【当前文章质量】
+- 平均句长: 13.8(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 79.5%
+- 主题集中度: 46.5%
+- Flesch可读性指数: 82.85%
+- Flesch-Kincaid等级: 5.1
+- 关键词匹配度: 9.5%
+【生成统计】
+- 生成成功率: 10/15=66.7%
+- 新增词汇: 15
+- 生成效率: '15/343=4.37%' | 245/435=56.32% | 内存占用: 10512MB
+- 覆盖率: 245/1936=12.65%
+【Article #10生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about hidden treehouse note
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: occasional, certainly, frequently, moreover, nevertheless, rarely, hence, similarly, fairly, consequently, indeed, occasionally, regularly, generally, likewise, numerous, extremely, commonly, typically, whereas 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "Under the floorboard, I found a folded paper with messy writing... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.2
+- 语法错误: 1.4
+- 上下文一致性: 80.5%
+- 主题集中度: 51.1%
+- 关键词匹配: 35.5%
+- 可读性: 70.0%
+- Flesch-Kincaid等级: 7.6
+全部文章平均值:
+- 平均句长: 11.5
+- 语法错误: 1.8
+- 上下文一致性: 58.7%
+- 主题集中度: 34.4%
+- 关键词匹配: 23.7%
+- 可读性: 50.7%
+- Flesch-Kincaid等级: 5.6
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 1次
+【主题类型统计】
+成功主题覆盖率: 10/11种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=15.64 标准差=3.25 (范围[10.17-21.38])
+- grammar_errors: 均值=2.45 标准差=3.39 (范围[1.00-13.00])
+- coherence: 均值=79.99 标准差=3.23 (范围[74.91-86.57])
+- theme_focus: 均值=46.92 标准差=20.28 (范围[5.07-65.97])
+- flesch: 均值=69.19 标准差=10.39 (范围[49.75-84.88])
+- fkgl: 均值=7.57 标准差=2.02 (范围[4.40-11.60])
+- keyword_score: 均值=32.25 标准差=29.97 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 11:35:08
+【当前文章质量】
+- 平均句长: 18.2(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 84.9%
+- 主题集中度: 70.0%
+- Flesch可读性指数: 61.46%
+- Flesch-Kincaid等级: 9.2
+- 关键词匹配度: 4.8%
+【生成统计】
+- 生成成功率: 11/21=52.4%
+- 新增词汇: 10
+- 生成效率: '10/346=2.89%' | 255/450=56.67% | 内存占用: 10394MB
+- 覆盖率: 255/1936=13.17%
+【Article #11生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about lemonade stand success
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: occasional, certainly, moreover, nevertheless, rarely, hence, similarly, consequently, indeed, occasionally, regularly, generally, likewise, numerous, extremely, commonly, nonetheless, whereas, typically, fairly 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "Ice cubes clinked in our pitcher as the first customer walked up... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.4
+- 语法错误: 1.4
+- 上下文一致性: 80.9%
+- 主题集中度: 52.8%
+- 关键词匹配: 32.7%
+- 可读性: 69.2%
+- Flesch-Kincaid等级: 7.7
+全部文章平均值:
+- 平均句长: 10.2
+- 语法错误: 1.4
+- 上下文一致性: 49.9%
+- 主题集中度: 30.6%
+- 关键词匹配: 17.6%
+- 可读性: 40.6%
+- Flesch-Kincaid等级: 5.1
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 1次
+- lemonade stand success: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 1次
+- broken window mystery: 1次
+- lemonade stand success: 1次
+【主题类型统计】
+成功主题覆盖率: 11/13种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=16.44 标准差=3.66 (范围[10.17-23.40])
+- grammar_errors: 均值=2.23 标准差=3.17 (范围[1.00-13.00])
+- coherence: 均值=80.61 标准差=3.33 (范围[74.91-86.57])
+- theme_focus: 均值=49.37 标准差=19.71 (范围[5.07-69.97])
+- flesch: 均值=65.64 标准差=14.03 (范围[30.80-84.88])
+- fkgl: 均值=8.25 标准差=2.68 (范围[4.40-14.80])
+- keyword_score: 均值=28.36 标准差=29.06 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 11:55:55
+【当前文章质量】
+- 平均句长: 20.2(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 81.3%
+- 主题集中度: 58.7%
+- Flesch可读性指数: 50.97%
+- Flesch-Kincaid等级: 11.2
+- 关键词匹配度: 4.8%
+【生成统计】
+- 生成成功率: 12/22=54.5%
+- 新增词汇: 22
+- 生成效率: '22/343=6.41%' | 277/483=57.35% | 内存占用: 10391MB
+- 覆盖率: 277/1936=14.31%
+【Article #12生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about backyard camping
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: occasional, certainly, frequently, moreover, obviously, nevertheless, rarely, hence, similarly, indeed, consequently, occasionally, regularly, generally, likewise, numerous, extremely, commonly, typically, fairly 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "My marshmallow caught fire when I held it too close to the flame... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.7
+- 语法错误: 1.3
+- 上下文一致性: 80.9%
+- 主题集中度: 53.3%
+- 关键词匹配: 30.4%
+- 可读性: 67.7%
+- Flesch-Kincaid等级: 8.0
+全部文章平均值:
+- 平均句长: 10.6
+- 语法错误: 1.4
+- 上下文一致性: 51.3%
+- 主题集中度: 31.8%
+- 关键词匹配: 17.0%
+- 可读性: 41.1%
+- Flesch-Kincaid等级: 5.4
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 1次
+- lemonade stand success: 1次
+- backyard camping: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 1次
+- broken window mystery: 1次
+- lemonade stand success: 1次
+- backyard camping: 1次
+【主题类型统计】
+成功主题覆盖率: 12/14种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=16.71 标准差=3.66 (范围[10.17-23.40])
+- grammar_errors: 均值=2.14 标准差=3.07 (范围[1.00-13.00])
+- coherence: 均值=80.66 标准差=3.21 (范围[74.91-86.57])
+- theme_focus: 均值=50.03 标准差=19.15 (范围[5.07-69.97])
+- flesch: 均值=64.59 标准差=14.04 (范围[30.80-84.88])
+- fkgl: 均值=8.46 标准差=2.70 (范围[4.40-14.80])
+- keyword_score: 均值=26.67 标准差=28.65 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 12:39:50
+【当前文章质量】
+- 平均句长: 24.6(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 85.2%
+- 主题集中度: 5.7%
+- Flesch可读性指数: 71.89%
+- Flesch-Kincaid等级: 9.3
+- 关键词匹配度: 5.0%
+【生成统计】
+- 生成成功率: 13/24=54.2%
+- 新增词汇: 18
+- 生成效率: '18/344=5.23%' | 295/514=57.39% | 内存占用: 10393MB
+- 覆盖率: 295/1936=15.24%
+【Article #13生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about vegetable harvest
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: certainly, frequently, obviously, nevertheless, rarely, hence, similarly, indeed, consequently, occasionally, regularly, generally, likewise, ought, extremely, nonetheless, whereas, surely, typically, fairly 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "Red juice squirted when I pulled the biggest tomato off the vine... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 17.3
+- 语法错误: 1.3
+- 上下文一致性: 81.3%
+- 主题集中度: 49.7%
+- 关键词匹配: 28.4%
+- 可读性: 68.0%
+- Flesch-Kincaid等级: 8.1
+全部文章平均值:
+- 平均句长: 10.8
+- 语法错误: 1.3
+- 上下文一致性: 50.6%
+- 主题集中度: 29.4%
+- 关键词匹配: 15.8%
+- 可读性: 40.7%
+- Flesch-Kincaid等级: 5.3
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 1次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 1次
+- broken window mystery: 1次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+【主题类型统计】
+成功主题覆盖率: 13/15种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=17.23 标准差=4.04 (范围[10.17-24.57])
+- grammar_errors: 均值=2.07 标准差=2.98 (范围[1.00-13.00])
+- coherence: 均值=80.96 标准差=3.30 (范围[74.91-86.57])
+- theme_focus: 均值=47.08 标准差=21.55 (范围[5.07-69.97])
+- flesch: 均值=65.08 标准差=13.68 (范围[30.80-84.88])
+- fkgl: 均值=8.52 标准差=2.61 (范围[4.40-14.80])
+- keyword_score: 均值=25.23 标准差=28.21 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 13:24:19
+【当前文章质量】
+- 平均句长: 16.4(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 78.8%
+- 主题集中度: 69.8%
+- Flesch可读性指数: 71.75%
+- Flesch-Kincaid等级: 7.3
+- 关键词匹配度: 5.0%
+【生成统计】
+- 生成成功率: 14/26=53.8%
+- 新增词汇: 20
+- 生成效率: '20/327=6.12%' | 315/559=56.35% | 内存占用: 10393MB
+- 覆盖率: 315/1936=16.27%
+【Article #14生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about cookie baking time
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: certainly, frequently, moreover, obviously, rarely, hence, similarly, fairly, indeed, consequently, occasionally, regularly, generally, likewise, extremely, commonly, nonetheless, surely, typically, whereas 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "Flour flew everywhere when I opened the oven door too fast... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 17.2
+- 语法错误: 1.3
+- 上下文一致性: 81.1%
+- 主题集中度: 51.1%
+- 关键词匹配: 26.7%
+- 可读性: 68.3%
+- Flesch-Kincaid等级: 8.1
+全部文章平均值:
+- 平均句长: 10.6
+- 语法错误: 1.2
+- 上下文一致性: 49.7%
+- 主题集中度: 29.8%
+- 关键词匹配: 14.7%
+- 可读性: 40.3%
+- Flesch-Kincaid等级: 5.2
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 1次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 1次
+- broken window mystery: 1次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=17.18 标准差=3.92 (范围[10.17-24.57])
+- grammar_errors: 均值=2.00 标准差=2.89 (范围[1.00-13.00])
+- coherence: 均值=80.83 标准差=3.24 (范围[74.91-86.57])
+- theme_focus: 均值=48.50 标准差=21.58 (范围[5.07-69.97])
+- flesch: 均值=65.50 标准差=13.35 (范围[30.80-84.88])
+- fkgl: 均值=8.44 标准差=2.55 (范围[4.40-14.80])
+- keyword_score: 均值=23.96 标准差=27.75 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 14:24:53
+【当前文章质量】
+- 平均句长: 10.2(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 76.4%
+- 主题集中度: 70.1%
+- Flesch可读性指数: 77.33%
+- Flesch-Kincaid等级: 5.2
+- 关键词匹配度: 5.0%
+【生成统计】
+- 生成成功率: 15/29=51.7%
+- 新增词汇: 12
+- 生成效率: '12/327=3.67%' | 327/594=55.05% | 内存占用: 10395MB
+- 覆盖率: 327/1936=16.89%
+【Article #15生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about hidden treehouse note
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: certainly, frequently, moreover, obviously, nevertheless, rarely, hence, similarly, fairly, consequently, indeed, occasionally, regularly, generally, likewise, ought, extremely, nonetheless, surely, whereas 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "Under the floorboard, I found a folded paper with messy writing... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.8
+- 语法错误: 1.3
+- 上下文一致性: 80.8%
+- 主题集中度: 52.4%
+- 关键词匹配: 25.3%
+- 可读性: 68.9%
+- Flesch-Kincaid等级: 7.9
+全部文章平均值:
+- 平均句长: 9.8
+- 语法错误: 1.1
+- 上下文一致性: 47.2%
+- 主题集中度: 29.2%
+- 关键词匹配: 13.4%
+- 可读性: 38.8%
+- Flesch-Kincaid等级: 4.8
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 2次
+- broken window mystery: 1次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- hidden treehouse note: 2次
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+【参数离散度分析】
+- avg_length: 均值=16.77 标准差=4.14 (范围[10.17-24.57])
+- grammar_errors: 均值=1.94 标准差=2.82 (范围[1.00-13.00])
+- coherence: 均值=80.57 标准差=3.31 (范围[74.91-86.57])
+- theme_focus: 均值=49.77 标准差=21.54 (范围[5.07-70.14])
+- flesch: 均值=66.19 标准差=13.24 (范围[30.80-84.88])
+- fkgl: 均值=8.25 标准差=2.59 (范围[4.40-14.80])
+- keyword_score: 均值=22.85 标准差=27.28 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 16:15:37
+【当前文章质量】
+- 平均句长: 13.4(标准7-15)
+- 语法错误数: 3
+- 上下文一致性: 81.4%
+- 主题集中度: 68.3%
+- Flesch可读性指数: 82.34%
+- Flesch-Kincaid等级: 5.3
+- 关键词匹配度: 4.8%
+【生成统计】
+- 生成成功率: 16/35=45.7%
+- 新增词汇: 7
+- 生成效率: '7/228=3.07%' | 334/612=54.58% | 内存占用: 10408MB
+- 覆盖率: 334/1936=17.25%
+【Article #16生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about family hiking trip
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: certainly, frequently, moreover, obviously, nevertheless, rarely, similarly, indeed, consequently, occasionally, regularly, generally, likewise, ought, extremely, commonly, nonetheless, surely, typically, fairly 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "My shoe slipped on a wet rock halfway up the hill trail... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.6
+- 语法错误: 1.4
+- 上下文一致性: 80.8%
+- 主题集中度: 53.4%
+- 关键词匹配: 24.0%
+- 可读性: 69.7%
+- Flesch-Kincaid等级: 7.7
+全部文章平均值:
+- 平均句长: 9.3
+- 语法错误: 1.1
+- 上下文一致性: 43.9%
+- 主题集中度: 28.1%
+- 关键词匹配: 11.4%
+- 可读性: 35.3%
+- Flesch-Kincaid等级: 4.6
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+【参数离散度分析】
+- avg_length: 均值=17.04 标准差=4.44 (范围[10.17-25.29])
+- grammar_errors: 均值=2.00 标准差=2.68 (范围[1.00-13.00])
+- coherence: 均值=80.94 标准差=3.43 (范围[74.91-86.84])
+- theme_focus: 均值=51.77 标准差=21.19 (范围[5.07-70.14])
+- flesch: 均值=65.08 标准差=15.58 (范围[28.88-84.88])
+- fkgl: 均值=8.48 标准差=3.03 (范围[4.40-15.50])
+- keyword_score: 均值=20.94 标准差=26.40 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 17:29:00
+【当前文章质量】
+- 平均句长: 18.0(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 85.4%
+- 主题集中度: 69.5%
+- Flesch可读性指数: 61.67%
+- Flesch-Kincaid等级: 9.1
+- 关键词匹配度: 4.8%
+【生成统计】
+- 生成成功率: 17/39=43.6%
+- 新增词汇: 6
+- 生成效率: '6/342=1.75%' | 340/633=53.71% | 内存占用: 10408MB
+- 覆盖率: 340/1936=17.56%
+【Article #17生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about lemonade stand success
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: certainly, frequently, moreover, nevertheless, rarely, hence, similarly, fairly, consequently, indeed, occasionally, regularly, generally, likewise, extremely, commonly, nonetheless, surely, typically, whereas 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "Ice cubes clinked in our pitcher as the first customer walked up... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.6
+- 语法错误: 1.4
+- 上下文一致性: 81.1%
+- 主题集中度: 54.3%
+- 关键词匹配: 22.9%
+- 可读性: 69.3%
+- Flesch-Kincaid等级: 7.8
+全部文章平均值:
+- 平均句长: 8.8
+- 语法错误: 1.0
+- 上下文一致性: 41.6%
+- 主题集中度: 27.0%
+- 关键词匹配: 10.3%
+- 可读性: 33.3%
+- Flesch-Kincaid等级: 4.4
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+【参数离散度分析】
+- avg_length: 均值=17.09 标准差=4.33 (范围[10.17-25.29])
+- grammar_errors: 均值=1.95 标准差=2.62 (范围[1.00-13.00])
+- coherence: 均值=81.17 标准差=3.49 (范围[74.91-86.84])
+- theme_focus: 均值=52.65 标准差=21.01 (范围[5.07-70.14])
+- flesch: 均值=64.91 标准差=15.20 (范围[28.88-84.88])
+- fkgl: 均值=8.51 标准差=2.95 (范围[4.40-15.50])
+- keyword_score: 均值=20.13 标准差=25.97 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 18:24:55
+【当前文章质量】
+- 平均句长: 13.1(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 77.4%
+- 主题集中度: 55.5%
+- Flesch可读性指数: 83.56%
+- Flesch-Kincaid等级: 4.9
+- 关键词匹配度: 9.1%
+【生成统计】
+- 生成成功率: 18/42=42.9%
+- 新增词汇: 9
+- 生成效率: '9/313=2.88%' | 349/658=53.04% | 内存占用: 10407MB
+- 覆盖率: 349/1936=18.03%
+【Article #18生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about fishing trip surprise
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: certainly, frequently, moreover, obviously, nevertheless, rarely, hence, similarly, fairly, indeed, consequently, occasionally, regularly, generally, likewise, extremely, commonly, nonetheless, typically, whereas 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "My fishing rod bent nearly double when something big tugged... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.4
+- 语法错误: 1.3
+- 上下文一致性: 80.9%
+- 主题集中度: 54.4%
+- 关键词匹配: 22.1%
+- 可读性: 70.1%
+- Flesch-Kincaid等级: 7.6
+全部文章平均值:
+- 平均句长: 8.4
+- 语法错误: 1.0
+- 上下文一致性: 40.5%
+- 主题集中度: 26.4%
+- 关键词匹配: 9.8%
+- 可读性: 32.9%
+- Flesch-Kincaid等级: 4.2
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- fishing trip surprise: 2次
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- neighborhood clean-up: 1次
+【参数离散度分析】
+- avg_length: 均值=16.90 标准差=4.31 (范围[10.17-25.29])
+- grammar_errors: 均值=1.90 标准差=2.56 (范围[1.00-13.00])
+- coherence: 均值=80.98 标准差=3.50 (范围[74.91-86.84])
+- theme_focus: 均值=52.79 标准差=20.52 (范围[5.07-70.14])
+- flesch: 均值=65.80 标准差=15.36 (范围[28.88-84.88])
+- fkgl: 均值=8.34 标准差=2.98 (范围[4.40-15.50])
+- keyword_score: 均值=19.61 标准差=25.45 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 19:18:55
+【当前文章质量】
+- 平均句长: 18.9(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 84.0%
+- 主题集中度: 69.0%
+- Flesch可读性指数: 86.13%
+- Flesch-Kincaid等级: 5.9
+- 关键词匹配度: 4.8%
+【生成统计】
+- 生成成功率: 19/45=42.2%
+- 新增词汇: 5
+- 生成效率: '5/340=1.47%' | 354/675=52.44% | 内存占用: 10408MB
+- 覆盖率: 354/1936=18.29%
+【Article #19生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about rainy day fort building
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: certainly, moreover, obviously, nevertheless, rarely, hence, similarly, indeed, consequently, occasionally, regularly, generally, likewise, ought, extremely, commonly, whereas, surely, typically, fairly 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "Thunder boomed outside our blanket fort in the living room... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.6
+- 语法错误: 1.3
+- 上下文一致性: 81.0%
+- 主题集中度: 55.1%
+- 关键词匹配: 21.2%
+- 可读性: 70.9%
+- Flesch-Kincaid等级: 7.5
+全部文章平均值:
+- 平均句长: 8.3
+- 语法错误: 0.9
+- 上下文一致性: 39.7%
+- 主题集中度: 26.2%
+- 关键词匹配: 9.3%
+- 可读性: 32.6%
+- Flesch-Kincaid等级: 4.0
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.99 标准差=4.23 (范围[10.17-25.29])
+- grammar_errors: 均值=1.86 标准差=2.51 (范围[1.00-13.00])
+- coherence: 均值=81.12 标准差=3.47 (范围[74.91-86.84])
+- theme_focus: 均值=53.53 标准差=20.33 (范围[5.07-70.14])
+- flesch: 均值=66.72 标准差=15.59 (范围[28.88-86.13])
+- fkgl: 均值=8.23 标准差=2.96 (范围[4.40-15.50])
+- keyword_score: 均值=18.93 标准差=25.06 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 19:36:45
+【当前文章质量】
+- 平均句长: 15.8(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 82.7%
+- 主题集中度: 5.8%
+- Flesch可读性指数: 72.36%
+- Flesch-Kincaid等级: 7.1
+- 关键词匹配度: 4.8%
+【生成统计】
+- 生成成功率: 20/46=43.5%
+- 新增词汇: 6
+- 生成效率: '6/348=1.72%' | 360/693=51.95% | 内存占用: 10408MB
+- 覆盖率: 360/1936=18.60%
+【Article #20生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about vegetable harvest
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: certainly, frequently, moreover, obviously, nevertheless, rarely, hence, similarly, fairly, consequently, indeed, occasionally, regularly, generally, likewise, extremely, commonly, nonetheless, typically, whereas 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "Red juice squirted when I pulled the biggest tomato off the vine... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.5
+- 语法错误: 1.3
+- 上下文一致性: 81.1%
+- 主题集中度: 52.7%
+- 关键词匹配: 20.4%
+- 可读性: 71.0%
+- Flesch-Kincaid等级: 7.5
+全部文章平均值:
+- 平均句长: 8.5
+- 语法错误: 0.9
+- 上下文一致性: 40.6%
+- 主题集中度: 25.7%
+- 关键词匹配: 9.2%
+- 可读性: 33.5%
+- Flesch-Kincaid等级: 4.1
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.94 标准差=4.15 (范围[10.17-25.29])
+- grammar_errors: 均值=1.83 标准差=2.46 (范围[1.00-13.00])
+- coherence: 均值=81.19 标准差=3.41 (范围[74.91-86.84])
+- theme_focus: 均值=51.45 标准差=22.14 (范围[5.07-70.14])
+- flesch: 均值=66.97 标准差=15.29 (范围[28.88-86.13])
+- fkgl: 均值=8.18 标准差=2.90 (范围[4.40-15.50])
+- keyword_score: 均值=18.32 标准差=24.68 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 19:54:36
+【当前文章质量】
+- 平均句长: 17.6(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 84.5%
+- 主题集中度: 69.6%
+- Flesch可读性指数: 61.97%
+- Flesch-Kincaid等级: 9.0
+- 关键词匹配度: 4.8%
+【生成统计】
+- 生成成功率: 21/47=44.7%
+- 新增词汇: 12
+- 生成效率: '12/352=3.41%' | 372/734=50.68% | 内存占用: 10409MB
+- 覆盖率: 372/1936=19.21%
+【Article #21生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about bicycle parade fun
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: certainly, frequently, moreover, obviously, nevertheless, rarely, similarly, consequently, indeed, occasionally, regularly, generally, likewise, extremely, commonly, nonetheless, whereas, surely, typically, fairly 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "Streamers flew off my bike handlebars when I pedaled faster... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.6
+- 语法错误: 1.3
+- 上下文一致性: 81.3%
+- 主题集中度: 53.5%
+- 关键词匹配: 19.6%
+- 可读性: 70.5%
+- Flesch-Kincaid等级: 7.6
+全部文章平均值:
+- 平均句长: 8.7
+- 语法错误: 0.9
+- 上下文一致性: 41.5%
+- 主题集中度: 26.7%
+- 关键词匹配: 9.1%
+- 可读性: 34.1%
+- Flesch-Kincaid等级: 4.2
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 1次
+- bicycle parade fun: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 2次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 15/16种
+高频成功主题(top5):
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.97 标准差=4.06 (范围[10.17-25.29])
+- grammar_errors: 均值=1.79 标准差=2.41 (范围[1.00-13.00])
+- coherence: 均值=81.33 标准差=3.40 (范围[74.91-86.84])
+- theme_focus: 均值=52.21 标准差=21.97 (范围[5.07-70.14])
+- flesch: 均值=66.76 标准差=15.00 (范围[28.88-86.13])
+- fkgl: 均值=8.21 标准差=2.84 (范围[4.40-15.50])
+- keyword_score: 均值=17.75 标准差=24.31 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 21:11:17
+【当前文章质量】
+- 平均句长: 17.5(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 86.1%
+- 主题集中度: 70.0%
+- Flesch可读性指数: 78.08%
+- Flesch-Kincaid等级: 7.0
+- 关键词匹配度: 5.0%
+【生成统计】
+- 生成成功率: 22/51=43.1%
+- 新增词汇: 4
+- 生成效率: '4/333=1.20%' | 376/757=49.67% | 内存占用: 10409MB
+- 覆盖率: 376/1936=19.42%
+【Article #22生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about cookie baking time
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: certainly, frequently, moreover, obviously, nevertheless, rarely, hence, similarly, fairly, consequently, indeed, occasionally, regularly, generally, likewise, extremely, commonly, nonetheless, typically, whereas 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "Flour flew everywhere when I opened the oven door too fast... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.6
+- 语法错误: 1.3
+- 上下文一致性: 81.5%
+- 主题集中度: 54.2%
+- 关键词匹配: 19.0%
+- 可读性: 70.9%
+- Flesch-Kincaid等级: 7.6
+全部文章平均值:
+- 平均句长: 8.3
+- 语法错误: 0.9
+- 上下文一致性: 40.0%
+- 主题集中度: 25.9%
+- 关键词匹配: 8.5%
+- 可读性: 32.9%
+- Flesch-Kincaid等级: 4.0
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 2次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+【主题类型统计】
+成功主题覆盖率: 15/16种
+高频成功主题(top5):
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.99 标准差=3.98 (范围[10.17-25.29])
+- grammar_errors: 均值=1.76 标准差=2.37 (范围[1.00-13.00])
+- coherence: 均值=81.52 标准差=3.46 (范围[74.91-86.84])
+- theme_focus: 均值=52.92 标准差=21.81 (范围[5.07-70.14])
+- flesch: 均值=67.21 标准差=14.87 (范围[28.88-86.13])
+- fkgl: 均值=8.16 标准差=2.80 (范围[4.40-15.50])
+- keyword_score: 均值=17.24 标准差=23.95 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 22:06:48
+【当前文章质量】
+- 平均句长: 12.8(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 83.4%
+- 主题集中度: 55.2%
+- Flesch可读性指数: 75.4%
+- Flesch-Kincaid等级: 5.9
+- 关键词匹配度: 13.0%
+【生成统计】
+- 生成成功率: 23/54=42.6%
+- 新增词汇: 3
+- 生成效率: '3/332=0.90%' | 379/775=48.90% | 内存占用: 10410MB
+- 覆盖率: 379/1936=19.58%
+【Article #23生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about lost library book hunt
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: certainly, frequently, moreover, obviously, nevertheless, rarely, hence, similarly, fairly, indeed, consequently, occasionally, regularly, generally, likewise, extremely, nonetheless, surely, typically, whereas 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "My library book wasn't on the shelf where I left it yesterday... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.5
+- 语法错误: 1.3
+- 上下文一致性: 81.6%
+- 主题集中度: 54.3%
+- 关键词匹配: 18.7%
+- 可读性: 71.1%
+- Flesch-Kincaid等级: 7.5
+全部文章平均值:
+- 平均句长: 8.4
+- 语法错误: 0.9
+- 上下文一致性: 40.8%
+- 主题集中度: 26.4%
+- 关键词匹配: 8.4%
+- 可读性: 32.6%
+- Flesch-Kincaid等级: 4.2
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+- lost library book hunt: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- lost library book hunt: 1次
+【主题类型统计】
+成功主题覆盖率: 16/17种
+高频成功主题(top5):
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.83 标准差=3.91 (范围[10.17-25.29])
+- grammar_errors: 均值=1.85 标准差=2.37 (范围[1.00-13.00])
+- coherence: 均值=81.59 标准差=3.35 (范围[74.91-86.84])
+- theme_focus: 均值=52.71 标准差=21.04 (范围[5.07-70.14])
+- flesch: 均值=65.28 标准差=18.38 (范围[6.95-86.13])
+- fkgl: 均值=8.43 标准差=3.28 (范围[4.40-17.70])
+- keyword_score: 均值=16.84 标准差=23.09 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 22:24:30
+【当前文章质量】
+- 平均句长: 8.4(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 79.2%
+- 主题集中度: 70.5%
+- Flesch可读性指数: 87.82%
+- Flesch-Kincaid等级: 3.2
+- 关键词匹配度: 5.0%
+【生成统计】
+- 生成成功率: 24/55=43.6%
+- 新增词汇: 3
+- 生成效率: '3/151=1.99%' | 382/786=48.60% | 内存占用: 10415MB
+- 覆盖率: 382/1936=19.73%
+【Article #24生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about hidden treehouse note
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: certainly, moreover, obviously, nevertheless, rarely, hence, similarly, fairly, indeed, consequently, occasionally, generally, likewise, extremely, ought, commonly, nonetheless, surely, typically, whereas 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "Under the floorboard, I found a folded paper with messy writing... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.1
+- 语法错误: 1.2
+- 上下文一致性: 81.5%
+- 主题集中度: 54.9%
+- 关键词匹配: 18.1%
+- 可读性: 71.8%
+- Flesch-Kincaid等级: 7.3
+全部文章平均值:
+- 平均句长: 8.4
+- 语法错误: 0.9
+- 上下文一致性: 41.5%
+- 主题集中度: 27.2%
+- 关键词匹配: 8.4%
+- 可读性: 33.6%
+- Flesch-Kincaid等级: 4.2
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+- lost library book hunt: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 3次
+- broken window mystery: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- lost library book hunt: 1次
+【主题类型统计】
+成功主题覆盖率: 16/17种
+高频成功主题(top5):
+- hidden treehouse note: 3次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family hiking trip: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.53 标准差=4.15 (范围[8.39-25.29])
+- grammar_errors: 均值=1.82 标准差=2.33 (范围[1.00-13.00])
+- coherence: 均值=81.51 标准差=3.32 (范围[74.91-86.84])
+- theme_focus: 均值=53.35 标准差=20.92 (范围[5.07-70.49])
+- flesch: 均值=66.09 标准差=18.53 (范围[6.95-87.82])
+- fkgl: 均值=8.25 标准差=3.36 (范围[3.20-17.70])
+- keyword_score: 均值=16.41 标准差=22.78 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-17 00:12:14
+【当前文章质量】
+- 平均句长: 15.3(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 82.2%
+- 主题集中度: 4.3%
+- Flesch可读性指数: 64.41%
+- Flesch-Kincaid等级: 8.1
+- 关键词匹配度: 0.0%
+【生成统计】
+- 生成成功率: 25/60=41.7%
+- 新增词汇: 9
+- 生成效率: '9/337=2.67%' | 391/814=48.03% | 内存占用: 10415MB
+- 覆盖率: 391/1936=20.20%
+【Article #25生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about family hiking trip
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: certainly, frequently, moreover, obviously, nevertheless, rarely, hence, similarly, consequently, indeed, occasionally, regularly, generally, likewise, ought, commonly, nonetheless, surely, typically, whereas 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "My shoe slipped on a wet rock halfway up the hill trail... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.1
+- 语法错误: 1.2
+- 上下文一致性: 81.5%
+- 主题集中度: 52.9%
+- 关键词匹配: 17.4%
+- 可读性: 71.5%
+- Flesch-Kincaid等级: 7.3
+全部文章平均值:
+- 平均句长: 8.4
+- 语法错误: 0.9
+- 上下文一致性: 40.8%
+- 主题集中度: 26.1%
+- 关键词匹配: 7.7%
+- 可读性: 32.5%
+- Flesch-Kincaid等级: 4.2
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+- lost library book hunt: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 3次
+- broken window mystery: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- lost library book hunt: 1次
+【主题类型统计】
+成功主题覆盖率: 16/17种
+高频成功主题(top5):
+- family hiking trip: 3次
+- hidden treehouse note: 3次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.79 标准差=4.35 (范围[8.39-25.79])
+- grammar_errors: 均值=1.77 标准差=2.26 (范围[1.00-13.00])
+- coherence: 均值=81.65 标准差=3.27 (范围[74.91-86.84])
+- theme_focus: 均值=52.24 标准差=22.27 (范围[4.28-70.49])
+- flesch: 均值=65.06 标准差=18.65 (范围[6.95-87.82])
+- fkgl: 均值=8.45 标准差=3.44 (范围[3.20-17.70])
+- keyword_score: 均值=15.47 标准差=22.30 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-17 03:54:24
+【当前文章质量】
+- 平均句长: 12.4(标准7-15)
+- 语法错误数: 2
+- 上下文一致性: 79.3%
+- 主题集中度: 69.0%
+- Flesch可读性指数: 92.73%
+- Flesch-Kincaid等级: 3.4
+- 关键词匹配度: 4.8%
+【生成统计】
+- 生成成功率: 26/70=37.1%
+- 新增词汇: 6
+- 生成效率: '6/323=1.86%' | 397/841=47.21% | 内存占用: 10286MB
+- 覆盖率: 397/1936=20.51%
+【Article #26生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about rainy day fort building
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: certainly, moreover, obviously, nevertheless, rarely, similarly, indeed, consequently, occasionally, regularly, generally, likewise, ought, extremely, commonly, nonetheless, whereas, surely, typically, fairly 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "Thunder boomed outside our blanket fort in the living room... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.0
+- 语法错误: 1.3
+- 上下文一致性: 81.4%
+- 主题集中度: 53.5%
+- 关键词匹配: 16.9%
+- 可读性: 72.3%
+- Flesch-Kincaid等级: 7.2
+全部文章平均值:
+- 平均句长: 7.4
+- 语法错误: 0.8
+- 上下文一致性: 36.1%
+- 主题集中度: 23.4%
+- 关键词匹配: 6.7%
+- 可读性: 29.2%
+- Flesch-Kincaid等级: 3.7
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 3次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+- lost library book hunt: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 3次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 3次
+- broken window mystery: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- lost library book hunt: 1次
+【主题类型统计】
+成功主题覆盖率: 16/17种
+高频成功主题(top5):
+- rainy day fort building: 3次
+- family hiking trip: 3次
+- hidden treehouse note: 3次
+- fishing trip surprise: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.65 标准差=4.35 (范围[8.39-25.79])
+- grammar_errors: 均值=1.77 标准差=2.22 (范围[1.00-13.00])
+- coherence: 均值=81.57 标准差=3.24 (范围[74.91-86.84])
+- theme_focus: 均值=52.78 标准差=22.11 (范围[4.28-70.49])
+- flesch: 均值=65.95 标准差=18.99 (范围[6.95-92.73])
+- fkgl: 均值=8.29 标准差=3.50 (范围[3.20-17.70])
+- keyword_score: 均值=15.13 标准差=22.02 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-17 04:15:43
+【当前文章质量】
+- 平均句长: 14.2(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 84.2%
+- 主题集中度: 5.7%
+- Flesch可读性指数: 82.34%
+- Flesch-Kincaid等级: 5.3
+- 关键词匹配度: 0.0%
+【生成统计】
+- 生成成功率: 27/71=38.0%
+- 新增词汇: 3
+- 生成效率: '3/342=0.88%' | 400/862=46.40% | 内存占用: 10286MB
+- 覆盖率: 400/1936=20.66%
+【Article #27生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about vegetable harvest
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: certainly, frequently, moreover, obviously, nevertheless, rarely, similarly, indeed, consequently, occasionally, regularly, generally, likewise, ought, extremely, commonly, nonetheless, surely, typically, fairly 
+                2. Flesch-Kincaid ≤9 & 70% top-5000 words
+            [EXAMPLE]
+            "Red juice squirted when I pulled the biggest tomato off the vine... "
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 15.9
+- 语法错误: 1.3
+- 上下文一致性: 81.5%
+- 主题集中度: 51.8%
+- 关键词匹配: 16.3%
+- 可读性: 72.7%
+- Flesch-Kincaid等级: 7.1
+全部文章平均值:
+- 平均句长: 7.5
+- 语法错误: 0.8
+- 上下文一致性: 36.8%
+- 主题集中度: 23.1%
+- 关键词匹配: 6.6%
+- 可读性: 30.0%
+- Flesch-Kincaid等级: 3.7
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 3次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 3次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+- lost library book hunt: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 3次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 3次
+- broken window mystery: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 3次
+- cookie baking time: 2次
+- lost library book hunt: 1次
+【主题类型统计】
+成功主题覆盖率: 16/17种
+高频成功主题(top5):
+- rainy day fort building: 3次
+- family hiking trip: 3次
+- hidden treehouse note: 3次
+- vegetable harvest: 3次
+- fishing trip surprise: 2次
+【参数离散度分析】
+- avg_length: 均值=16.58 标准差=4.30 (范围[8.39-25.79])
+- grammar_errors: 均值=1.75 标准差=2.19 (范围[1.00-13.00])
+- coherence: 均值=81.65 标准差=3.22 (范围[74.91-86.84])
+- theme_focus: 均值=51.31 标准差=23.25 (范围[4.28-70.49])
+- flesch: 均值=66.46 标准差=18.91 (范围[6.95-92.73])
+- fkgl: 均值=8.19 标准差=3.48 (范围[3.20-17.70])
+- keyword_score: 均值=14.65 标准差=21.83 (范围[0.00-90.91])
+
+

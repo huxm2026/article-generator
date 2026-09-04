@@ -1,0 +1,914 @@
+生成时间: 2025-06-05 03:43:29
+【当前文章质量】
+- 平均句长: 22.3(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 41.8%
+- 主题集中度: 22.4%
+- Flesch可读性指数: 57.3%
+- Flesch-Kincaid等级: 10.8
+- 关键词匹配度: 31.0%
+【生成统计】
+- 生成成功率: 1/1=100.0%
+- 新增词汇: 104
+- 生成效率: '104/244=42.62%' | 104/217=47.93% | 内存占用: 7131MB
+- 覆盖率: 104/897=11.59%
+【Article #1生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about school project
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: school, paper, draw, color, friend, work, kind, although, why, though, piece, well, so, believe, fact, sense, experience, feeling, sort 
+                2. Flesch-Kincaid ≤4 & 85% top-1000 words
+            [EXAMPLE]
+            "My friend hands me blue paper... (story text)"
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 22.3
+- 语法错误: 0.0
+- 上下文一致性: 41.8%
+- 主题集中度: 22.4%
+- 关键词匹配: 31.0%
+- 可读性: 57.3%
+- Flesch-Kincaid等级: 10.8
+全部文章平均值:
+- 平均句长: 22.3
+- 语法错误: 0.0
+- 上下文一致性: 41.8%
+- 主题集中度: 22.4%
+- 关键词匹配: 31.0%
+- 可读性: 57.3%
+- Flesch-Kincaid等级: 10.8
+【主题类型统计】
+成功文章主题分布:
+- school project: 1次
+全部文章主题分布:
+- school project: 1次
+【主题类型统计】
+成功主题覆盖率: 1/1种
+高频成功主题(top5):
+- school project: 1次
+【参数离散度分析】
+- avg_length: 数据不足(需至少2次生成)
+- grammar_errors: 数据不足(需至少2次生成)
+- coherence: 数据不足(需至少2次生成)
+- theme_focus: 数据不足(需至少2次生成)
+- flesch: 数据不足(需至少2次生成)
+- fkgl: 数据不足(需至少2次生成)
+- keyword_score: 数据不足(需至少2次生成)
+
+
+生成时间: 2025-06-05 03:54:39
+【当前文章质量】
+- 平均句长: 12.6(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 29.7%
+- 主题集中度: 14.2%
+- Flesch可读性指数: 84.07%
+- Flesch-Kincaid等级: 4.7
+- 关键词匹配度: 20.7%
+【生成统计】
+- 生成成功率: 2/2=100.0%
+- 新增词汇: 81
+- 生成效率: '81/202=40.10%' | 185/388=47.68% | 内存占用: 7141MB
+- 覆盖率: 185/897=20.62%
+【Article #2生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about bedtime fear
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: bed, dark, night, sound, call, light, blue, water, natural, knowledge, according, red, white, nature, information, black, oil, data, source 
+                2. Flesch-Kincaid ≤4 & 85% top-1000 words
+            [EXAMPLE]
+            "A strange sound comes from the dark... (story text)"
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 17.4
+- 语法错误: 0.0
+- 上下文一致性: 35.8%
+- 主题集中度: 18.4%
+- 关键词匹配: 25.9%
+- 可读性: 70.7%
+- Flesch-Kincaid等级: 7.8
+全部文章平均值:
+- 平均句长: 17.4
+- 语法错误: 0.0
+- 上下文一致性: 35.8%
+- 主题集中度: 18.4%
+- 关键词匹配: 25.9%
+- 可读性: 70.7%
+- Flesch-Kincaid等级: 7.8
+【主题类型统计】
+成功文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+全部文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+【主题类型统计】
+成功主题覆盖率: 2/2种
+高频成功主题(top5):
+- school project: 1次
+- bedtime fear: 1次
+【参数离散度分析】
+- avg_length: 均值=17.45 标准差=4.82 (范围[12.62-22.27])
+- grammar_errors: 均值=0.00 标准差=0.00 (范围[0.00-0.00])
+- coherence: 均值=35.76 标准差=6.06 (范围[29.69-41.82])
+- theme_focus: 均值=18.35 标准差=4.10 (范围[14.25-22.45])
+- flesch: 均值=70.69 标准差=13.38 (范围[57.30-84.07])
+- fkgl: 均值=7.75 标准差=3.05 (范围[4.70-10.80])
+- keyword_score: 均值=25.86 标准差=5.17 (范围[20.69-31.03])
+
+
+生成时间: 2025-06-05 04:05:39
+【当前文章质量】
+- 平均句长: 17.2(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 39.2%
+- 主题集中度: 18.7%
+- Flesch可读性指数: 64.71%
+- Flesch-Kincaid等级: 8.0
+- 关键词匹配度: 25.9%
+【生成统计】
+- 生成成功率: 3/3=100.0%
+- 新增词汇: 99
+- 生成效率: '99/341=29.03%' | 284/687=41.34% | 内存占用: 7062MB
+- 覆盖率: 284/897=31.66%
+【Article #3生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about library visit
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: book, read, page, learn, get, probably, actually, always, thought, consider, whether, find, why, understand, reason, likely, want, how, teach 
+                2. Flesch-Kincaid ≤4 & 85% top-1000 words
+            [EXAMPLE]
+            "The book opens with a soft sound... (story text)"
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 17.4
+- 语法错误: 0.0
+- 上下文一致性: 36.9%
+- 主题集中度: 18.5%
+- 关键词匹配: 25.9%
+- 可读性: 68.7%
+- Flesch-Kincaid等级: 7.8
+全部文章平均值:
+- 平均句长: 17.4
+- 语法错误: 0.0
+- 上下文一致性: 36.9%
+- 主题集中度: 18.5%
+- 关键词匹配: 25.9%
+- 可读性: 68.7%
+- Flesch-Kincaid等级: 7.8
+【主题类型统计】
+成功文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+全部文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+【主题类型统计】
+成功主题覆盖率: 3/3种
+高频成功主题(top5):
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+【参数离散度分析】
+- avg_length: 均值=17.38 标准差=3.94 (范围[12.62-22.27])
+- grammar_errors: 均值=0.00 标准差=0.00 (范围[0.00-0.00])
+- coherence: 均值=36.92 标准差=5.22 (范围[29.69-41.82])
+- theme_focus: 均值=18.47 标准差=3.35 (范围[14.25-22.45])
+- flesch: 均值=68.69 标准差=11.29 (范围[57.30-84.07])
+- fkgl: 均值=7.83 标准差=2.49 (范围[4.70-10.80])
+- keyword_score: 均值=25.88 标准差=4.22 (范围[20.69-31.03])
+
+
+生成时间: 2025-06-05 04:16:25
+【当前文章质量】
+- 平均句长: 17.7(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 32.2%
+- 主题集中度: 18.3%
+- Flesch可读性指数: 53.51%
+- Flesch-Kincaid等级: 10.2
+- 关键词匹配度: 25.9%
+【生成统计】
+- 生成成功率: 4/4=100.0%
+- 新增词汇: 76
+- 生成效率: '76/337=22.55%' | 360/980=36.73% | 内存占用: 7072MB
+- 覆盖率: 360/897=40.13%
+【Article #4生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about class pet
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: class, animal, care, water, provide, financial, economic, knowledge, natural, policy, strategy, approach, economy, benefit, nature, information, fund, oil, view 
+                2. Flesch-Kincaid ≤4 & 85% top-1000 words
+            [EXAMPLE]
+            "The small animal looks up with black eyes... (story text)"
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 17.5
+- 语法错误: 0.0
+- 上下文一致性: 35.7%
+- 主题集中度: 18.4%
+- 关键词匹配: 25.9%
+- 可读性: 64.9%
+- Flesch-Kincaid等级: 8.4
+全部文章平均值:
+- 平均句长: 17.5
+- 语法错误: 0.0
+- 上下文一致性: 35.7%
+- 主题集中度: 18.4%
+- 关键词匹配: 25.9%
+- 可读性: 64.9%
+- Flesch-Kincaid等级: 8.4
+【主题类型统计】
+成功文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+全部文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+【主题类型统计】
+成功主题覆盖率: 4/4种
+高频成功主题(top5):
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+【参数离散度分析】
+- avg_length: 均值=17.47 标准差=3.42 (范围[12.62-22.27])
+- grammar_errors: 均值=0.00 标准差=0.00 (范围[0.00-0.00])
+- coherence: 均值=35.74 标准差=4.96 (范围[29.69-41.82])
+- theme_focus: 均值=18.44 标准差=2.90 (范围[14.25-22.45])
+- flesch: 均值=64.90 标准差=11.78 (范围[53.51-84.07])
+- fkgl: 均值=8.43 标准差=2.39 (范围[4.70-10.80])
+- keyword_score: 均值=25.90 标准差=3.66 (范围[20.69-31.03])
+
+
+生成时间: 2025-06-05 04:26:54
+【当前文章质量】
+- 平均句长: 15.7(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 38.4%
+- 主题集中度: 16.1%
+- Flesch可读性指数: 72.46%
+- Flesch-Kincaid等级: 7.1
+- 关键词匹配度: 27.8%
+【生成统计】
+- 生成成功率: 5/5=100.0%
+- 新增词汇: 40
+- 生成效率: '40/327=12.23%' | 400/1238=32.31% | 内存占用: 7077MB
+- 覆盖率: 400/897=44.59%
+【Article #5生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about firefly night
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: catch, dark, watch, blue, white, red, black 
+                2. Flesch-Kincaid ≤4 & 85% top-1000 words
+            [EXAMPLE]
+            "Yellow lights dance in the dark... (story text)"
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 17.1
+- 语法错误: 0.0
+- 上下文一致性: 36.3%
+- 主题集中度: 18.0%
+- 关键词匹配: 26.3%
+- 可读性: 66.4%
+- Flesch-Kincaid等级: 8.2
+全部文章平均值:
+- 平均句长: 17.1
+- 语法错误: 0.0
+- 上下文一致性: 36.3%
+- 主题集中度: 18.0%
+- 关键词匹配: 26.3%
+- 可读性: 66.4%
+- Flesch-Kincaid等级: 8.2
+【主题类型统计】
+成功文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+全部文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+【主题类型统计】
+成功主题覆盖率: 5/5种
+高频成功主题(top5):
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+【参数离散度分析】
+- avg_length: 均值=17.11 标准差=3.14 (范围[12.62-22.27])
+- grammar_errors: 均值=0.00 标准差=0.00 (范围[0.00-0.00])
+- coherence: 均值=36.27 标准差=4.56 (范围[29.69-41.82])
+- theme_focus: 均值=17.96 标准差=2.77 (范围[14.25-22.45])
+- flesch: 均值=66.41 标准差=10.96 (范围[53.51-84.07])
+- fkgl: 均值=8.16 标准差=2.20 (范围[4.70-10.80])
+- keyword_score: 均值=26.27 标准差=3.36 (范围[20.69-31.03])
+
+
+生成时间: 2025-06-05 04:47:47
+【当前文章质量】
+- 平均句长: 15.1(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 24.0%
+- 主题集中度: 13.7%
+- Flesch可读性指数: 81.53%
+- Flesch-Kincaid等级: 5.6
+- 关键词匹配度: 20.7%
+【生成统计】
+- 生成成功率: 6/6=100.0%
+- 新增词汇: 44
+- 生成效率: '44/332=13.25%' | 444/1529=29.04% | 内存占用: 7183MB
+- 覆盖率: 444/897=49.50%
+【Article #6生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about lunch break
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: food, laugh, old, person, provide, computer, father, anyone, service, somebody, maybe, only, someone, network, man, really, information, figure, data 
+                2. Flesch-Kincaid ≤4 & 85% top-1000 words
+            [EXAMPLE]
+            "My friend shares an apple with me... (story text)"
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.8
+- 语法错误: 0.0
+- 上下文一致性: 34.2%
+- 主题集中度: 17.3%
+- 关键词匹配: 25.3%
+- 可读性: 68.9%
+- Flesch-Kincaid等级: 7.7
+全部文章平均值:
+- 平均句长: 16.8
+- 语法错误: 0.0
+- 上下文一致性: 34.2%
+- 主题集中度: 17.3%
+- 关键词匹配: 25.3%
+- 可读性: 68.9%
+- Flesch-Kincaid等级: 7.7
+【主题类型统计】
+成功文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+- lunch break: 1次
+全部文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+- lunch break: 1次
+【主题类型统计】
+成功主题覆盖率: 6/6种
+高频成功主题(top5):
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+【参数离散度分析】
+- avg_length: 均值=16.78 标准差=2.96 (范围[12.62-22.27])
+- grammar_errors: 均值=0.00 标准差=0.00 (范围[0.00-0.00])
+- coherence: 均值=34.23 标准差=6.17 (范围[24.02-41.82])
+- theme_focus: 均值=17.26 标准差=2.98 (范围[13.73-22.45])
+- flesch: 均值=68.93 标准差=11.48 (范围[53.51-84.07])
+- fkgl: 均值=7.73 标准差=2.23 (范围[4.70-10.80])
+- keyword_score: 均值=25.34 标准差=3.70 (范围[20.69-31.03])
+
+
+生成时间: 2025-06-05 04:58:06
+【当前文章质量】
+- 平均句长: 13.4(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 26.2%
+- 主题集中度: 12.6%
+- Flesch可读性指数: 74.79%
+- Flesch-Kincaid等级: 6.2
+- 关键词匹配度: 20.0%
+【生成统计】
+- 生成成功率: 7/7=100.0%
+- 新增词汇: 35
+- 生成效率: '35/334=10.48%' | 479/1814=26.41% | 内存占用: 7157MB
+- 覆盖率: 479/897=53.40%
+【Article #7生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about art class
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: draw, picture, lose, get, chance, able, win, opportunity 
+                2. Flesch-Kincaid ≤4 & 85% top-1000 words
+            [EXAMPLE]
+            "Red paint gets on my left hand... (story text)"
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.3
+- 语法错误: 0.0
+- 上下文一致性: 33.1%
+- 主题集中度: 16.6%
+- 关键词匹配: 24.6%
+- 可读性: 69.8%
+- Flesch-Kincaid等级: 7.5
+全部文章平均值:
+- 平均句长: 16.3
+- 语法错误: 0.0
+- 上下文一致性: 33.1%
+- 主题集中度: 16.6%
+- 关键词匹配: 24.6%
+- 可读性: 69.8%
+- Flesch-Kincaid等级: 7.5
+【主题类型统计】
+成功文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+- lunch break: 1次
+- art class: 1次
+全部文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+- lunch break: 1次
+- art class: 1次
+【主题类型统计】
+成功主题覆盖率: 7/7种
+高频成功主题(top5):
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+【参数离散度分析】
+- avg_length: 均值=16.30 标准差=2.98 (范围[12.62-22.27])
+- grammar_errors: 均值=0.00 标准差=0.00 (范围[0.00-0.00])
+- coherence: 均值=33.07 标准差=6.37 (范围[24.02-41.82])
+- theme_focus: 均值=16.59 标准差=3.21 (范围[12.57-22.45])
+- flesch: 均值=69.77 标准差=10.83 (范围[53.51-84.07])
+- fkgl: 均值=7.51 标准差=2.13 (范围[4.70-10.80])
+- keyword_score: 均值=24.58 标准差=3.90 (范围[20.00-31.03])
+
+
+生成时间: 2025-06-05 05:19:02
+【当前文章质量】
+- 平均句长: 13.3(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 37.8%
+- 主题集中度: 17.4%
+- Flesch可读性指数: 74.9%
+- Flesch-Kincaid等级: 6.1
+- 关键词匹配度: 20.0%
+【生成统计】
+- 生成成功率: 8/8=100.0%
+- 新增词汇: 34
+- 生成效率: '34/302=11.26%' | 513/2086=24.59% | 内存占用: 7176MB
+- 覆盖率: 513/897=57.19%
+【Article #8生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about helping mom
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: mom, herself, sister, woman, dad, child, brother, someone, man, mother, wife, husband, person, anyone, somebody, nobody, son, baby, daughter 
+                2. Flesch-Kincaid ≤4 & 85% top-1300 words
+            [EXAMPLE]
+            "Mom hands me a wet cloth to... (story text)"
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 15.9
+- 语法错误: 0.0
+- 上下文一致性: 33.7%
+- 主题集中度: 16.7%
+- 关键词匹配: 24.0%
+- 可读性: 70.4%
+- Flesch-Kincaid等级: 7.3
+全部文章平均值:
+- 平均句长: 15.9
+- 语法错误: 0.0
+- 上下文一致性: 33.7%
+- 主题集中度: 16.7%
+- 关键词匹配: 24.0%
+- 可读性: 70.4%
+- Flesch-Kincaid等级: 7.3
+【主题类型统计】
+成功文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+- lunch break: 1次
+- art class: 1次
+- helping mom: 1次
+全部文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+- lunch break: 1次
+- art class: 1次
+- helping mom: 1次
+【主题类型统计】
+成功主题覆盖率: 8/8种
+高频成功主题(top5):
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+【参数离散度分析】
+- avg_length: 均值=15.92 标准差=2.96 (范围[12.62-22.27])
+- grammar_errors: 均值=0.00 标准差=0.00 (范围[0.00-0.00])
+- coherence: 均值=33.66 标准差=6.16 (范围[24.02-41.82])
+- theme_focus: 均值=16.69 标准差=3.01 (范围[12.57-22.45])
+- flesch: 均值=70.41 标准差=10.27 (范围[53.51-84.07])
+- fkgl: 均值=7.34 标准差=2.05 (范围[4.70-10.80])
+- keyword_score: 均值=24.01 标准差=3.95 (范围[20.00-31.03])
+
+
+生成时间: 2025-06-05 05:29:14
+【当前文章质量】
+- 平均句长: 17.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 38.6%
+- 主题集中度: 14.3%
+- Flesch可读性指数: 62.68%
+- Flesch-Kincaid等级: 8.7
+- 关键词匹配度: 11.5%
+【生成统计】
+- 生成成功率: 9/9=100.0%
+- 新增词汇: 23
+- 生成效率: '23/287=8.01%' | 536/2344=22.87% | 内存占用: 7052MB
+- 覆盖率: 536/897=59.75%
+【Article #9生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about tree house
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: build, shit, social, government, media, party, candidate, according, business, military, service, political, public, security, official, policy, report, strategy, agency 
+                2. Flesch-Kincaid ≤4 & 85% top-1300 words
+            [EXAMPLE]
+            "Wood pieces lie on the ground... (story text)"
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.0
+- 语法错误: 0.0
+- 上下文一致性: 34.2%
+- 主题集中度: 16.4%
+- 关键词匹配: 22.6%
+- 可读性: 69.5%
+- Flesch-Kincaid等级: 7.5
+全部文章平均值:
+- 平均句长: 16.0
+- 语法错误: 0.0
+- 上下文一致性: 34.2%
+- 主题集中度: 16.4%
+- 关键词匹配: 22.6%
+- 可读性: 69.5%
+- Flesch-Kincaid等级: 7.5
+【主题类型统计】
+成功文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+- lunch break: 1次
+- art class: 1次
+- helping mom: 1次
+- tree house: 1次
+全部文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+- lunch break: 1次
+- art class: 1次
+- helping mom: 1次
+- tree house: 1次
+【主题类型统计】
+成功主题覆盖率: 9/9种
+高频成功主题(top5):
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+【参数离散度分析】
+- avg_length: 均值=16.04 标准差=2.81 (范围[12.62-22.27])
+- grammar_errors: 均值=0.00 标准差=0.00 (范围[0.00-0.00])
+- coherence: 均值=34.21 标准差=6.02 (范围[24.02-41.82])
+- theme_focus: 均值=16.42 标准差=2.94 (范围[12.57-22.45])
+- flesch: 均值=69.55 标准差=9.98 (范围[53.51-84.07])
+- fkgl: 均值=7.49 标准差=1.98 (范围[4.70-10.80])
+- keyword_score: 均值=22.62 标准差=5.41 (范围[11.54-31.03])
+
+
+生成时间: 2025-06-05 05:49:21
+【当前文章质量】
+- 平均句长: 13.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 19.3%
+- 主题集中度: 10.3%
+- Flesch可读性指数: 75.2%
+- Flesch-Kincaid等级: 6.0
+- 关键词匹配度: 11.1%
+【生成统计】
+- 生成成功率: 10/10=100.0%
+- 新增词汇: 17
+- 生成效率: '17/312=5.45%' | 553/2583=21.41% | 内存占用: 7085MB
+- 覆盖率: 553/897=61.65%
+【Article #10生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about baking day
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: eat, may, possible, likely, media, private, tv, trouble, business, service, relationship, property, public, avoid, company, official, office, news, press 
+                2. Flesch-Kincaid ≤4 & 85% top-1300 words
+            [EXAMPLE]
+            "Sweet smell fills the small kitchen... (story text)"
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 15.7
+- 语法错误: 0.0
+- 上下文一致性: 32.7%
+- 主题集中度: 15.8%
+- 关键词匹配: 21.5%
+- 可读性: 70.1%
+- Flesch-Kincaid等级: 7.3
+全部文章平均值:
+- 平均句长: 15.7
+- 语法错误: 0.0
+- 上下文一致性: 32.7%
+- 主题集中度: 15.8%
+- 关键词匹配: 21.5%
+- 可读性: 70.1%
+- Flesch-Kincaid等级: 7.3
+【主题类型统计】
+成功文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+- lunch break: 1次
+- art class: 1次
+- helping mom: 1次
+- tree house: 1次
+- baking day: 1次
+全部文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+- lunch break: 1次
+- art class: 1次
+- helping mom: 1次
+- tree house: 1次
+- baking day: 1次
+【主题类型统计】
+成功主题覆盖率: 10/10种
+高频成功主题(top5):
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+【参数离散度分析】
+- avg_length: 均值=15.74 标准差=2.82 (范围[12.62-22.27])
+- grammar_errors: 均值=0.00 标准差=0.00 (范围[0.00-0.00])
+- coherence: 均值=32.73 标准差=7.25 (范围[19.33-41.82])
+- theme_focus: 均值=15.82 标准差=3.33 (范围[10.34-22.45])
+- flesch: 均值=70.11 标准差=9.62 (范围[53.51-84.07])
+- fkgl: 均值=7.34 标准差=1.93 (范围[4.70-10.80])
+- keyword_score: 均值=21.47 标准差=6.18 (范围[11.11-31.03])
+
+
+生成时间: 2025-06-05 05:59:20
+【当前文章质量】
+- 平均句长: 15.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 37.1%
+- 主题集中度: 19.1%
+- Flesch可读性指数: 81.63%
+- Flesch-Kincaid等级: 5.6
+- 关键词匹配度: 41.7%
+【生成统计】
+- 生成成功率: 11/11=100.0%
+- 新增词汇: 14
+- 生成效率: '14/345=4.06%' | 567/2875=19.72% | 内存占用: 7087MB
+- 覆盖率: 567/897=63.21%
+【Article #11生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about bike ride
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: road, east, north, west, south 
+                2. Flesch-Kincaid ≤4 & 85% top-1300 words
+            [EXAMPLE]
+            "Wind plays with my hair as we... (story text)"
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 15.7
+- 语法错误: 0.0
+- 上下文一致性: 33.1%
+- 主题集中度: 16.1%
+- 关键词匹配: 23.3%
+- 可读性: 71.2%
+- Flesch-Kincaid等级: 7.2
+全部文章平均值:
+- 平均句长: 15.7
+- 语法错误: 0.0
+- 上下文一致性: 33.1%
+- 主题集中度: 16.1%
+- 关键词匹配: 23.3%
+- 可读性: 71.2%
+- Flesch-Kincaid等级: 7.2
+【主题类型统计】
+成功文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+- lunch break: 1次
+- art class: 1次
+- helping mom: 1次
+- tree house: 1次
+- baking day: 1次
+- bike ride: 1次
+全部文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+- lunch break: 1次
+- art class: 1次
+- helping mom: 1次
+- tree house: 1次
+- baking day: 1次
+- bike ride: 1次
+【主题类型统计】
+成功主题覆盖率: 11/11种
+高频成功主题(top5):
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+【参数离散度分析】
+- avg_length: 均值=15.67 标准差=2.70 (范围[12.62-22.27])
+- grammar_errors: 均值=0.00 标准差=0.00 (范围[0.00-0.00])
+- coherence: 均值=33.12 标准差=7.02 (范围[19.33-41.82])
+- theme_focus: 均值=16.12 标准差=3.31 (范围[10.34-22.45])
+- flesch: 均值=71.16 标准差=9.75 (范围[53.51-84.07])
+- fkgl: 均值=7.18 标准差=1.90 (范围[4.70-10.80])
+- keyword_score: 均值=23.31 标准差=8.28 (范围[11.11-41.67])
+
+
+生成时间: 2025-06-05 06:09:22
+【当前文章质量】
+- 平均句长: 19.3(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 53.0%
+- 主题集中度: 27.2%
+- Flesch可读性指数: 51.89%
+- Flesch-Kincaid等级: 10.8
+- 关键词匹配度: 11.5%
+【生成统计】
+- 生成成功率: 12/12=100.0%
+- 新增词汇: 12
+- 生成效率: '12/114=10.53%' | 579/2972=19.48% | 内存占用: 7064MB
+- 覆盖率: 579/897=64.55%
+【Article #12生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 280-word narrative about pet care
+            [STRUCTURE]
+                Direct story text (280 words)
+            [REQUIREMENTS] 
+                1. Use: drop, market, recently, system, price, term, program, department, administration, post, business, congress, service, public, company, current, office, policy, as, news 
+                2. Flesch-Kincaid ≤4 & 85% top-1300 words
+            [EXAMPLE]
+            "My dog puts his head on my... (story text)"
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 16.0
+- 语法错误: 0.0
+- 上下文一致性: 34.8%
+- 主题集中度: 17.0%
+- 关键词匹配: 22.3%
+- 可读性: 69.6%
+- Flesch-Kincaid等级: 7.5
+全部文章平均值:
+- 平均句长: 16.0
+- 语法错误: 0.0
+- 上下文一致性: 34.8%
+- 主题集中度: 17.0%
+- 关键词匹配: 22.3%
+- 可读性: 69.6%
+- Flesch-Kincaid等级: 7.5
+【主题类型统计】
+成功文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+- lunch break: 1次
+- art class: 1次
+- helping mom: 1次
+- tree house: 1次
+- baking day: 1次
+- bike ride: 1次
+- pet care: 1次
+全部文章主题分布:
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+- lunch break: 1次
+- art class: 1次
+- helping mom: 1次
+- tree house: 1次
+- baking day: 1次
+- bike ride: 1次
+- pet care: 1次
+【主题类型统计】
+成功主题覆盖率: 12/12种
+高频成功主题(top5):
+- school project: 1次
+- bedtime fear: 1次
+- library visit: 1次
+- class pet: 1次
+- firefly night: 1次
+【参数离散度分析】
+- avg_length: 均值=15.98 标准差=2.77 (范围[12.62-22.27])
+- grammar_errors: 均值=0.00 标准差=0.00 (范围[0.00-0.00])
+- coherence: 均值=34.77 标准差=8.68 (范围[19.33-52.97])
+- theme_focus: 均值=17.04 标准差=4.41 (范围[10.34-27.19])
+- flesch: 均值=69.56 标准差=10.75 (范围[51.89-84.07])
+- fkgl: 均值=7.48 标准差=2.08 (范围[4.70-10.80])
+- keyword_score: 均值=22.33 标准差=8.57 (范围[11.11-41.67])
+
+

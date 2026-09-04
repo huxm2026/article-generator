@@ -1,0 +1,4775 @@
+生成时间: 2025-07-12 23:43:23
+【当前文章质量】
+- 平均句长: 39.7(标准7-15)
+- 语法错误数: 4
+- 上下文一致性: 79.5%
+- 主题集中度: 49.5%
+- Flesch可读性指数: 39.64%
+- Flesch-Kincaid等级: 17.6
+- 关键词匹配度: 18.8%
+全部文章平均值:
+- 平均句长: 18.7
+- 语法错误: 1.5
+- 上下文一致性: 60.1%
+- 主题集中度: 43.7%
+- 关键词匹配: 23.1%
+- 可读性: 45.1%
+- Flesch-Kincaid等级: 8.3
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+【主题类型统计】
+成功主题覆盖率: 2/3种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+【参数离散度分析】
+- avg_length: 均值=24.99 标准差=11.55 (范围[11.44-39.67])
+- grammar_errors: 均值=2.00 标准差=1.41 (范围[1.00-4.00])
+- coherence: 均值=80.14 标准差=0.96 (范围[79.42-81.50])
+- theme_focus: 均值=58.27 标准差=7.02 (范围[49.49-66.67])
+- flesch: 均值=60.20 标准差=15.43 (范围[39.64-76.82])
+- fkgl: 均值=11.10 标准差=5.01 (范围[5.40-17.60])
+- keyword_score: 均值=30.85 标准差=8.61 (范围[18.75-38.10])
+
+
+生成时间: 2025-07-13 00:04:14
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 15.0
+- 语法错误: 1.2
+- 上下文一致性: 48.1%
+- 主题集中度: 35.0%
+- 关键词匹配: 18.5%
+- 可读性: 36.1%
+- Flesch-Kincaid等级: 6.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+【主题类型统计】
+成功主题覆盖率: 2/3种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+【参数离散度分析】
+- avg_length: 均值=24.99 标准差=11.55 (范围[11.44-39.67])
+- grammar_errors: 均值=2.00 标准差=1.41 (范围[1.00-4.00])
+- coherence: 均值=80.14 标准差=0.96 (范围[79.42-81.50])
+- theme_focus: 均值=58.27 标准差=7.02 (范围[49.49-66.67])
+- flesch: 均值=60.20 标准差=15.43 (范围[39.64-76.82])
+- fkgl: 均值=11.10 标准差=5.01 (范围[5.40-17.60])
+- keyword_score: 均值=30.85 标准差=8.61 (范围[18.75-38.10])
+
+
+生成时间: 2025-07-13 00:24:30
+【当前文章质量】
+- 平均句长: 23.6(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 86.0%
+- 主题集中度: 62.4%
+- Flesch可读性指数: 30.6%
+- Flesch-Kincaid等级: 14.9
+- 关键词匹配度: 30.0%
+全部文章平均值:
+- 平均句长: 16.4
+- 语法错误: 1.2
+- 上下文一致性: 54.4%
+- 主题集中度: 39.5%
+- 关键词匹配: 20.4%
+- 可读性: 35.2%
+- Flesch-Kincaid等级: 8.0
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+【主题类型统计】
+成功主题覆盖率: 2/4种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+【参数离散度分析】
+- avg_length: 均值=24.64 标准差=10.02 (范围[11.44-39.67])
+- grammar_errors: 均值=1.75 标准差=1.30 (范围[1.00-4.00])
+- coherence: 均值=81.59 标准差=2.65 (范围[79.42-85.95])
+- theme_focus: 均值=59.30 标准差=6.34 (范围[49.49-66.67])
+- flesch: 均值=52.80 标准差=18.52 (范围[30.60-76.82])
+- fkgl: 均值=12.05 标准差=4.64 (范围[5.40-17.60])
+- keyword_score: 均值=30.64 标准差=7.47 (范围[18.75-38.10])
+
+
+生成时间: 2025-07-13 01:24:50
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 15.7
+- 语法错误: 1.1
+- 上下文一致性: 55.8%
+- 主题集中度: 39.9%
+- 关键词匹配: 29.6%
+- 可读性: 38.2%
+- Flesch-Kincaid等级: 7.4
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+【主题类型统计】
+成功主题覆盖率: 4/6种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=23.61 标准差=8.33 (范围[11.44-39.67])
+- grammar_errors: 均值=1.67 标准差=1.11 (范围[1.00-4.00])
+- coherence: 均值=83.71 标准差=4.27 (范围[79.42-91.65])
+- theme_focus: 均值=59.88 标准差=5.46 (范围[49.49-66.67])
+- flesch: 均值=57.37 标准差=17.30 (范围[30.60-76.82])
+- fkgl: 均值=11.13 标准差=4.10 (范围[5.40-17.60])
+- keyword_score: 均值=44.38 标准差=26.05 (范围[18.75-100.00])
+
+
+生成时间: 2025-07-13 01:47:29
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 14.2
+- 语法错误: 1.0
+- 上下文一致性: 50.2%
+- 主题集中度: 35.9%
+- 关键词匹配: 26.6%
+- 可读性: 34.4%
+- Flesch-Kincaid等级: 6.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+【主题类型统计】
+成功主题覆盖率: 4/6种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=23.61 标准差=8.33 (范围[11.44-39.67])
+- grammar_errors: 均值=1.67 标准差=1.11 (范围[1.00-4.00])
+- coherence: 均值=83.71 标准差=4.27 (范围[79.42-91.65])
+- theme_focus: 均值=59.88 标准差=5.46 (范围[49.49-66.67])
+- flesch: 均值=57.37 标准差=17.30 (范围[30.60-76.82])
+- fkgl: 均值=11.13 标准差=4.10 (范围[5.40-17.60])
+- keyword_score: 均值=44.38 标准差=26.05 (范围[18.75-100.00])
+
+
+生成时间: 2025-07-13 02:07:23
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 12.9
+- 语法错误: 0.9
+- 上下文一致性: 45.7%
+- 主题集中度: 32.7%
+- 关键词匹配: 24.2%
+- 可读性: 31.3%
+- Flesch-Kincaid等级: 6.1
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+【主题类型统计】
+成功主题覆盖率: 4/6种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=23.61 标准差=8.33 (范围[11.44-39.67])
+- grammar_errors: 均值=1.67 标准差=1.11 (范围[1.00-4.00])
+- coherence: 均值=83.71 标准差=4.27 (范围[79.42-91.65])
+- theme_focus: 均值=59.88 标准差=5.46 (范围[49.49-66.67])
+- flesch: 均值=57.37 标准差=17.30 (范围[30.60-76.82])
+- fkgl: 均值=11.13 标准差=4.10 (范围[5.40-17.60])
+- keyword_score: 均值=44.38 标准差=26.05 (范围[18.75-100.00])
+
+
+生成时间: 2025-07-13 02:28:09
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 11.8
+- 语法错误: 0.8
+- 上下文一致性: 41.9%
+- 主题集中度: 29.9%
+- 关键词匹配: 22.2%
+- 可读性: 28.7%
+- Flesch-Kincaid等级: 5.6
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+【主题类型统计】
+成功主题覆盖率: 4/6种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=23.61 标准差=8.33 (范围[11.44-39.67])
+- grammar_errors: 均值=1.67 标准差=1.11 (范围[1.00-4.00])
+- coherence: 均值=83.71 标准差=4.27 (范围[79.42-91.65])
+- theme_focus: 均值=59.88 标准差=5.46 (范围[49.49-66.67])
+- flesch: 均值=57.37 标准差=17.30 (范围[30.60-76.82])
+- fkgl: 均值=11.13 标准差=4.10 (范围[5.40-17.60])
+- keyword_score: 均值=44.38 标准差=26.05 (范围[18.75-100.00])
+
+
+生成时间: 2025-07-13 03:49:57
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 12.6
+- 语法错误: 0.9
+- 上下文一致性: 47.3%
+- 主题集中度: 32.8%
+- 关键词匹配: 25.6%
+- 可读性: 30.5%
+- Flesch-Kincaid等级: 6.4
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+【主题类型统计】
+成功主题覆盖率: 7/9种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=22.47 标准差=7.00 (范围[11.44-39.67])
+- grammar_errors: 均值=1.67 标准差=0.94 (范围[1.00-4.00])
+- coherence: 均值=84.06 标准差=3.55 (范围[79.42-91.65])
+- theme_focus: 均值=58.37 标准差=5.39 (范围[49.49-66.67])
+- flesch: 均值=54.19 标准差=15.02 (范围[30.60-76.82])
+- fkgl: 均值=11.32 标准差=3.38 (范围[5.40-17.60])
+- keyword_score: 均值=45.52 标准差=25.91 (范围[18.75-100.00])
+
+
+生成时间: 2025-07-13 04:29:15
+【当前文章质量】
+- 平均句长: 81.5(标准7-15)
+- 语法错误数: 5
+- 上下文一致性: 71.5%
+- 主题集中度: 50.0%
+- Flesch可读性指数: -11.63%
+- Flesch-Kincaid等级: 31.1
+- 关键词匹配度: 57.1%
+全部文章平均值:
+- 平均句长: 16.8
+- 语法错误: 1.3
+- 上下文一致性: 50.9%
+- 主题集中度: 35.8%
+- 关键词匹配: 26.2%
+- 可读性: 30.3%
+- Flesch-Kincaid等级: 7.8
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+【主题类型统计】
+成功主题覆盖率: 8/11种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=27.44 标准差=18.27 (范围[11.44-81.50])
+- grammar_errors: 均值=2.09 标准差=1.31 (范围[1.00-5.00])
+- coherence: 均值=83.25 标准差=5.02 (范围[71.50-91.65])
+- theme_focus: 均值=58.57 标准差=6.33 (范围[49.49-68.89])
+- flesch: 均值=49.63 标准差=24.09 (范围[-11.63-76.82])
+- fkgl: 均值=12.82 标准差=6.61 (范围[5.40-31.10])
+- keyword_score: 均值=42.87 标准差=26.56 (范围[4.76-100.00])
+
+
+生成时间: 2025-07-13 05:09:14
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 16.1
+- 语法错误: 1.2
+- 上下文一致性: 50.3%
+- 主题集中度: 35.7%
+- 关键词匹配: 23.8%
+- 可读性: 30.3%
+- Flesch-Kincaid等级: 7.5
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+【主题类型统计】
+成功主题覆盖率: 9/12种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=26.76 标准差=17.64 (范围[11.44-81.50])
+- grammar_errors: 均值=2.00 标准差=1.29 (范围[1.00-5.00])
+- coherence: 均值=83.81 标准差=5.15 (范围[71.50-91.65])
+- theme_focus: 均值=59.49 标准差=6.78 (范围[49.49-69.61])
+- flesch: 均值=50.53 标准差=23.25 (范围[-11.63-76.82])
+- fkgl: 均值=12.55 标准差=6.39 (范围[5.40-31.10])
+- keyword_score: 均值=39.71 标准差=27.50 (范围[4.76-100.00])
+
+
+生成时间: 2025-07-13 05:30:34
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 15.3
+- 语法错误: 1.1
+- 上下文一致性: 47.9%
+- 主题集中度: 34.0%
+- 关键词匹配: 22.7%
+- 可读性: 28.9%
+- Flesch-Kincaid等级: 7.2
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+【主题类型统计】
+成功主题覆盖率: 9/12种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=26.76 标准差=17.64 (范围[11.44-81.50])
+- grammar_errors: 均值=2.00 标准差=1.29 (范围[1.00-5.00])
+- coherence: 均值=83.81 标准差=5.15 (范围[71.50-91.65])
+- theme_focus: 均值=59.49 标准差=6.78 (范围[49.49-69.61])
+- flesch: 均值=50.53 标准差=23.25 (范围[-11.63-76.82])
+- fkgl: 均值=12.55 标准差=6.39 (范围[5.40-31.10])
+- keyword_score: 均值=39.71 标准差=27.50 (范围[4.76-100.00])
+
+
+生成时间: 2025-07-13 05:51:02
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 14.6
+- 语法错误: 1.1
+- 上下文一致性: 45.7%
+- 主题集中度: 32.4%
+- 关键词匹配: 21.7%
+- 可读性: 27.6%
+- Flesch-Kincaid等级: 6.8
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+【主题类型统计】
+成功主题覆盖率: 9/12种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=26.76 标准差=17.64 (范围[11.44-81.50])
+- grammar_errors: 均值=2.00 标准差=1.29 (范围[1.00-5.00])
+- coherence: 均值=83.81 标准差=5.15 (范围[71.50-91.65])
+- theme_focus: 均值=59.49 标准差=6.78 (范围[49.49-69.61])
+- flesch: 均值=50.53 标准差=23.25 (范围[-11.63-76.82])
+- fkgl: 均值=12.55 标准差=6.39 (范围[5.40-31.10])
+- keyword_score: 均值=39.71 标准差=27.50 (范围[4.76-100.00])
+
+
+生成时间: 2025-07-13 06:10:30
+【当前文章质量】
+- 平均句长: 27.6(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 89.9%
+- 主题集中度: 60.6%
+- Flesch可读性指数: 35.0%
+- Flesch-Kincaid等级: 15.2
+- 关键词匹配度: 38.1%
+全部文章平均值:
+- 平均句长: 15.2
+- 语法错误: 1.1
+- 上下文一致性: 47.6%
+- 主题集中度: 33.7%
+- 关键词匹配: 22.4%
+- 可读性: 27.9%
+- Flesch-Kincaid等级: 7.2
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+【主题类型统计】
+成功主题覆盖率: 9/13种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=26.83 标准差=16.95 (范围[11.44-81.50])
+- grammar_errors: 均值=1.92 标准差=1.27 (范围[1.00-5.00])
+- coherence: 均值=84.27 标准差=5.21 (范围[71.50-91.65])
+- theme_focus: 均值=59.58 标准差=6.53 (范围[49.49-69.61])
+- flesch: 均值=49.33 标准差=22.72 (范围[-11.63-76.82])
+- fkgl: 均值=12.75 标准差=6.18 (范围[5.40-31.10])
+- keyword_score: 均值=39.59 标准差=26.42 (范围[4.76-100.00])
+
+
+生成时间: 2025-07-13 06:31:32
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 14.5
+- 语法错误: 1.0
+- 上下文一致性: 45.6%
+- 主题集中度: 32.3%
+- 关键词匹配: 21.4%
+- 可读性: 26.7%
+- Flesch-Kincaid等级: 6.9
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+【主题类型统计】
+成功主题覆盖率: 9/13种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=26.83 标准差=16.95 (范围[11.44-81.50])
+- grammar_errors: 均值=1.92 标准差=1.27 (范围[1.00-5.00])
+- coherence: 均值=84.27 标准差=5.21 (范围[71.50-91.65])
+- theme_focus: 均值=59.58 标准差=6.53 (范围[49.49-69.61])
+- flesch: 均值=49.33 标准差=22.72 (范围[-11.63-76.82])
+- fkgl: 均值=12.75 标准差=6.18 (范围[5.40-31.10])
+- keyword_score: 均值=39.59 标准差=26.42 (范围[4.76-100.00])
+
+
+生成时间: 2025-07-13 06:52:17
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 14.0
+- 语法错误: 1.0
+- 上下文一致性: 43.8%
+- 主题集中度: 31.0%
+- 关键词匹配: 20.6%
+- 可读性: 25.7%
+- Flesch-Kincaid等级: 6.6
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+【主题类型统计】
+成功主题覆盖率: 9/13种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=26.83 标准差=16.95 (范围[11.44-81.50])
+- grammar_errors: 均值=1.92 标准差=1.27 (范围[1.00-5.00])
+- coherence: 均值=84.27 标准差=5.21 (范围[71.50-91.65])
+- theme_focus: 均值=59.58 标准差=6.53 (范围[49.49-69.61])
+- flesch: 均值=49.33 标准差=22.72 (范围[-11.63-76.82])
+- fkgl: 均值=12.75 标准差=6.18 (范围[5.40-31.10])
+- keyword_score: 均值=39.59 标准差=26.42 (范围[4.76-100.00])
+
+
+生成时间: 2025-07-13 07:12:02
+【当前文章质量】
+- 平均句长: 21.1(标准7-15)
+- 语法错误数: 2
+- 上下文一致性: 79.8%
+- 主题集中度: 60.1%
+- Flesch可读性指数: 33.14%
+- Flesch-Kincaid等级: 13.9
+- 关键词匹配度: 30.0%
+全部文章平均值:
+- 平均句长: 14.2
+- 语法错误: 1.0
+- 上下文一致性: 45.2%
+- 主题集中度: 32.1%
+- 关键词匹配: 20.9%
+- 可读性: 25.9%
+- Flesch-Kincaid等级: 6.9
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+【主题类型统计】
+成功主题覆盖率: 9/14种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=26.42 标准差=16.40 (范围[11.44-81.50])
+- grammar_errors: 均值=1.93 标准差=1.22 (范围[1.00-5.00])
+- coherence: 均值=83.95 标准差=5.15 (范围[71.50-91.65])
+- theme_focus: 均值=59.62 标准差=6.29 (范围[49.49-69.61])
+- flesch: 均值=48.18 标准差=22.29 (范围[-11.63-76.82])
+- fkgl: 均值=12.84 标准差=5.96 (范围[5.40-31.10])
+- keyword_score: 均值=38.90 标准差=25.58 (范围[4.76-100.00])
+
+
+生成时间: 2025-07-13 07:31:34
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 13.7
+- 语法错误: 1.0
+- 上下文一致性: 43.5%
+- 主题集中度: 30.9%
+- 关键词匹配: 20.2%
+- 可读性: 25.0%
+- Flesch-Kincaid等级: 6.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+【主题类型统计】
+成功主题覆盖率: 9/14种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=26.42 标准差=16.40 (范围[11.44-81.50])
+- grammar_errors: 均值=1.93 标准差=1.22 (范围[1.00-5.00])
+- coherence: 均值=83.95 标准差=5.15 (范围[71.50-91.65])
+- theme_focus: 均值=59.62 标准差=6.29 (范围[49.49-69.61])
+- flesch: 均值=48.18 标准差=22.29 (范围[-11.63-76.82])
+- fkgl: 均值=12.84 标准差=5.96 (范围[5.40-31.10])
+- keyword_score: 均值=38.90 标准差=25.58 (范围[4.76-100.00])
+
+
+生成时间: 2025-07-13 08:11:36
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 13.4
+- 语法错误: 1.0
+- 上下文一致性: 43.5%
+- 主题集中度: 30.7%
+- 关键词匹配: 19.0%
+- 可读性: 25.9%
+- Flesch-Kincaid等级: 6.4
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+【主题类型统计】
+成功主题覆盖率: 10/15种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=25.93 标准差=15.95 (范围[11.44-81.50])
+- grammar_errors: 均值=1.93 标准差=1.18 (范围[1.00-5.00])
+- coherence: 均值=84.07 标准差=4.99 (范围[71.50-91.65])
+- theme_focus: 均值=59.35 标准差=6.16 (范围[49.49-69.61])
+- flesch: 均值=50.13 标准差=22.74 (范围[-11.63-77.47])
+- fkgl: 均值=12.46 标准差=5.93 (范围[5.40-31.10])
+- keyword_score: 均值=36.66 标准差=26.10 (范围[4.76-100.00])
+
+
+生成时间: 2025-07-13 08:33:25
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 13.0
+- 语法错误: 1.0
+- 上下文一致性: 42.0%
+- 主题集中度: 29.7%
+- 关键词匹配: 18.3%
+- 可读性: 25.1%
+- Flesch-Kincaid等级: 6.2
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+【主题类型统计】
+成功主题覆盖率: 10/15种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=25.93 标准差=15.95 (范围[11.44-81.50])
+- grammar_errors: 均值=1.93 标准差=1.18 (范围[1.00-5.00])
+- coherence: 均值=84.07 标准差=4.99 (范围[71.50-91.65])
+- theme_focus: 均值=59.35 标准差=6.16 (范围[49.49-69.61])
+- flesch: 均值=50.13 标准差=22.74 (范围[-11.63-77.47])
+- fkgl: 均值=12.46 标准差=5.93 (范围[5.40-31.10])
+- keyword_score: 均值=36.66 标准差=26.10 (范围[4.76-100.00])
+
+
+生成时间: 2025-07-13 08:55:11
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 12.5
+- 语法错误: 0.9
+- 上下文一致性: 40.7%
+- 主题集中度: 28.7%
+- 关键词匹配: 17.7%
+- 可读性: 24.3%
+- Flesch-Kincaid等级: 6.0
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+【主题类型统计】
+成功主题覆盖率: 10/15种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=25.93 标准差=15.95 (范围[11.44-81.50])
+- grammar_errors: 均值=1.93 标准差=1.18 (范围[1.00-5.00])
+- coherence: 均值=84.07 标准差=4.99 (范围[71.50-91.65])
+- theme_focus: 均值=59.35 标准差=6.16 (范围[49.49-69.61])
+- flesch: 均值=50.13 标准差=22.74 (范围[-11.63-77.47])
+- fkgl: 均值=12.46 标准差=5.93 (范围[5.40-31.10])
+- keyword_score: 均值=36.66 标准差=26.10 (范围[4.76-100.00])
+
+
+生成时间: 2025-07-13 09:17:33
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 12.2
+- 语法错误: 0.9
+- 上下文一致性: 39.4%
+- 主题集中度: 27.8%
+- 关键词匹配: 17.2%
+- 可读性: 23.5%
+- Flesch-Kincaid等级: 5.8
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+【主题类型统计】
+成功主题覆盖率: 10/15种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=25.93 标准差=15.95 (范围[11.44-81.50])
+- grammar_errors: 均值=1.93 标准差=1.18 (范围[1.00-5.00])
+- coherence: 均值=84.07 标准差=4.99 (范围[71.50-91.65])
+- theme_focus: 均值=59.35 标准差=6.16 (范围[49.49-69.61])
+- flesch: 均值=50.13 标准差=22.74 (范围[-11.63-77.47])
+- fkgl: 均值=12.46 标准差=5.93 (范围[5.40-31.10])
+- keyword_score: 均值=36.66 标准差=26.10 (范围[4.76-100.00])
+
+
+生成时间: 2025-07-13 09:36:43
+【当前文章质量】
+- 平均句长: 36.0(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 88.1%
+- 主题集中度: 5.4%
+- Flesch可读性指数: 30.88%
+- Flesch-Kincaid等级: 18.9
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 12.9
+- 语法错误: 0.9
+- 上下文一致性: 40.9%
+- 主题集中度: 27.1%
+- 关键词匹配: 16.7%
+- 可读性: 23.7%
+- Flesch-Kincaid等级: 6.2
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+【主题类型统计】
+成功主题覆盖率: 10/16种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=26.56 标准差=15.63 (范围[11.44-81.50])
+- grammar_errors: 均值=1.88 标准差=1.17 (范围[1.00-5.00])
+- coherence: 均值=84.32 标准差=4.93 (范围[71.50-91.65])
+- theme_focus: 均值=55.98 标准差=14.35 (范围[5.42-69.61])
+- flesch: 均值=48.93 标准差=22.50 (范围[-11.63-77.47])
+- fkgl: 均值=12.86 标准差=5.95 (范围[5.40-31.10])
+- keyword_score: 均值=34.37 标准差=26.78 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 09:56:21
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 12.5
+- 语法错误: 0.9
+- 上下文一致性: 39.7%
+- 主题集中度: 26.3%
+- 关键词匹配: 16.2%
+- 可读性: 23.0%
+- Flesch-Kincaid等级: 6.1
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+【主题类型统计】
+成功主题覆盖率: 10/16种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=26.56 标准差=15.63 (范围[11.44-81.50])
+- grammar_errors: 均值=1.88 标准差=1.17 (范围[1.00-5.00])
+- coherence: 均值=84.32 标准差=4.93 (范围[71.50-91.65])
+- theme_focus: 均值=55.98 标准差=14.35 (范围[5.42-69.61])
+- flesch: 均值=48.93 标准差=22.50 (范围[-11.63-77.47])
+- fkgl: 均值=12.86 标准差=5.95 (范围[5.40-31.10])
+- keyword_score: 均值=34.37 标准差=26.78 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 10:17:29
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 12.1
+- 语法错误: 0.9
+- 上下文一致性: 38.5%
+- 主题集中度: 25.6%
+- 关键词匹配: 15.7%
+- 可读性: 22.4%
+- Flesch-Kincaid等级: 5.9
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+【主题类型统计】
+成功主题覆盖率: 10/16种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=26.56 标准差=15.63 (范围[11.44-81.50])
+- grammar_errors: 均值=1.88 标准差=1.17 (范围[1.00-5.00])
+- coherence: 均值=84.32 标准差=4.93 (范围[71.50-91.65])
+- theme_focus: 均值=55.98 标准差=14.35 (范围[5.42-69.61])
+- flesch: 均值=48.93 标准差=22.50 (范围[-11.63-77.47])
+- fkgl: 均值=12.86 标准差=5.95 (范围[5.40-31.10])
+- keyword_score: 均值=34.37 标准差=26.78 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 10:37:03
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 11.8
+- 语法错误: 0.8
+- 上下文一致性: 37.5%
+- 主题集中度: 24.9%
+- 关键词匹配: 15.3%
+- 可读性: 21.7%
+- Flesch-Kincaid等级: 5.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+【主题类型统计】
+成功主题覆盖率: 10/16种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=26.56 标准差=15.63 (范围[11.44-81.50])
+- grammar_errors: 均值=1.88 标准差=1.17 (范围[1.00-5.00])
+- coherence: 均值=84.32 标准差=4.93 (范围[71.50-91.65])
+- theme_focus: 均值=55.98 标准差=14.35 (范围[5.42-69.61])
+- flesch: 均值=48.93 标准差=22.50 (范围[-11.63-77.47])
+- fkgl: 均值=12.86 标准差=5.95 (范围[5.40-31.10])
+- keyword_score: 均值=34.37 标准差=26.78 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 10:58:34
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 11.5
+- 语法错误: 0.8
+- 上下文一致性: 36.5%
+- 主题集中度: 24.2%
+- 关键词匹配: 14.9%
+- 可读性: 21.2%
+- Flesch-Kincaid等级: 5.6
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+【主题类型统计】
+成功主题覆盖率: 10/16种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=26.56 标准差=15.63 (范围[11.44-81.50])
+- grammar_errors: 均值=1.88 标准差=1.17 (范围[1.00-5.00])
+- coherence: 均值=84.32 标准差=4.93 (范围[71.50-91.65])
+- theme_focus: 均值=55.98 标准差=14.35 (范围[5.42-69.61])
+- flesch: 均值=48.93 标准差=22.50 (范围[-11.63-77.47])
+- fkgl: 均值=12.86 标准差=5.95 (范围[5.40-31.10])
+- keyword_score: 均值=34.37 标准差=26.78 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 11:40:26
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 11.5
+- 语法错误: 0.8
+- 上下文一致性: 36.8%
+- 主题集中度: 24.8%
+- 关键词匹配: 14.4%
+- 可读性: 21.6%
+- Flesch-Kincaid等级: 5.5
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+- stormy night experience: 1次
+【主题类型统计】
+成功主题覆盖率: 11/17种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=26.27 标准差=15.21 (范围[11.44-81.50])
+- grammar_errors: 均值=1.82 标准差=1.15 (范围[1.00-5.00])
+- coherence: 均值=84.43 标准差=4.80 (范围[71.50-91.65])
+- theme_focus: 均值=56.81 标准差=14.31 (范围[5.42-70.05])
+- flesch: 均值=49.46 标准差=21.94 (范围[-11.63-77.47])
+- fkgl: 均值=12.72 标准差=5.80 (范围[5.40-31.10])
+- keyword_score: 均值=32.94 标准差=26.61 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 12:00:00
+【当前文章质量】
+- 平均句长: 19.9(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 82.5%
+- 主题集中度: 51.8%
+- Flesch可读性指数: 34.36%
+- Flesch-Kincaid等级: 13.4
+- 关键词匹配度: 35.0%
+全部文章平均值:
+- 平均句长: 11.7
+- 语法错误: 0.8
+- 上下文一致性: 37.9%
+- 主题集中度: 25.4%
+- 关键词匹配: 14.9%
+- 可读性: 21.9%
+- Flesch-Kincaid等级: 5.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+- stormy night experience: 1次
+- backyard campout: 1次
+【主题类型统计】
+成功主题覆盖率: 11/18种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=25.91 标准差=14.85 (范围[11.44-81.50])
+- grammar_errors: 均值=1.78 标准差=1.13 (范围[1.00-5.00])
+- coherence: 均值=84.32 标准差=4.69 (范围[71.50-91.65])
+- theme_focus: 均值=56.53 标准差=13.96 (范围[5.42-70.05])
+- flesch: 均值=48.62 标准差=21.60 (范围[-11.63-77.47])
+- fkgl: 均值=12.76 标准差=5.64 (范围[5.40-31.10])
+- keyword_score: 均值=33.05 标准差=25.86 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 12:22:36
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 11.4
+- 语法错误: 0.8
+- 上下文一致性: 37.0%
+- 主题集中度: 24.8%
+- 关键词匹配: 14.5%
+- 可读性: 21.3%
+- Flesch-Kincaid等级: 5.6
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+- stormy night experience: 1次
+- backyard campout: 1次
+【主题类型统计】
+成功主题覆盖率: 11/18种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=25.91 标准差=14.85 (范围[11.44-81.50])
+- grammar_errors: 均值=1.78 标准差=1.13 (范围[1.00-5.00])
+- coherence: 均值=84.32 标准差=4.69 (范围[71.50-91.65])
+- theme_focus: 均值=56.53 标准差=13.96 (范围[5.42-70.05])
+- flesch: 均值=48.62 标准差=21.60 (范围[-11.63-77.47])
+- fkgl: 均值=12.76 标准差=5.64 (范围[5.40-31.10])
+- keyword_score: 均值=33.05 标准差=25.86 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 12:49:16
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 11.1
+- 语法错误: 0.8
+- 上下文一致性: 36.1%
+- 主题集中度: 24.2%
+- 关键词匹配: 14.2%
+- 可读性: 20.8%
+- Flesch-Kincaid等级: 5.5
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+- stormy night experience: 1次
+- backyard campout: 1次
+【主题类型统计】
+成功主题覆盖率: 11/18种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=25.91 标准差=14.85 (范围[11.44-81.50])
+- grammar_errors: 均值=1.78 标准差=1.13 (范围[1.00-5.00])
+- coherence: 均值=84.32 标准差=4.69 (范围[71.50-91.65])
+- theme_focus: 均值=56.53 标准差=13.96 (范围[5.42-70.05])
+- flesch: 均值=48.62 标准差=21.60 (范围[-11.63-77.47])
+- fkgl: 均值=12.76 标准差=5.64 (范围[5.40-31.10])
+- keyword_score: 均值=33.05 标准差=25.86 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 13:28:34
+【当前文章质量】
+- 平均句长: 24.7(标准7-15)
+- 语法错误数: 3
+- 上下文一致性: 88.5%
+- 主题集中度: 69.1%
+- Flesch可读性指数: 21.02%
+- Flesch-Kincaid等级: 16.5
+- 关键词匹配度: 4.8%
+全部文章平均值:
+- 平均句长: 11.7
+- 语法错误: 0.8
+- 上下文一致性: 38.4%
+- 主题集中度: 24.8%
+- 关键词匹配: 13.7%
+- 可读性: 22.1%
+- Flesch-Kincaid等级: 5.8
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+【主题类型统计】
+成功主题覆盖率: 12/20种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=25.65 标准差=14.12 (范围[11.44-81.50])
+- grammar_errors: 均值=1.80 标准差=1.12 (范围[1.00-5.00])
+- coherence: 均值=84.55 标准差=4.54 (范围[71.50-91.65])
+- theme_focus: 均值=54.56 标准差=17.71 (范围[4.72-70.05])
+- flesch: 均值=48.55 标准差=22.18 (范围[-11.63-77.47])
+- fkgl: 均值=12.73 标准差=5.50 (范围[5.40-31.10])
+- keyword_score: 均值=30.21 标准差=25.97 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 13:44:38
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 11.4
+- 语法错误: 0.8
+- 上下文一致性: 37.6%
+- 主题集中度: 24.3%
+- 关键词匹配: 13.4%
+- 可读性: 21.6%
+- Flesch-Kincaid等级: 5.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+【主题类型统计】
+成功主题覆盖率: 12/20种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=25.65 标准差=14.12 (范围[11.44-81.50])
+- grammar_errors: 均值=1.80 标准差=1.12 (范围[1.00-5.00])
+- coherence: 均值=84.55 标准差=4.54 (范围[71.50-91.65])
+- theme_focus: 均值=54.56 标准差=17.71 (范围[4.72-70.05])
+- flesch: 均值=48.55 标准差=22.18 (范围[-11.63-77.47])
+- fkgl: 均值=12.73 标准差=5.50 (范围[5.40-31.10])
+- keyword_score: 均值=30.21 标准差=25.97 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 14:02:28
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 11.2
+- 语法错误: 0.8
+- 上下文一致性: 36.8%
+- 主题集中度: 23.7%
+- 关键词匹配: 13.1%
+- 可读性: 21.1%
+- Flesch-Kincaid等级: 5.5
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+【主题类型统计】
+成功主题覆盖率: 12/20种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=25.65 标准差=14.12 (范围[11.44-81.50])
+- grammar_errors: 均值=1.80 标准差=1.12 (范围[1.00-5.00])
+- coherence: 均值=84.55 标准差=4.54 (范围[71.50-91.65])
+- theme_focus: 均值=54.56 标准差=17.71 (范围[4.72-70.05])
+- flesch: 均值=48.55 标准差=22.18 (范围[-11.63-77.47])
+- fkgl: 均值=12.73 标准差=5.50 (范围[5.40-31.10])
+- keyword_score: 均值=30.21 标准差=25.97 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 14:19:25
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 10.9
+- 语法错误: 0.8
+- 上下文一致性: 36.0%
+- 主题集中度: 23.2%
+- 关键词匹配: 12.9%
+- 可读性: 20.7%
+- Flesch-Kincaid等级: 5.4
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 1次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+【主题类型统计】
+成功主题覆盖率: 12/20种
+高频成功主题(top5):
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+【参数离散度分析】
+- avg_length: 均值=25.65 标准差=14.12 (范围[11.44-81.50])
+- grammar_errors: 均值=1.80 标准差=1.12 (范围[1.00-5.00])
+- coherence: 均值=84.55 标准差=4.54 (范围[71.50-91.65])
+- theme_focus: 均值=54.56 标准差=17.71 (范围[4.72-70.05])
+- flesch: 均值=48.55 标准差=22.18 (范围[-11.63-77.47])
+- fkgl: 均值=12.73 标准差=5.50 (范围[5.40-31.10])
+- keyword_score: 均值=30.21 标准差=25.97 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 14:54:14
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 10.9
+- 语法错误: 0.8
+- 上下文一致性: 36.2%
+- 主题集中度: 23.3%
+- 关键词匹配: 12.5%
+- 可读性: 21.1%
+- Flesch-Kincaid等级: 5.4
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+【主题类型统计】
+成功主题覆盖率: 12/20种
+高频成功主题(top5):
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=25.54 标准差=13.79 (范围[11.44-81.50])
+- grammar_errors: 均值=1.76 标准差=1.11 (范围[1.00-5.00])
+- coherence: 均值=84.52 标准差=4.43 (范围[71.50-91.65])
+- theme_focus: 均值=54.39 标准差=17.30 (范围[4.72-70.05])
+- flesch: 均值=49.32 标准差=21.92 (范围[-11.63-77.47])
+- fkgl: 均值=12.60 标准差=5.40 (范围[5.40-31.10])
+- keyword_score: 均值=29.19 标准差=25.76 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 15:10:48
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 10.7
+- 语法错误: 0.7
+- 上下文一致性: 35.5%
+- 主题集中度: 22.8%
+- 关键词匹配: 12.3%
+- 可读性: 20.7%
+- Flesch-Kincaid等级: 5.3
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+【主题类型统计】
+成功主题覆盖率: 12/20种
+高频成功主题(top5):
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=25.54 标准差=13.79 (范围[11.44-81.50])
+- grammar_errors: 均值=1.76 标准差=1.11 (范围[1.00-5.00])
+- coherence: 均值=84.52 标准差=4.43 (范围[71.50-91.65])
+- theme_focus: 均值=54.39 标准差=17.30 (范围[4.72-70.05])
+- flesch: 均值=49.32 标准差=21.92 (范围[-11.63-77.47])
+- fkgl: 均值=12.60 标准差=5.40 (范围[5.40-31.10])
+- keyword_score: 均值=29.19 标准差=25.76 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 15:27:17
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 10.5
+- 语法错误: 0.7
+- 上下文一致性: 34.8%
+- 主题集中度: 22.4%
+- 关键词匹配: 12.0%
+- 可读性: 20.3%
+- Flesch-Kincaid等级: 5.2
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 1次
+- puppy rescue mission: 1次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+【主题类型统计】
+成功主题覆盖率: 12/20种
+高频成功主题(top5):
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 1次
+【参数离散度分析】
+- avg_length: 均值=25.54 标准差=13.79 (范围[11.44-81.50])
+- grammar_errors: 均值=1.76 标准差=1.11 (范围[1.00-5.00])
+- coherence: 均值=84.52 标准差=4.43 (范围[71.50-91.65])
+- theme_focus: 均值=54.39 标准差=17.30 (范围[4.72-70.05])
+- flesch: 均值=49.32 标准差=21.92 (范围[-11.63-77.47])
+- fkgl: 均值=12.60 标准差=5.40 (范围[5.40-31.10])
+- keyword_score: 均值=29.19 标准差=25.76 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 16:01:28
+【当前文章质量】
+- 平均句长: 21.0(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 85.3%
+- 主题集中度: 53.3%
+- Flesch可读性指数: 33.24%
+- Flesch-Kincaid等级: 13.8
+- 关键词匹配度: 4.8%
+全部文章平均值:
+- 平均句长: 10.8
+- 语法错误: 0.7
+- 上下文一致性: 36.6%
+- 主题集中度: 23.9%
+- 关键词匹配: 11.9%
+- 可读性: 21.4%
+- Flesch-Kincaid等级: 5.4
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 1次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+【主题类型统计】
+成功主题覆盖率: 12/20种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=24.91 标准差=13.35 (范围[11.44-81.50])
+- grammar_errors: 均值=1.70 标准差=1.08 (范围[1.00-5.00])
+- coherence: 均值=84.42 标准差=4.28 (范围[71.50-91.65])
+- theme_focus: 均值=55.08 标准差=16.88 (范围[4.72-71.23])
+- flesch: 均值=49.26 标准差=21.43 (范围[-11.63-77.47])
+- fkgl: 均值=12.46 标准差=5.25 (范围[5.40-31.10])
+- keyword_score: 均值=27.45 标准差=25.28 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 16:17:38
+【当前文章质量】
+- 平均句长: 32.3(标准7-15)
+- 语法错误数: 16
+- 上下文一致性: 85.9%
+- 主题集中度: 48.5%
+- Flesch可读性指数: 1.06%
+- Flesch-Kincaid等级: 20.0
+- 关键词匹配度: 9.5%
+全部文章平均值:
+- 平均句长: 11.2
+- 语法错误: 1.0
+- 上下文一致性: 37.5%
+- 主题集中度: 24.4%
+- 关键词匹配: 11.9%
+- 可读性: 21.0%
+- Flesch-Kincaid等级: 5.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 1次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 12/21种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.22 标准差=13.16 (范围[11.44-81.50])
+- grammar_errors: 均值=2.29 标准差=3.05 (范围[1.00-16.00])
+- coherence: 均值=84.49 标准差=4.20 (范围[71.50-91.65])
+- theme_focus: 均值=54.80 标准差=16.58 (范围[4.72-71.23])
+- flesch: 均值=47.25 标准差=23.08 (范围[-11.63-77.47])
+- fkgl: 均值=12.77 标准差=5.35 (范围[5.40-31.10])
+- keyword_score: 均值=26.70 标准差=25.01 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 16:34:00
+【当前文章质量】
+- 平均句长: 38.2(标准7-15)
+- 语法错误数: 2
+- 上下文一致性: 89.6%
+- 主题集中度: 69.5%
+- Flesch可读性指数: 32.7%
+- Flesch-Kincaid等级: 18.2
+- 关键词匹配度: 5.0%
+全部文章平均值:
+- 平均句长: 11.7
+- 语法错误: 1.0
+- 上下文一致性: 38.5%
+- 主题集中度: 25.2%
+- 关键词匹配: 11.7%
+- 可读性: 21.2%
+- Flesch-Kincaid等级: 5.9
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 12/21种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.74 标准差=13.14 (范围[11.44-81.50])
+- grammar_errors: 均值=2.28 标准差=2.99 (范围[1.00-16.00])
+- coherence: 均值=84.69 标准差=4.24 (范围[71.50-91.65])
+- theme_focus: 均值=55.39 标准差=16.50 (范围[4.72-71.23])
+- flesch: 均值=46.67 标准差=22.80 (范围[-11.63-77.47])
+- fkgl: 均值=12.99 标准差=5.35 (范围[5.40-31.10])
+- keyword_score: 均值=25.83 标准差=24.87 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 16:50:59
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 11.5
+- 语法错误: 1.0
+- 上下文一致性: 37.8%
+- 主题集中度: 24.7%
+- 关键词匹配: 11.5%
+- 可读性: 20.8%
+- Flesch-Kincaid等级: 5.8
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 12/21种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.74 标准差=13.14 (范围[11.44-81.50])
+- grammar_errors: 均值=2.28 标准差=2.99 (范围[1.00-16.00])
+- coherence: 均值=84.69 标准差=4.24 (范围[71.50-91.65])
+- theme_focus: 均值=55.39 标准差=16.50 (范围[4.72-71.23])
+- flesch: 均值=46.67 标准差=22.80 (范围[-11.63-77.47])
+- fkgl: 均值=12.99 标准差=5.35 (范围[5.40-31.10])
+- keyword_score: 均值=25.83 标准差=24.87 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 17:07:38
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 11.3
+- 语法错误: 1.0
+- 上下文一致性: 37.1%
+- 主题集中度: 24.3%
+- 关键词匹配: 11.3%
+- 可读性: 20.5%
+- Flesch-Kincaid等级: 5.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 12/21种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.74 标准差=13.14 (范围[11.44-81.50])
+- grammar_errors: 均值=2.28 标准差=2.99 (范围[1.00-16.00])
+- coherence: 均值=84.69 标准差=4.24 (范围[71.50-91.65])
+- theme_focus: 均值=55.39 标准差=16.50 (范围[4.72-71.23])
+- flesch: 均值=46.67 标准差=22.80 (范围[-11.63-77.47])
+- fkgl: 均值=12.99 标准差=5.35 (范围[5.40-31.10])
+- keyword_score: 均值=25.83 标准差=24.87 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 17:23:32
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 11.1
+- 语法错误: 1.0
+- 上下文一致性: 36.5%
+- 主题集中度: 23.9%
+- 关键词匹配: 11.1%
+- 可读性: 20.1%
+- Flesch-Kincaid等级: 5.6
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 12/21种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.74 标准差=13.14 (范围[11.44-81.50])
+- grammar_errors: 均值=2.28 标准差=2.99 (范围[1.00-16.00])
+- coherence: 均值=84.69 标准差=4.24 (范围[71.50-91.65])
+- theme_focus: 均值=55.39 标准差=16.50 (范围[4.72-71.23])
+- flesch: 均值=46.67 标准差=22.80 (范围[-11.63-77.47])
+- fkgl: 均值=12.99 标准差=5.35 (范围[5.40-31.10])
+- keyword_score: 均值=25.83 标准差=24.87 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 17:40:41
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 10.9
+- 语法错误: 1.0
+- 上下文一致性: 35.9%
+- 主题集中度: 23.5%
+- 关键词匹配: 10.9%
+- 可读性: 19.8%
+- Flesch-Kincaid等级: 5.5
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 12/21种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.74 标准差=13.14 (范围[11.44-81.50])
+- grammar_errors: 均值=2.28 标准差=2.99 (范围[1.00-16.00])
+- coherence: 均值=84.69 标准差=4.24 (范围[71.50-91.65])
+- theme_focus: 均值=55.39 标准差=16.50 (范围[4.72-71.23])
+- flesch: 均值=46.67 标准差=22.80 (范围[-11.63-77.47])
+- fkgl: 均值=12.99 标准差=5.35 (范围[5.40-31.10])
+- keyword_score: 均值=25.83 标准差=24.87 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 17:57:42
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 10.7
+- 语法错误: 0.9
+- 上下文一致性: 35.3%
+- 主题集中度: 23.1%
+- 关键词匹配: 10.8%
+- 可读性: 19.4%
+- Flesch-Kincaid等级: 5.4
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 12/21种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.74 标准差=13.14 (范围[11.44-81.50])
+- grammar_errors: 均值=2.28 标准差=2.99 (范围[1.00-16.00])
+- coherence: 均值=84.69 标准差=4.24 (范围[71.50-91.65])
+- theme_focus: 均值=55.39 标准差=16.50 (范围[4.72-71.23])
+- flesch: 均值=46.67 标准差=22.80 (范围[-11.63-77.47])
+- fkgl: 均值=12.99 标准差=5.35 (范围[5.40-31.10])
+- keyword_score: 均值=25.83 标准差=24.87 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 18:14:35
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 10.5
+- 语法错误: 0.9
+- 上下文一致性: 34.7%
+- 主题集中度: 22.7%
+- 关键词匹配: 10.6%
+- 可读性: 19.1%
+- Flesch-Kincaid等级: 5.3
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 12/21种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.74 标准差=13.14 (范围[11.44-81.50])
+- grammar_errors: 均值=2.28 标准差=2.99 (范围[1.00-16.00])
+- coherence: 均值=84.69 标准差=4.24 (范围[71.50-91.65])
+- theme_focus: 均值=55.39 标准差=16.50 (范围[4.72-71.23])
+- flesch: 均值=46.67 标准差=22.80 (范围[-11.63-77.47])
+- fkgl: 均值=12.99 标准差=5.35 (范围[5.40-31.10])
+- keyword_score: 均值=25.83 标准差=24.87 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 18:31:47
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 10.4
+- 语法错误: 0.9
+- 上下文一致性: 34.2%
+- 主题集中度: 22.3%
+- 关键词匹配: 10.4%
+- 可读性: 18.8%
+- Flesch-Kincaid等级: 5.2
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 12/21种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.74 标准差=13.14 (范围[11.44-81.50])
+- grammar_errors: 均值=2.28 标准差=2.99 (范围[1.00-16.00])
+- coherence: 均值=84.69 标准差=4.24 (范围[71.50-91.65])
+- theme_focus: 均值=55.39 标准差=16.50 (范围[4.72-71.23])
+- flesch: 均值=46.67 标准差=22.80 (范围[-11.63-77.47])
+- fkgl: 均值=12.99 标准差=5.35 (范围[5.40-31.10])
+- keyword_score: 均值=25.83 标准差=24.87 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 18:49:28
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 10.2
+- 语法错误: 0.9
+- 上下文一致性: 33.6%
+- 主题集中度: 22.0%
+- 关键词匹配: 10.3%
+- 可读性: 18.5%
+- Flesch-Kincaid等级: 5.2
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 12/21种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.74 标准差=13.14 (范围[11.44-81.50])
+- grammar_errors: 均值=2.28 标准差=2.99 (范围[1.00-16.00])
+- coherence: 均值=84.69 标准差=4.24 (范围[71.50-91.65])
+- theme_focus: 均值=55.39 标准差=16.50 (范围[4.72-71.23])
+- flesch: 均值=46.67 标准差=22.80 (范围[-11.63-77.47])
+- fkgl: 均值=12.99 标准差=5.35 (范围[5.40-31.10])
+- keyword_score: 均值=25.83 标准差=24.87 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 19:06:00
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 10.1
+- 语法错误: 0.9
+- 上下文一致性: 33.1%
+- 主题集中度: 21.6%
+- 关键词匹配: 10.1%
+- 可读性: 18.2%
+- Flesch-Kincaid等级: 5.1
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 1次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 1次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 12/21种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.74 标准差=13.14 (范围[11.44-81.50])
+- grammar_errors: 均值=2.28 标准差=2.99 (范围[1.00-16.00])
+- coherence: 均值=84.69 标准差=4.24 (范围[71.50-91.65])
+- theme_focus: 均值=55.39 标准差=16.50 (范围[4.72-71.23])
+- flesch: 均值=46.67 标准差=22.80 (范围[-11.63-77.47])
+- fkgl: 均值=12.99 标准差=5.35 (范围[5.40-31.10])
+- keyword_score: 均值=25.83 标准差=24.87 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 19:56:40
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 10.2
+- 语法错误: 0.9
+- 上下文一致性: 34.1%
+- 主题集中度: 21.5%
+- 关键词匹配: 9.9%
+- 可读性: 18.8%
+- Flesch-Kincaid等级: 5.2
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 14/21种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.33 标准差=12.73 (范围[11.44-81.50])
+- grammar_errors: 均值=2.19 标准差=2.89 (范围[1.00-16.00])
+- coherence: 均值=84.66 标准差=4.12 (范围[71.50-91.65])
+- theme_focus: 均值=53.32 标准差=18.51 (范围[4.72-71.23])
+- flesch: 均值=46.62 标准差=21.97 (范围[-11.63-77.47])
+- fkgl: 均值=12.91 标准差=5.16 (范围[5.40-31.10])
+- keyword_score: 均值=24.59 标准差=24.45 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 20:13:42
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 10.1
+- 语法错误: 0.9
+- 上下文一致性: 33.6%
+- 主题集中度: 21.2%
+- 关键词匹配: 9.8%
+- 可读性: 18.5%
+- Flesch-Kincaid等级: 5.1
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 14/21种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.33 标准差=12.73 (范围[11.44-81.50])
+- grammar_errors: 均值=2.19 标准差=2.89 (范围[1.00-16.00])
+- coherence: 均值=84.66 标准差=4.12 (范围[71.50-91.65])
+- theme_focus: 均值=53.32 标准差=18.51 (范围[4.72-71.23])
+- flesch: 均值=46.62 标准差=21.97 (范围[-11.63-77.47])
+- fkgl: 均值=12.91 标准差=5.16 (范围[5.40-31.10])
+- keyword_score: 均值=24.59 标准差=24.45 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 20:29:58
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.9
+- 语法错误: 0.9
+- 上下文一致性: 33.1%
+- 主题集中度: 20.9%
+- 关键词匹配: 9.6%
+- 可读性: 18.2%
+- Flesch-Kincaid等级: 5.1
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 14/21种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.33 标准差=12.73 (范围[11.44-81.50])
+- grammar_errors: 均值=2.19 标准差=2.89 (范围[1.00-16.00])
+- coherence: 均值=84.66 标准差=4.12 (范围[71.50-91.65])
+- theme_focus: 均值=53.32 标准差=18.51 (范围[4.72-71.23])
+- flesch: 均值=46.62 标准差=21.97 (范围[-11.63-77.47])
+- fkgl: 均值=12.91 标准差=5.16 (范围[5.40-31.10])
+- keyword_score: 均值=24.59 标准差=24.45 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 20:47:13
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.8
+- 语法错误: 0.8
+- 上下文一致性: 32.7%
+- 主题集中度: 20.6%
+- 关键词匹配: 9.5%
+- 可读性: 18.0%
+- Flesch-Kincaid等级: 5.0
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 14/21种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.33 标准差=12.73 (范围[11.44-81.50])
+- grammar_errors: 均值=2.19 标准差=2.89 (范围[1.00-16.00])
+- coherence: 均值=84.66 标准差=4.12 (范围[71.50-91.65])
+- theme_focus: 均值=53.32 标准差=18.51 (范围[4.72-71.23])
+- flesch: 均值=46.62 标准差=21.97 (范围[-11.63-77.47])
+- fkgl: 均值=12.91 标准差=5.16 (范围[5.40-31.10])
+- keyword_score: 均值=24.59 标准差=24.45 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 21:03:35
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.6
+- 语法错误: 0.8
+- 上下文一致性: 32.2%
+- 主题集中度: 20.3%
+- 关键词匹配: 9.4%
+- 可读性: 17.7%
+- Flesch-Kincaid等级: 4.9
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 2次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 14/21种
+高频成功主题(top5):
+- library book mystery: 2次
+- garden harvest day: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.33 标准差=12.73 (范围[11.44-81.50])
+- grammar_errors: 均值=2.19 标准差=2.89 (范围[1.00-16.00])
+- coherence: 均值=84.66 标准差=4.12 (范围[71.50-91.65])
+- theme_focus: 均值=53.32 标准差=18.51 (范围[4.72-71.23])
+- flesch: 均值=46.62 标准差=21.97 (范围[-11.63-77.47])
+- fkgl: 均值=12.91 标准差=5.16 (范围[5.40-31.10])
+- keyword_score: 均值=24.59 标准差=24.45 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 21:36:19
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.6
+- 语法错误: 0.8
+- 上下文一致性: 32.5%
+- 主题集中度: 20.6%
+- 关键词匹配: 9.3%
+- 可读性: 17.9%
+- Flesch-Kincaid等级: 4.9
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 14/21种
+高频成功主题(top5):
+- garden harvest day: 3次
+- library book mystery: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.01 标准差=12.61 (范围[11.44-81.50])
+- grammar_errors: 均值=2.14 标准差=2.85 (范围[1.00-16.00])
+- coherence: 均值=84.65 标准差=4.04 (范围[71.50-91.65])
+- theme_focus: 均值=53.63 标准差=18.25 (范围[4.72-71.23])
+- flesch: 均值=46.62 标准差=21.57 (范围[-11.63-77.47])
+- fkgl: 均值=12.84 标准差=5.08 (范围[5.40-31.10])
+- keyword_score: 均值=24.20 标准差=24.10 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 21:52:33
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.5
+- 语法错误: 0.8
+- 上下文一致性: 32.0%
+- 主题集中度: 20.3%
+- 关键词匹配: 9.2%
+- 可读性: 17.6%
+- Flesch-Kincaid等级: 4.9
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 1次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 14/21种
+高频成功主题(top5):
+- garden harvest day: 3次
+- library book mystery: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 1次
+【参数离散度分析】
+- avg_length: 均值=25.01 标准差=12.61 (范围[11.44-81.50])
+- grammar_errors: 均值=2.14 标准差=2.85 (范围[1.00-16.00])
+- coherence: 均值=84.65 标准差=4.04 (范围[71.50-91.65])
+- theme_focus: 均值=53.63 标准差=18.25 (范围[4.72-71.23])
+- flesch: 均值=46.62 标准差=21.57 (范围[-11.63-77.47])
+- fkgl: 均值=12.84 标准差=5.08 (范围[5.40-31.10])
+- keyword_score: 均值=24.20 标准差=24.10 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 22:25:42
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.4
+- 语法错误: 0.8
+- 上下文一致性: 32.3%
+- 主题集中度: 20.7%
+- 关键词匹配: 9.0%
+- 可读性: 18.1%
+- Flesch-Kincaid等级: 4.8
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 2次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 14/21种
+高频成功主题(top5):
+- garden harvest day: 3次
+- cookie baking time: 2次
+- library book mystery: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+【参数离散度分析】
+- avg_length: 均值=24.66 标准差=12.53 (范围[11.44-81.50])
+- grammar_errors: 均值=2.10 标准差=2.81 (范围[1.00-16.00])
+- coherence: 均值=84.72 标准差=3.99 (范围[71.50-91.65])
+- theme_focus: 均值=54.20 标准差=18.19 (范围[4.72-71.23])
+- flesch: 均值=47.51 标准差=21.72 (范围[-11.63-77.47])
+- fkgl: 均值=12.64 标准差=5.10 (范围[5.40-31.10])
+- keyword_score: 均值=23.57 标准差=23.92 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 22:59:49
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.4
+- 语法错误: 0.8
+- 上下文一致性: 32.6%
+- 主题集中度: 20.8%
+- 关键词匹配: 8.9%
+- 可读性: 18.2%
+- Flesch-Kincaid等级: 4.8
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 14/21种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+【参数离散度分析】
+- avg_length: 均值=24.42 标准差=12.38 (范围[11.44-81.50])
+- grammar_errors: 均值=2.07 标准差=2.77 (范围[1.00-16.00])
+- coherence: 均值=84.73 标准差=3.92 (范围[71.50-91.65])
+- theme_focus: 均值=53.96 标准差=17.93 (范围[4.72-71.23])
+- flesch: 均值=47.44 标准差=21.36 (范围[-11.63-77.47])
+- fkgl: 均值=12.59 标准差=5.02 (范围[5.40-31.10])
+- keyword_score: 均值=23.10 标准差=23.65 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 23:16:08
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.3
+- 语法错误: 0.8
+- 上下文一致性: 32.2%
+- 主题集中度: 20.5%
+- 关键词匹配: 8.8%
+- 可读性: 18.0%
+- Flesch-Kincaid等级: 4.8
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 14/21种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+【参数离散度分析】
+- avg_length: 均值=24.42 标准差=12.38 (范围[11.44-81.50])
+- grammar_errors: 均值=2.07 标准差=2.77 (范围[1.00-16.00])
+- coherence: 均值=84.73 标准差=3.92 (范围[71.50-91.65])
+- theme_focus: 均值=53.96 标准差=17.93 (范围[4.72-71.23])
+- flesch: 均值=47.44 标准差=21.36 (范围[-11.63-77.47])
+- fkgl: 均值=12.59 标准差=5.02 (范围[5.40-31.10])
+- keyword_score: 均值=23.10 标准差=23.65 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 23:32:23
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.2
+- 语法错误: 0.8
+- 上下文一致性: 31.8%
+- 主题集中度: 20.2%
+- 关键词匹配: 8.7%
+- 可读性: 17.8%
+- Flesch-Kincaid等级: 4.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 14/21种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+【参数离散度分析】
+- avg_length: 均值=24.42 标准差=12.38 (范围[11.44-81.50])
+- grammar_errors: 均值=2.07 标准差=2.77 (范围[1.00-16.00])
+- coherence: 均值=84.73 标准差=3.92 (范围[71.50-91.65])
+- theme_focus: 均值=53.96 标准差=17.93 (范围[4.72-71.23])
+- flesch: 均值=47.44 标准差=21.36 (范围[-11.63-77.47])
+- fkgl: 均值=12.59 标准差=5.02 (范围[5.40-31.10])
+- keyword_score: 均值=23.10 标准差=23.65 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-13 23:48:57
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.0
+- 语法错误: 0.8
+- 上下文一致性: 31.4%
+- 主题集中度: 20.0%
+- 关键词匹配: 8.6%
+- 可读性: 17.6%
+- Flesch-Kincaid等级: 4.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 14/21种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+【参数离散度分析】
+- avg_length: 均值=24.42 标准差=12.38 (范围[11.44-81.50])
+- grammar_errors: 均值=2.07 标准差=2.77 (范围[1.00-16.00])
+- coherence: 均值=84.73 标准差=3.92 (范围[71.50-91.65])
+- theme_focus: 均值=53.96 标准差=17.93 (范围[4.72-71.23])
+- flesch: 均值=47.44 标准差=21.36 (范围[-11.63-77.47])
+- fkgl: 均值=12.59 标准差=5.02 (范围[5.40-31.10])
+- keyword_score: 均值=23.10 标准差=23.65 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-14 00:05:34
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.9
+- 语法错误: 0.8
+- 上下文一致性: 31.0%
+- 主题集中度: 19.7%
+- 关键词匹配: 8.5%
+- 可读性: 17.4%
+- Flesch-Kincaid等级: 4.6
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 14/21种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+【参数离散度分析】
+- avg_length: 均值=24.42 标准差=12.38 (范围[11.44-81.50])
+- grammar_errors: 均值=2.07 标准差=2.77 (范围[1.00-16.00])
+- coherence: 均值=84.73 标准差=3.92 (范围[71.50-91.65])
+- theme_focus: 均值=53.96 标准差=17.93 (范围[4.72-71.23])
+- flesch: 均值=47.44 标准差=21.36 (范围[-11.63-77.47])
+- fkgl: 均值=12.59 标准差=5.02 (范围[5.40-31.10])
+- keyword_score: 均值=23.10 标准差=23.65 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-14 00:22:53
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.8
+- 语法错误: 0.7
+- 上下文一致性: 30.6%
+- 主题集中度: 19.5%
+- 关键词匹配: 8.3%
+- 可读性: 17.1%
+- Flesch-Kincaid等级: 4.6
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+【主题类型统计】
+成功主题覆盖率: 14/21种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+【参数离散度分析】
+- avg_length: 均值=24.42 标准差=12.38 (范围[11.44-81.50])
+- grammar_errors: 均值=2.07 标准差=2.77 (范围[1.00-16.00])
+- coherence: 均值=84.73 标准差=3.92 (范围[71.50-91.65])
+- theme_focus: 均值=53.96 标准差=17.93 (范围[4.72-71.23])
+- flesch: 均值=47.44 标准差=21.36 (范围[-11.63-77.47])
+- fkgl: 均值=12.59 标准差=5.02 (范围[5.40-31.10])
+- keyword_score: 均值=23.10 标准差=23.65 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-14 00:39:40
+【当前文章质量】
+- 平均句长: 17.3(标准7-15)
+- 语法错误数: 4
+- 上下文一致性: 68.5%
+- 主题集中度: 53.7%
+- Flesch可读性指数: 44.44%
+- Flesch-Kincaid等级: 11.6
+- 关键词匹配度: 33.3%
+全部文章平均值:
+- 平均句长: 8.9
+- 语法错误: 0.8
+- 上下文一致性: 31.1%
+- 主题集中度: 19.9%
+- 关键词匹配: 8.6%
+- 可读性: 17.5%
+- Flesch-Kincaid等级: 4.6
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+- school science fair: 1次
+【主题类型统计】
+成功主题覆盖率: 14/22种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+【参数离散度分析】
+- avg_length: 均值=24.19 标准差=12.25 (范围[11.44-81.50])
+- grammar_errors: 均值=2.13 标准差=2.74 (范围[1.00-16.00])
+- coherence: 均值=84.21 标准差=4.80 (范围[68.50-91.65])
+- theme_focus: 均值=53.95 标准差=17.64 (范围[4.72-71.23])
+- flesch: 均值=47.34 标准差=21.02 (范围[-11.63-77.47])
+- fkgl: 均值=12.56 标准差=4.95 (范围[5.40-31.10])
+- keyword_score: 均值=23.43 标准差=23.33 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-14 00:56:15
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.8
+- 语法错误: 0.8
+- 上下文一致性: 30.7%
+- 主题集中度: 19.7%
+- 关键词匹配: 8.5%
+- 可读性: 17.3%
+- Flesch-Kincaid等级: 4.6
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+- school science fair: 1次
+【主题类型统计】
+成功主题覆盖率: 14/22种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+【参数离散度分析】
+- avg_length: 均值=24.19 标准差=12.25 (范围[11.44-81.50])
+- grammar_errors: 均值=2.13 标准差=2.74 (范围[1.00-16.00])
+- coherence: 均值=84.21 标准差=4.80 (范围[68.50-91.65])
+- theme_focus: 均值=53.95 标准差=17.64 (范围[4.72-71.23])
+- flesch: 均值=47.34 标准差=21.02 (范围[-11.63-77.47])
+- fkgl: 均值=12.56 标准差=4.95 (范围[5.40-31.10])
+- keyword_score: 均值=23.43 标准差=23.33 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-14 01:12:42
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.7
+- 语法错误: 0.8
+- 上下文一致性: 30.4%
+- 主题集中度: 19.4%
+- 关键词匹配: 8.4%
+- 可读性: 17.1%
+- Flesch-Kincaid等级: 4.5
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+- school science fair: 1次
+【主题类型统计】
+成功主题覆盖率: 14/22种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+【参数离散度分析】
+- avg_length: 均值=24.19 标准差=12.25 (范围[11.44-81.50])
+- grammar_errors: 均值=2.13 标准差=2.74 (范围[1.00-16.00])
+- coherence: 均值=84.21 标准差=4.80 (范围[68.50-91.65])
+- theme_focus: 均值=53.95 标准差=17.64 (范围[4.72-71.23])
+- flesch: 均值=47.34 标准差=21.02 (范围[-11.63-77.47])
+- fkgl: 均值=12.56 标准差=4.95 (范围[5.40-31.10])
+- keyword_score: 均值=23.43 标准差=23.33 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-14 01:29:26
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.6
+- 语法错误: 0.8
+- 上下文一致性: 30.0%
+- 主题集中度: 19.2%
+- 关键词匹配: 8.3%
+- 可读性: 16.9%
+- Flesch-Kincaid等级: 4.5
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 1次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 2次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+- school science fair: 1次
+【主题类型统计】
+成功主题覆盖率: 14/22种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+【参数离散度分析】
+- avg_length: 均值=24.19 标准差=12.25 (范围[11.44-81.50])
+- grammar_errors: 均值=2.13 标准差=2.74 (范围[1.00-16.00])
+- coherence: 均值=84.21 标准差=4.80 (范围[68.50-91.65])
+- theme_focus: 均值=53.95 标准差=17.64 (范围[4.72-71.23])
+- flesch: 均值=47.34 标准差=21.02 (范围[-11.63-77.47])
+- fkgl: 均值=12.56 标准差=4.95 (范围[5.40-31.10])
+- keyword_score: 均值=23.43 标准差=23.33 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-14 02:02:35
+【当前文章质量】
+- 平均句长: 25.6(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 86.6%
+- 主题集中度: 59.0%
+- Flesch可读性指数: 37.03%
+- Flesch-Kincaid等级: 14.5
+- 关键词匹配度: 9.5%
+全部文章平均值:
+- 平均句长: 9.0
+- 语法错误: 0.8
+- 上下文一致性: 31.3%
+- 主题集中度: 19.5%
+- 关键词匹配: 8.3%
+- 可读性: 17.5%
+- Flesch-Kincaid等级: 4.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 2次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 3次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+- school science fair: 1次
+- fishing trip surprise: 1次
+【主题类型统计】
+成功主题覆盖率: 14/23种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- backyard campout: 2次
+- bicycle trail adventure: 1次
+【参数离散度分析】
+- avg_length: 均值=24.17 标准差=11.88 (范围[11.44-81.50])
+- grammar_errors: 均值=2.06 标准差=2.67 (范围[1.00-16.00])
+- coherence: 均值=84.30 标准差=4.68 (范围[68.50-91.65])
+- theme_focus: 均值=52.62 标准差=19.08 (范围[4.72-71.23])
+- flesch: 均值=47.09 标准差=20.45 (范围[-11.63-77.47])
+- fkgl: 均值=12.60 标准差=4.81 (范围[5.40-31.10])
+- keyword_score: 均值=22.30 标准差=23.08 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-14 02:19:25
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.9
+- 语法错误: 0.8
+- 上下文一致性: 30.9%
+- 主题集中度: 19.3%
+- 关键词匹配: 8.2%
+- 可读性: 17.3%
+- Flesch-Kincaid等级: 4.6
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 2次
+- school art project: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 1次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 3次
+- rainy day fort: 1次
+- bike parade fun: 1次
+- school play rehearsal: 1次
+- school science fair: 1次
+- fishing trip surprise: 1次
+【主题类型统计】
+成功主题覆盖率: 14/23种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- backyard campout: 2次
+- bicycle trail adventure: 1次
+【参数离散度分析】
+- avg_length: 均值=24.17 标准差=11.88 (范围[11.44-81.50])
+- grammar_errors: 均值=2.06 标准差=2.67 (范围[1.00-16.00])
+- coherence: 均值=84.30 标准差=4.68 (范围[68.50-91.65])
+- theme_focus: 均值=52.62 标准差=19.08 (范围[4.72-71.23])
+- flesch: 均值=47.09 标准差=20.45 (范围[-11.63-77.47])
+- fkgl: 均值=12.60 标准差=4.81 (范围[5.40-31.10])
+- keyword_score: 均值=22.30 标准差=23.08 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-14 02:53:06
+【当前文章质量】
+- 平均句长: 13.6(标准7-15)
+- 语法错误数: 2
+- 上下文一致性: 64.3%
+- 主题集中度: 5.6%
+- Flesch可读性指数: 47.69%
+- Flesch-Kincaid等级: 10.4
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.0
+- 语法错误: 0.8
+- 上下文一致性: 31.8%
+- 主题集中度: 19.0%
+- 关键词匹配: 8.0%
+- 可读性: 18.2%
+- Flesch-Kincaid等级: 4.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 1次
+- backyard campout: 2次
+- school art project: 1次
+- secret recipe discovery: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 2次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 3次
+- rainy day fort: 1次
+- bike parade fun: 2次
+- school play rehearsal: 1次
+- school science fair: 1次
+- fishing trip surprise: 1次
+【主题类型统计】
+成功主题覆盖率: 15/23种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- backyard campout: 2次
+- bicycle trail adventure: 1次
+【参数离散度分析】
+- avg_length: 均值=23.67 标准差=11.72 (范围[11.44-81.50])
+- grammar_errors: 均值=2.03 标准差=2.60 (范围[1.00-16.00])
+- coherence: 均值=83.68 标准差=5.63 (范围[64.33-91.65])
+- theme_focus: 均值=49.94 标准差=21.50 (范围[4.72-71.23])
+- flesch: 均值=47.78 标准差=20.25 (范围[-11.63-77.47])
+- fkgl: 均值=12.39 标准差=4.75 (范围[5.40-31.10])
+- keyword_score: 均值=21.03 标准差=23.00 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-14 03:26:17
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.0
+- 语法错误: 0.8
+- 上下文一致性: 32.0%
+- 主题集中度: 19.3%
+- 关键词匹配: 7.9%
+- 可读性: 18.6%
+- Flesch-Kincaid等级: 4.7
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 2次
+- backyard campout: 2次
+- school art project: 1次
+- secret recipe discovery: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 2次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 3次
+- rainy day fort: 2次
+- bike parade fun: 2次
+- school play rehearsal: 1次
+- school science fair: 1次
+- fishing trip surprise: 1次
+【主题类型统计】
+成功主题覆盖率: 15/23种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- rainy day fort: 2次
+- backyard campout: 2次
+【参数离散度分析】
+- avg_length: 均值=23.46 标准差=11.62 (范围[11.44-81.50])
+- grammar_errors: 均值=2.00 标准差=2.57 (范围[1.00-16.00])
+- coherence: 均值=83.67 标准差=5.55 (范围[64.33-91.65])
+- theme_focus: 均值=50.45 标准差=21.41 (范围[4.72-71.23])
+- flesch: 均值=48.69 标准差=20.67 (范围[-11.63-80.51])
+- fkgl: 均值=12.22 标准差=4.80 (范围[5.40-31.10])
+- keyword_score: 均值=20.58 标准差=22.83 (范围[0.00-100.00])
+
+
+生成时间: 2025-07-14 03:43:19
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.9
+- 语法错误: 0.8
+- 上下文一致性: 31.7%
+- 主题集中度: 19.1%
+- 关键词匹配: 7.8%
+- 可读性: 18.5%
+- Flesch-Kincaid等级: 4.6
+【主题类型统计】
+成功文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- neighborhood clean-up: 1次
+- lost toy search: 1次
+- stormy night experience: 1次
+- rainy day fort: 2次
+- backyard campout: 2次
+- school art project: 1次
+- secret recipe discovery: 1次
+全部文章主题分布:
+- bicycle trail adventure: 1次
+- beach sandcastle day: 1次
+- secret recipe discovery: 2次
+- bike repair challenge: 1次
+- cookie baking time: 2次
+- library book mystery: 3次
+- vegetable garden help: 1次
+- garden harvest day: 3次
+- family pizza night: 1次
+- family hiking trip: 1次
+- hidden treehouse secret: 1次
+- neighborhood clean-up: 1次
+- school art project: 2次
+- sunday pancake breakfast: 1次
+- lost toy search: 2次
+- puppy rescue mission: 2次
+- stormy night experience: 1次
+- backyard campout: 3次
+- rainy day fort: 2次
+- bike parade fun: 2次
+- school play rehearsal: 1次
+- school science fair: 1次
+- fishing trip surprise: 1次
+【主题类型统计】
+成功主题覆盖率: 15/23种
+高频成功主题(top5):
+- library book mystery: 3次
+- garden harvest day: 3次
+- cookie baking time: 2次
+- rainy day fort: 2次
+- backyard campout: 2次
+【参数离散度分析】
+- avg_length: 均值=23.46 标准差=11.62 (范围[11.44-81.50])
+- grammar_errors: 均值=2.00 标准差=2.57 (范围[1.00-16.00])
+- coherence: 均值=83.67 标准差=5.55 (范围[64.33-91.65])
+- theme_focus: 均值=50.45 标准差=21.41 (范围[4.72-71.23])
+- flesch: 均值=48.69 标准差=20.67 (范围[-11.63-80.51])
+- fkgl: 均值=12.22 标准差=4.80 (范围[5.40-31.10])
+- keyword_score: 均值=20.58 标准差=22.83 (范围[0.00-100.00])
+
+

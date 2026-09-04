@@ -1,0 +1,2877 @@
+生成时间: 2025-07-16 07:54:11
+【当前文章质量】
+- 平均句长: 10.2(标准7-15)
+- 语法错误数: 13
+- 上下文一致性: 74.9%
+- 主题集中度: 5.1%
+- Flesch可读性指数: 61.12%
+- Flesch-Kincaid等级: 7.3
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 14.4
+- 语法错误: 2.4
+- 上下文一致性: 72.8%
+- 主题集中度: 42.7%
+- 关键词匹配: 31.4%
+- 可读性: 61.7%
+- Flesch-Kincaid等级: 7.1
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+【主题类型统计】
+成功主题覆盖率: 9/10种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=15.83 标准差=3.35 (范围[10.17-21.38])
+- grammar_errors: 均值=2.60 标准差=3.53 (范围[1.00-13.00])
+- coherence: 均值=80.04 标准差=3.38 (范围[74.91-86.57])
+- theme_focus: 均值=46.97 标准差=21.27 (范围[5.07-65.97])
+- flesch: 均值=67.82 标准差=9.92 (范围[49.75-84.88])
+- fkgl: 均值=7.82 标准差=1.95 (范围[4.40-11.60])
+- keyword_score: 均值=34.53 标准差=30.52 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 08:15:54
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 13.2
+- 语法错误: 2.2
+- 上下文一致性: 66.7%
+- 主题集中度: 39.1%
+- 关键词匹配: 28.8%
+- 可读性: 56.5%
+- Flesch-Kincaid等级: 6.5
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+【主题类型统计】
+成功主题覆盖率: 9/10种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=15.83 标准差=3.35 (范围[10.17-21.38])
+- grammar_errors: 均值=2.60 标准差=3.53 (范围[1.00-13.00])
+- coherence: 均值=80.04 标准差=3.38 (范围[74.91-86.57])
+- theme_focus: 均值=46.97 标准差=21.27 (范围[5.07-65.97])
+- flesch: 均值=67.82 标准差=9.92 (范围[49.75-84.88])
+- fkgl: 均值=7.82 标准差=1.95 (范围[4.40-11.60])
+- keyword_score: 均值=34.53 标准差=30.52 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 08:39:19
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 12.2
+- 语法错误: 2.0
+- 上下文一致性: 61.6%
+- 主题集中度: 36.1%
+- 关键词匹配: 26.6%
+- 可读性: 52.2%
+- Flesch-Kincaid等级: 6.0
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+【主题类型统计】
+成功主题覆盖率: 9/10种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=15.83 标准差=3.35 (范围[10.17-21.38])
+- grammar_errors: 均值=2.60 标准差=3.53 (范围[1.00-13.00])
+- coherence: 均值=80.04 标准差=3.38 (范围[74.91-86.57])
+- theme_focus: 均值=46.97 标准差=21.27 (范围[5.07-65.97])
+- flesch: 均值=67.82 标准差=9.92 (范围[49.75-84.88])
+- fkgl: 均值=7.82 标准差=1.95 (范围[4.40-11.60])
+- keyword_score: 均值=34.53 标准差=30.52 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 09:03:23
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 11.3
+- 语法错误: 1.9
+- 上下文一致性: 57.2%
+- 主题集中度: 33.5%
+- 关键词匹配: 24.7%
+- 可读性: 48.4%
+- Flesch-Kincaid等级: 5.6
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+【主题类型统计】
+成功主题覆盖率: 9/10种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=15.83 标准差=3.35 (范围[10.17-21.38])
+- grammar_errors: 均值=2.60 标准差=3.53 (范围[1.00-13.00])
+- coherence: 均值=80.04 标准差=3.38 (范围[74.91-86.57])
+- theme_focus: 均值=46.97 标准差=21.27 (范围[5.07-65.97])
+- flesch: 均值=67.82 标准差=9.92 (范围[49.75-84.88])
+- fkgl: 均值=7.82 标准差=1.95 (范围[4.40-11.60])
+- keyword_score: 均值=34.53 标准差=30.52 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 09:48:26
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 10.8
+- 语法错误: 1.7
+- 上下文一致性: 55.0%
+- 主题集中度: 32.3%
+- 关键词匹配: 22.2%
+- 可读性: 47.6%
+- Flesch-Kincaid等级: 5.2
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 1次
+【主题类型统计】
+成功主题覆盖率: 10/11种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=15.64 标准差=3.25 (范围[10.17-21.38])
+- grammar_errors: 均值=2.45 标准差=3.39 (范围[1.00-13.00])
+- coherence: 均值=79.99 标准差=3.23 (范围[74.91-86.57])
+- theme_focus: 均值=46.92 标准差=20.28 (范围[5.07-65.97])
+- flesch: 均值=69.19 标准差=10.39 (范围[49.75-84.88])
+- fkgl: 均值=7.57 标准差=2.02 (范围[4.40-11.60])
+- keyword_score: 均值=32.25 标准差=29.97 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 10:08:51
+【当前文章质量】
+- 平均句长: 23.4(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 83.2%
+- 主题集中度: 55.6%
+- Flesch可读性指数: 30.8%
+- Flesch-Kincaid等级: 14.8
+- 关键词匹配度: 9.1%
+全部文章平均值:
+- 平均句长: 11.5
+- 语法错误: 1.6
+- 上下文一致性: 56.7%
+- 主题集中度: 33.6%
+- 关键词匹配: 21.4%
+- 可读性: 46.6%
+- Flesch-Kincaid等级: 5.8
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 1次
+- broken window mystery: 1次
+【主题类型统计】
+成功主题覆盖率: 10/12种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=16.29 标准差=3.78 (范围[10.17-23.40])
+- grammar_errors: 均值=2.33 标准差=3.27 (范围[1.00-13.00])
+- coherence: 均值=80.26 标准差=3.22 (范围[74.91-86.57])
+- theme_focus: 均值=47.65 标准差=19.56 (范围[5.07-65.97])
+- flesch: 均值=65.99 标准差=14.55 (范围[30.80-84.88])
+- fkgl: 均值=8.17 标准差=2.78 (范围[4.40-14.80])
+- keyword_score: 均值=30.32 标准差=29.40 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 10:32:51
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 10.9
+- 语法错误: 1.6
+- 上下文一致性: 53.5%
+- 主题集中度: 31.8%
+- 关键词匹配: 20.2%
+- 可读性: 44.0%
+- Flesch-Kincaid等级: 5.4
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 1次
+- broken window mystery: 1次
+【主题类型统计】
+成功主题覆盖率: 10/12种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=16.29 标准差=3.78 (范围[10.17-23.40])
+- grammar_errors: 均值=2.33 标准差=3.27 (范围[1.00-13.00])
+- coherence: 均值=80.26 标准差=3.22 (范围[74.91-86.57])
+- theme_focus: 均值=47.65 标准差=19.56 (范围[5.07-65.97])
+- flesch: 均值=65.99 标准差=14.55 (范围[30.80-84.88])
+- fkgl: 均值=8.17 标准差=2.78 (范围[4.40-14.80])
+- keyword_score: 均值=30.32 标准差=29.40 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 10:53:19
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 10.3
+- 语法错误: 1.5
+- 上下文一致性: 50.7%
+- 主题集中度: 30.1%
+- 关键词匹配: 19.2%
+- 可读性: 41.7%
+- Flesch-Kincaid等级: 5.2
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 1次
+- broken window mystery: 1次
+【主题类型统计】
+成功主题覆盖率: 10/12种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=16.29 标准差=3.78 (范围[10.17-23.40])
+- grammar_errors: 均值=2.33 标准差=3.27 (范围[1.00-13.00])
+- coherence: 均值=80.26 标准差=3.22 (范围[74.91-86.57])
+- theme_focus: 均值=47.65 标准差=19.56 (范围[5.07-65.97])
+- flesch: 均值=65.99 标准差=14.55 (范围[30.80-84.88])
+- fkgl: 均值=8.17 标准差=2.78 (范围[4.40-14.80])
+- keyword_score: 均值=30.32 标准差=29.40 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 11:14:05
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.8
+- 语法错误: 1.4
+- 上下文一致性: 48.2%
+- 主题集中度: 28.6%
+- 关键词匹配: 18.2%
+- 可读性: 39.6%
+- Flesch-Kincaid等级: 4.9
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 1次
+- broken window mystery: 1次
+【主题类型统计】
+成功主题覆盖率: 10/12种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=16.29 标准差=3.78 (范围[10.17-23.40])
+- grammar_errors: 均值=2.33 标准差=3.27 (范围[1.00-13.00])
+- coherence: 均值=80.26 标准差=3.22 (范围[74.91-86.57])
+- theme_focus: 均值=47.65 标准差=19.56 (范围[5.07-65.97])
+- flesch: 均值=65.99 标准差=14.55 (范围[30.80-84.88])
+- fkgl: 均值=8.17 标准差=2.78 (范围[4.40-14.80])
+- keyword_score: 均值=30.32 标准差=29.40 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 12:19:23
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 10.2
+- 语法错误: 1.3
+- 上下文一致性: 49.1%
+- 主题集中度: 30.5%
+- 关键词匹配: 16.2%
+- 可读性: 39.3%
+- Flesch-Kincaid等级: 5.2
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 1次
+- lemonade stand success: 1次
+- backyard camping: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 1次
+- broken window mystery: 1次
+- lemonade stand success: 1次
+- backyard camping: 1次
+【主题类型统计】
+成功主题覆盖率: 12/14种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=16.71 标准差=3.66 (范围[10.17-23.40])
+- grammar_errors: 均值=2.14 标准差=3.07 (范围[1.00-13.00])
+- coherence: 均值=80.66 标准差=3.21 (范围[74.91-86.57])
+- theme_focus: 均值=50.03 标准差=19.15 (范围[5.07-69.97])
+- flesch: 均值=64.59 标准差=14.04 (范围[30.80-84.88])
+- fkgl: 均值=8.46 标准差=2.70 (范围[4.40-14.80])
+- keyword_score: 均值=26.67 标准差=28.65 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 13:03:06
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 10.3
+- 语法错误: 1.2
+- 上下文一致性: 48.6%
+- 主题集中度: 28.2%
+- 关键词匹配: 15.1%
+- 可读性: 39.0%
+- Flesch-Kincaid等级: 5.1
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 1次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 1次
+- broken window mystery: 1次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+【主题类型统计】
+成功主题覆盖率: 13/15种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=17.23 标准差=4.04 (范围[10.17-24.57])
+- grammar_errors: 均值=2.07 标准差=2.98 (范围[1.00-13.00])
+- coherence: 均值=80.96 标准差=3.30 (范围[74.91-86.57])
+- theme_focus: 均值=47.08 标准差=21.55 (范围[5.07-69.97])
+- flesch: 均值=65.08 标准差=13.68 (范围[30.80-84.88])
+- fkgl: 均值=8.52 标准差=2.61 (范围[4.40-14.80])
+- keyword_score: 均值=25.23 标准差=28.21 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 13:44:53
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 10.2
+- 语法错误: 1.2
+- 上下文一致性: 47.9%
+- 主题集中度: 28.7%
+- 关键词匹配: 14.2%
+- 可读性: 38.8%
+- Flesch-Kincaid等级: 5.0
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 1次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 1次
+- broken window mystery: 1次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=17.18 标准差=3.92 (范围[10.17-24.57])
+- grammar_errors: 均值=2.00 标准差=2.89 (范围[1.00-13.00])
+- coherence: 均值=80.83 标准差=3.24 (范围[74.91-86.57])
+- theme_focus: 均值=48.50 标准差=21.58 (范围[5.07-69.97])
+- flesch: 均值=65.50 标准差=13.35 (范围[30.80-84.88])
+- fkgl: 均值=8.44 标准差=2.55 (范围[4.40-14.80])
+- keyword_score: 均值=23.96 标准差=27.75 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 14:04:37
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.8
+- 语法错误: 1.1
+- 上下文一致性: 46.2%
+- 主题集中度: 27.7%
+- 关键词匹配: 13.7%
+- 可读性: 37.4%
+- Flesch-Kincaid等级: 4.8
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 1次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 1次
+- broken window mystery: 1次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+【参数离散度分析】
+- avg_length: 均值=17.18 标准差=3.92 (范围[10.17-24.57])
+- grammar_errors: 均值=2.00 标准差=2.89 (范围[1.00-13.00])
+- coherence: 均值=80.83 标准差=3.24 (范围[74.91-86.57])
+- theme_focus: 均值=48.50 标准差=21.58 (范围[5.07-69.97])
+- flesch: 均值=65.50 标准差=13.35 (范围[30.80-84.88])
+- fkgl: 均值=8.44 标准差=2.55 (范围[4.40-14.80])
+- keyword_score: 均值=23.96 标准差=27.75 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 14:44:05
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.5
+- 语法错误: 1.1
+- 上下文一致性: 45.7%
+- 主题集中度: 28.2%
+- 关键词匹配: 12.9%
+- 可读性: 37.5%
+- Flesch-Kincaid等级: 4.7
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 2次
+- broken window mystery: 1次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- hidden treehouse note: 2次
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+【参数离散度分析】
+- avg_length: 均值=16.77 标准差=4.14 (范围[10.17-24.57])
+- grammar_errors: 均值=1.94 标准差=2.82 (范围[1.00-13.00])
+- coherence: 均值=80.57 标准差=3.31 (范围[74.91-86.57])
+- theme_focus: 均值=49.77 标准差=21.54 (范围[5.07-70.14])
+- flesch: 均值=66.19 标准差=13.24 (范围[30.80-84.88])
+- fkgl: 均值=8.25 标准差=2.59 (范围[4.40-14.80])
+- keyword_score: 均值=22.85 标准差=27.28 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 15:03:21
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.2
+- 语法错误: 1.1
+- 上下文一致性: 44.2%
+- 主题集中度: 27.3%
+- 关键词匹配: 12.5%
+- 可读性: 36.3%
+- Flesch-Kincaid等级: 4.5
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 2次
+- broken window mystery: 1次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- hidden treehouse note: 2次
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+【参数离散度分析】
+- avg_length: 均值=16.77 标准差=4.14 (范围[10.17-24.57])
+- grammar_errors: 均值=1.94 标准差=2.82 (范围[1.00-13.00])
+- coherence: 均值=80.57 标准差=3.31 (范围[74.91-86.57])
+- theme_focus: 均值=49.77 标准差=21.54 (范围[5.07-70.14])
+- flesch: 均值=66.19 标准差=13.24 (范围[30.80-84.88])
+- fkgl: 均值=8.25 标准差=2.59 (范围[4.40-14.80])
+- keyword_score: 均值=22.85 标准差=27.28 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 15:20:51
+【当前文章质量】
+- 平均句长: 25.3(标准7-15)
+- 语法错误数: 2
+- 上下文一致性: 86.8%
+- 主题集中度: 69.2%
+- Flesch可读性指数: 28.88%
+- Flesch-Kincaid等级: 15.5
+- 关键词匹配度: 4.8%
+全部文章平均值:
+- 平均句长: 9.7
+- 语法错误: 1.1
+- 上下文一致性: 45.5%
+- 主题集中度: 28.6%
+- 关键词匹配: 12.3%
+- 可读性: 36.1%
+- Flesch-Kincaid等级: 4.9
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- hidden treehouse note: 2次
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+【参数离散度分析】
+- avg_length: 均值=17.24 标准差=4.47 (范围[10.17-25.29])
+- grammar_errors: 均值=1.94 标准差=2.74 (范围[1.00-13.00])
+- coherence: 均值=80.92 标准差=3.53 (范围[74.91-86.84])
+- theme_focus: 均值=50.85 标准差=21.40 (范围[5.07-70.14])
+- flesch: 均值=64.12 标准差=15.45 (范围[28.88-84.88])
+- fkgl: 均值=8.66 标准差=3.01 (范围[4.40-15.50])
+- keyword_score: 均值=21.84 标准差=26.84 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 15:38:36
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.4
+- 语法错误: 1.1
+- 上下文一致性: 44.1%
+- 主题集中度: 27.7%
+- 关键词匹配: 11.9%
+- 可读性: 35.0%
+- Flesch-Kincaid等级: 4.7
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- hidden treehouse note: 2次
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+【参数离散度分析】
+- avg_length: 均值=17.24 标准差=4.47 (范围[10.17-25.29])
+- grammar_errors: 均值=1.94 标准差=2.74 (范围[1.00-13.00])
+- coherence: 均值=80.92 标准差=3.53 (范围[74.91-86.84])
+- theme_focus: 均值=50.85 标准差=21.40 (范围[5.07-70.14])
+- flesch: 均值=64.12 标准差=15.45 (范围[28.88-84.88])
+- fkgl: 均值=8.66 标准差=3.01 (范围[4.40-15.50])
+- keyword_score: 均值=21.84 标准差=26.84 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 15:57:06
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.1
+- 语法错误: 1.0
+- 上下文一致性: 42.8%
+- 主题集中度: 26.9%
+- 关键词匹配: 11.6%
+- 可读性: 33.9%
+- Flesch-Kincaid等级: 4.6
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 1次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- hidden treehouse note: 2次
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+【参数离散度分析】
+- avg_length: 均值=17.24 标准差=4.47 (范围[10.17-25.29])
+- grammar_errors: 均值=1.94 标准差=2.74 (范围[1.00-13.00])
+- coherence: 均值=80.92 标准差=3.53 (范围[74.91-86.84])
+- theme_focus: 均值=50.85 标准差=21.40 (范围[5.07-70.14])
+- flesch: 均值=64.12 标准差=15.45 (范围[28.88-84.88])
+- fkgl: 均值=8.66 标准差=3.01 (范围[4.40-15.50])
+- keyword_score: 均值=21.84 标准差=26.84 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 16:33:16
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 9.0
+- 语法错误: 1.1
+- 上下文一致性: 42.7%
+- 主题集中度: 27.3%
+- 关键词匹配: 11.1%
+- 可读性: 34.3%
+- Flesch-Kincaid等级: 4.5
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+【参数离散度分析】
+- avg_length: 均值=17.04 标准差=4.44 (范围[10.17-25.29])
+- grammar_errors: 均值=2.00 标准差=2.68 (范围[1.00-13.00])
+- coherence: 均值=80.94 标准差=3.43 (范围[74.91-86.84])
+- theme_focus: 均值=51.77 标准差=21.19 (范围[5.07-70.14])
+- flesch: 均值=65.08 标准差=15.58 (范围[28.88-84.88])
+- fkgl: 均值=8.48 标准差=3.03 (范围[4.40-15.50])
+- keyword_score: 均值=20.94 标准差=26.40 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 16:53:16
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.8
+- 语法错误: 1.0
+- 上下文一致性: 41.6%
+- 主题集中度: 26.6%
+- 关键词匹配: 10.8%
+- 可读性: 33.4%
+- Flesch-Kincaid等级: 4.4
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+【参数离散度分析】
+- avg_length: 均值=17.04 标准差=4.44 (范围[10.17-25.29])
+- grammar_errors: 均值=2.00 标准差=2.68 (范围[1.00-13.00])
+- coherence: 均值=80.94 标准差=3.43 (范围[74.91-86.84])
+- theme_focus: 均值=51.77 标准差=21.19 (范围[5.07-70.14])
+- flesch: 均值=65.08 标准差=15.58 (范围[28.88-84.88])
+- fkgl: 均值=8.48 标准差=3.03 (范围[4.40-15.50])
+- keyword_score: 均值=20.94 标准差=26.40 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 17:11:00
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.5
+- 语法错误: 1.0
+- 上下文一致性: 40.5%
+- 主题集中度: 25.9%
+- 关键词匹配: 10.5%
+- 可读性: 32.5%
+- Flesch-Kincaid等级: 4.2
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 1次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+【参数离散度分析】
+- avg_length: 均值=17.04 标准差=4.44 (范围[10.17-25.29])
+- grammar_errors: 均值=2.00 标准差=2.68 (范围[1.00-13.00])
+- coherence: 均值=80.94 标准差=3.43 (范围[74.91-86.84])
+- theme_focus: 均值=51.77 标准差=21.19 (范围[5.07-70.14])
+- flesch: 均值=65.08 标准差=15.58 (范围[28.88-84.88])
+- fkgl: 均值=8.48 标准差=3.03 (范围[4.40-15.50])
+- keyword_score: 均值=20.94 标准差=26.40 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 17:46:26
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.5
+- 语法错误: 1.0
+- 上下文一致性: 40.6%
+- 主题集中度: 26.3%
+- 关键词匹配: 10.1%
+- 可读性: 32.5%
+- Flesch-Kincaid等级: 4.3
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+【参数离散度分析】
+- avg_length: 均值=17.09 标准差=4.33 (范围[10.17-25.29])
+- grammar_errors: 均值=1.95 标准差=2.62 (范围[1.00-13.00])
+- coherence: 均值=81.17 标准差=3.49 (范围[74.91-86.84])
+- theme_focus: 均值=52.65 标准差=21.01 (范围[5.07-70.14])
+- flesch: 均值=64.91 标准差=15.20 (范围[28.88-84.88])
+- fkgl: 均值=8.51 标准差=2.95 (范围[4.40-15.50])
+- keyword_score: 均值=20.13 标准差=25.97 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 18:05:54
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.3
+- 语法错误: 1.0
+- 上下文一致性: 39.6%
+- 主题集中度: 25.7%
+- 关键词匹配: 9.8%
+- 可读性: 31.7%
+- Flesch-Kincaid等级: 4.2
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- neighborhood clean-up: 1次
+- fishing trip surprise: 1次
+【参数离散度分析】
+- avg_length: 均值=17.09 标准差=4.33 (范围[10.17-25.29])
+- grammar_errors: 均值=1.95 标准差=2.62 (范围[1.00-13.00])
+- coherence: 均值=81.17 标准差=3.49 (范围[74.91-86.84])
+- theme_focus: 均值=52.65 标准差=21.01 (范围[5.07-70.14])
+- flesch: 均值=64.91 标准差=15.20 (范围[28.88-84.88])
+- fkgl: 均值=8.51 标准差=2.95 (范围[4.40-15.50])
+- keyword_score: 均值=20.13 标准差=25.97 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 18:42:11
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.3
+- 语法错误: 0.9
+- 上下文一致性: 39.6%
+- 主题集中度: 25.8%
+- 关键词匹配: 9.6%
+- 可读性: 32.1%
+- Flesch-Kincaid等级: 4.1
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- fishing trip surprise: 2次
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- neighborhood clean-up: 1次
+【参数离散度分析】
+- avg_length: 均值=16.90 标准差=4.31 (范围[10.17-25.29])
+- grammar_errors: 均值=1.90 标准差=2.56 (范围[1.00-13.00])
+- coherence: 均值=80.98 标准差=3.50 (范围[74.91-86.84])
+- theme_focus: 均值=52.79 标准差=20.52 (范围[5.07-70.14])
+- flesch: 均值=65.80 标准差=15.36 (范围[28.88-84.88])
+- fkgl: 均值=8.34 标准差=2.98 (范围[4.40-15.50])
+- keyword_score: 均值=19.61 标准差=25.45 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 19:01:12
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.1
+- 语法错误: 0.9
+- 上下文一致性: 38.7%
+- 主题集中度: 25.2%
+- 关键词匹配: 9.4%
+- 可读性: 31.4%
+- Flesch-Kincaid等级: 4.0
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 1次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 1次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 1次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 14/16种
+高频成功主题(top5):
+- fishing trip surprise: 2次
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- neighborhood clean-up: 1次
+【参数离散度分析】
+- avg_length: 均值=16.90 标准差=4.31 (范围[10.17-25.29])
+- grammar_errors: 均值=1.90 标准差=2.56 (范围[1.00-13.00])
+- coherence: 均值=80.98 标准差=3.50 (范围[74.91-86.84])
+- theme_focus: 均值=52.79 标准差=20.52 (范围[5.07-70.14])
+- flesch: 均值=65.80 标准差=15.36 (范围[28.88-84.88])
+- fkgl: 均值=8.34 标准差=2.98 (范围[4.40-15.50])
+- keyword_score: 均值=19.61 标准差=25.45 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 20:14:23
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.5
+- 语法错误: 0.9
+- 上下文一致性: 40.7%
+- 主题集中度: 26.1%
+- 关键词匹配: 8.9%
+- 可读性: 33.4%
+- Flesch-Kincaid等级: 4.1
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 1次
+- bicycle parade fun: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 2次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 15/16种
+高频成功主题(top5):
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.97 标准差=4.06 (范围[10.17-25.29])
+- grammar_errors: 均值=1.79 标准差=2.41 (范围[1.00-13.00])
+- coherence: 均值=81.33 标准差=3.40 (范围[74.91-86.84])
+- theme_focus: 均值=52.21 标准差=21.97 (范围[5.07-70.14])
+- flesch: 均值=66.76 标准差=15.00 (范围[28.88-86.13])
+- fkgl: 均值=8.21 标准差=2.84 (范围[4.40-15.50])
+- keyword_score: 均值=17.75 标准差=24.31 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 20:34:19
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.3
+- 语法错误: 0.9
+- 上下文一致性: 39.8%
+- 主题集中度: 25.6%
+- 关键词匹配: 8.7%
+- 可读性: 32.7%
+- Flesch-Kincaid等级: 4.0
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 1次
+- bicycle parade fun: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 2次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 15/16种
+高频成功主题(top5):
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.97 标准差=4.06 (范围[10.17-25.29])
+- grammar_errors: 均值=1.79 标准差=2.41 (范围[1.00-13.00])
+- coherence: 均值=81.33 标准差=3.40 (范围[74.91-86.84])
+- theme_focus: 均值=52.21 标准差=21.97 (范围[5.07-70.14])
+- flesch: 均值=66.76 标准差=15.00 (范围[28.88-86.13])
+- fkgl: 均值=8.21 标准差=2.84 (范围[4.40-15.50])
+- keyword_score: 均值=17.75 标准差=24.31 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 20:53:34
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.1
+- 语法错误: 0.9
+- 上下文一致性: 39.0%
+- 主题集中度: 25.1%
+- 关键词匹配: 8.5%
+- 可读性: 32.0%
+- Flesch-Kincaid等级: 3.9
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 1次
+- bicycle parade fun: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- bicycle parade fun: 2次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 1次
+【主题类型统计】
+成功主题覆盖率: 15/16种
+高频成功主题(top5):
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.97 标准差=4.06 (范围[10.17-25.29])
+- grammar_errors: 均值=1.79 标准差=2.41 (范围[1.00-13.00])
+- coherence: 均值=81.33 标准差=3.40 (范围[74.91-86.84])
+- theme_focus: 均值=52.21 标准差=21.97 (范围[5.07-70.14])
+- flesch: 均值=66.76 标准差=15.00 (范围[28.88-86.13])
+- fkgl: 均值=8.21 标准差=2.84 (范围[4.40-15.50])
+- keyword_score: 均值=17.75 标准差=24.31 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 21:28:45
+【当前文章质量】
+- 平均句长: 16.8(标准7-15)
+- 语法错误数: 5
+- 上下文一致性: 81.6%
+- 主题集中度: 45.1%
+- Flesch可读性指数: 6.95%
+- Flesch-Kincaid等级: 17.7
+- 关键词匹配度: 10.5%
+全部文章平均值:
+- 平均句长: 8.5
+- 语法错误: 0.9
+- 上下文一致性: 40.8%
+- 主题集中度: 26.3%
+- 关键词匹配: 8.5%
+- 可读性: 32.4%
+- Flesch-Kincaid等级: 4.3
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+【主题类型统计】
+成功主题覆盖率: 15/16种
+高频成功主题(top5):
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.98 标准差=3.90 (范围[10.17-25.29])
+- grammar_errors: 均值=1.88 标准差=2.41 (范围[1.00-13.00])
+- coherence: 均值=81.52 标准差=3.40 (范围[74.91-86.84])
+- theme_focus: 均值=52.62 标准差=21.44 (范围[5.07-70.14])
+- flesch: 均值=64.89 标准差=18.62 (范围[6.95-86.13])
+- fkgl: 均值=8.53 标准差=3.30 (范围[4.40-17.70])
+- keyword_score: 均值=16.98 标准差=23.52 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 21:47:48
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.3
+- 语法错误: 0.9
+- 上下文一致性: 40.0%
+- 主题集中度: 25.8%
+- 关键词匹配: 8.3%
+- 可读性: 31.8%
+- Flesch-Kincaid等级: 4.2
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 2次
+- broken window mystery: 2次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+【主题类型统计】
+成功主题覆盖率: 15/16种
+高频成功主题(top5):
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family hiking trip: 2次
+- hidden treehouse note: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.98 标准差=3.90 (范围[10.17-25.29])
+- grammar_errors: 均值=1.88 标准差=2.41 (范围[1.00-13.00])
+- coherence: 均值=81.52 标准差=3.40 (范围[74.91-86.84])
+- theme_focus: 均值=52.62 标准差=21.44 (范围[5.07-70.14])
+- flesch: 均值=64.89 标准差=18.62 (范围[6.95-86.13])
+- fkgl: 均值=8.53 标准差=3.30 (范围[4.40-17.70])
+- keyword_score: 均值=16.98 标准差=23.52 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 22:41:22
+【当前文章质量】
+- 平均句长: 25.8(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 85.0%
+- 主题集中度: 69.2%
+- Flesch可读性指数: 36.83%
+- Flesch-Kincaid等级: 14.5
+- 关键词匹配度: 4.5%
+全部文章平均值:
+- 平均句长: 8.7
+- 语法错误: 0.9
+- 上下文一致性: 42.3%
+- 主题集中度: 27.9%
+- 关键词匹配: 8.3%
+- 可读性: 33.7%
+- Flesch-Kincaid等级: 4.4
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+- lost library book hunt: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 3次
+- broken window mystery: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- lost library book hunt: 1次
+【主题类型统计】
+成功主题覆盖率: 16/17种
+高频成功主题(top5):
+- hidden treehouse note: 3次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family hiking trip: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.85 标准差=4.41 (范围[8.39-25.79])
+- grammar_errors: 均值=1.79 标准差=2.30 (范围[1.00-13.00])
+- coherence: 均值=81.63 标准差=3.32 (范围[74.91-86.84])
+- theme_focus: 均值=53.89 标准差=20.76 (范围[5.07-70.49])
+- flesch: 均值=65.08 标准差=18.97 (范围[6.95-87.82])
+- fkgl: 均值=8.46 标准差=3.49 (范围[3.20-17.70])
+- keyword_score: 均值=16.01 标准差=22.49 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 23:04:18
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.6
+- 语法错误: 0.9
+- 上下文一致性: 41.5%
+- 主题集中度: 27.4%
+- 关键词匹配: 8.1%
+- 可读性: 33.1%
+- Flesch-Kincaid等级: 4.3
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+- lost library book hunt: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 3次
+- broken window mystery: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- lost library book hunt: 1次
+【主题类型统计】
+成功主题覆盖率: 16/17种
+高频成功主题(top5):
+- hidden treehouse note: 3次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family hiking trip: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.85 标准差=4.41 (范围[8.39-25.79])
+- grammar_errors: 均值=1.79 标准差=2.30 (范围[1.00-13.00])
+- coherence: 均值=81.63 标准差=3.32 (范围[74.91-86.84])
+- theme_focus: 均值=53.89 标准差=20.76 (范围[5.07-70.49])
+- flesch: 均值=65.08 标准差=18.97 (范围[6.95-87.82])
+- fkgl: 均值=8.46 标准差=3.49 (范围[3.20-17.70])
+- keyword_score: 均值=16.01 标准差=22.49 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 23:24:50
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.4
+- 语法错误: 0.9
+- 上下文一致性: 40.8%
+- 主题集中度: 26.9%
+- 关键词匹配: 8.0%
+- 可读性: 32.5%
+- Flesch-Kincaid等级: 4.2
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+- lost library book hunt: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 3次
+- broken window mystery: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- lost library book hunt: 1次
+【主题类型统计】
+成功主题覆盖率: 16/17种
+高频成功主题(top5):
+- hidden treehouse note: 3次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family hiking trip: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.85 标准差=4.41 (范围[8.39-25.79])
+- grammar_errors: 均值=1.79 标准差=2.30 (范围[1.00-13.00])
+- coherence: 均值=81.63 标准差=3.32 (范围[74.91-86.84])
+- theme_focus: 均值=53.89 标准差=20.76 (范围[5.07-70.49])
+- flesch: 均值=65.08 标准差=18.97 (范围[6.95-87.82])
+- fkgl: 均值=8.46 标准差=3.49 (范围[3.20-17.70])
+- keyword_score: 均值=16.01 标准差=22.49 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-16 23:48:18
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.3
+- 语法错误: 0.9
+- 上下文一致性: 40.1%
+- 主题集中度: 26.5%
+- 关键词匹配: 7.9%
+- 可读性: 32.0%
+- Flesch-Kincaid等级: 4.2
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+- lost library book hunt: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 2次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 3次
+- broken window mystery: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- lost library book hunt: 1次
+【主题类型统计】
+成功主题覆盖率: 16/17种
+高频成功主题(top5):
+- hidden treehouse note: 3次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family hiking trip: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.85 标准差=4.41 (范围[8.39-25.79])
+- grammar_errors: 均值=1.79 标准差=2.30 (范围[1.00-13.00])
+- coherence: 均值=81.63 标准差=3.32 (范围[74.91-86.84])
+- theme_focus: 均值=53.89 标准差=20.76 (范围[5.07-70.49])
+- flesch: 均值=65.08 标准差=18.97 (范围[6.95-87.82])
+- fkgl: 均值=8.46 标准差=3.49 (范围[3.20-17.70])
+- keyword_score: 均值=16.01 标准差=22.49 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-17 00:32:50
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.3
+- 语法错误: 0.9
+- 上下文一致性: 40.2%
+- 主题集中度: 25.7%
+- 关键词匹配: 7.6%
+- 可读性: 32.0%
+- Flesch-Kincaid等级: 4.2
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+- lost library book hunt: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 3次
+- broken window mystery: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- lost library book hunt: 1次
+【主题类型统计】
+成功主题覆盖率: 16/17种
+高频成功主题(top5):
+- family hiking trip: 3次
+- hidden treehouse note: 3次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.79 标准差=4.35 (范围[8.39-25.79])
+- grammar_errors: 均值=1.77 标准差=2.26 (范围[1.00-13.00])
+- coherence: 均值=81.65 标准差=3.27 (范围[74.91-86.84])
+- theme_focus: 均值=52.24 标准差=22.27 (范围[4.28-70.49])
+- flesch: 均值=65.06 标准差=18.65 (范围[6.95-87.82])
+- fkgl: 均值=8.45 标准差=3.44 (范围[3.20-17.70])
+- keyword_score: 均值=15.47 标准差=22.30 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-17 00:58:36
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.1
+- 语法错误: 0.9
+- 上下文一致性: 39.5%
+- 主题集中度: 25.3%
+- 关键词匹配: 7.5%
+- 可读性: 31.5%
+- Flesch-Kincaid等级: 4.1
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+- lost library book hunt: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 3次
+- broken window mystery: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- lost library book hunt: 1次
+【主题类型统计】
+成功主题覆盖率: 16/17种
+高频成功主题(top5):
+- family hiking trip: 3次
+- hidden treehouse note: 3次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.79 标准差=4.35 (范围[8.39-25.79])
+- grammar_errors: 均值=1.77 标准差=2.26 (范围[1.00-13.00])
+- coherence: 均值=81.65 标准差=3.27 (范围[74.91-86.84])
+- theme_focus: 均值=52.24 标准差=22.27 (范围[4.28-70.49])
+- flesch: 均值=65.06 标准差=18.65 (范围[6.95-87.82])
+- fkgl: 均值=8.45 标准差=3.44 (范围[3.20-17.70])
+- keyword_score: 均值=15.47 标准差=22.30 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-17 01:19:44
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 8.0
+- 语法错误: 0.8
+- 上下文一致性: 38.9%
+- 主题集中度: 24.9%
+- 关键词匹配: 7.4%
+- 可读性: 31.0%
+- Flesch-Kincaid等级: 4.0
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+- lost library book hunt: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 3次
+- broken window mystery: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- lost library book hunt: 1次
+【主题类型统计】
+成功主题覆盖率: 16/17种
+高频成功主题(top5):
+- family hiking trip: 3次
+- hidden treehouse note: 3次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.79 标准差=4.35 (范围[8.39-25.79])
+- grammar_errors: 均值=1.77 标准差=2.26 (范围[1.00-13.00])
+- coherence: 均值=81.65 标准差=3.27 (范围[74.91-86.84])
+- theme_focus: 均值=52.24 标准差=22.27 (范围[4.28-70.49])
+- flesch: 均值=65.06 标准差=18.65 (范围[6.95-87.82])
+- fkgl: 均值=8.45 标准差=3.44 (范围[3.20-17.70])
+- keyword_score: 均值=15.47 标准差=22.30 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-17 01:40:48
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 7.9
+- 语法错误: 0.8
+- 上下文一致性: 38.3%
+- 主题集中度: 24.5%
+- 关键词匹配: 7.3%
+- 可读性: 30.5%
+- Flesch-Kincaid等级: 4.0
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+- lost library book hunt: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 3次
+- broken window mystery: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- lost library book hunt: 1次
+【主题类型统计】
+成功主题覆盖率: 16/17种
+高频成功主题(top5):
+- family hiking trip: 3次
+- hidden treehouse note: 3次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.79 标准差=4.35 (范围[8.39-25.79])
+- grammar_errors: 均值=1.77 标准差=2.26 (范围[1.00-13.00])
+- coherence: 均值=81.65 标准差=3.27 (范围[74.91-86.84])
+- theme_focus: 均值=52.24 标准差=22.27 (范围[4.28-70.49])
+- flesch: 均值=65.06 标准差=18.65 (范围[6.95-87.82])
+- fkgl: 均值=8.45 标准差=3.44 (范围[3.20-17.70])
+- keyword_score: 均值=15.47 标准差=22.30 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-17 02:01:10
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 7.8
+- 语法错误: 0.8
+- 上下文一致性: 37.7%
+- 主题集中度: 24.1%
+- 关键词匹配: 7.1%
+- 可读性: 30.0%
+- Flesch-Kincaid等级: 3.9
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+- lost library book hunt: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 3次
+- broken window mystery: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- lost library book hunt: 1次
+【主题类型统计】
+成功主题覆盖率: 16/17种
+高频成功主题(top5):
+- family hiking trip: 3次
+- hidden treehouse note: 3次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.79 标准差=4.35 (范围[8.39-25.79])
+- grammar_errors: 均值=1.77 标准差=2.26 (范围[1.00-13.00])
+- coherence: 均值=81.65 标准差=3.27 (范围[74.91-86.84])
+- theme_focus: 均值=52.24 标准差=22.27 (范围[4.28-70.49])
+- flesch: 均值=65.06 标准差=18.65 (范围[6.95-87.82])
+- fkgl: 均值=8.45 标准差=3.44 (范围[3.20-17.70])
+- keyword_score: 均值=15.47 标准差=22.30 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-17 02:24:59
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 7.6
+- 语法错误: 0.8
+- 上下文一致性: 37.1%
+- 主题集中度: 23.7%
+- 关键词匹配: 7.0%
+- 可读性: 29.6%
+- Flesch-Kincaid等级: 3.8
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+- lost library book hunt: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 3次
+- broken window mystery: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- lost library book hunt: 1次
+【主题类型统计】
+成功主题覆盖率: 16/17种
+高频成功主题(top5):
+- family hiking trip: 3次
+- hidden treehouse note: 3次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.79 标准差=4.35 (范围[8.39-25.79])
+- grammar_errors: 均值=1.77 标准差=2.26 (范围[1.00-13.00])
+- coherence: 均值=81.65 标准差=3.27 (范围[74.91-86.84])
+- theme_focus: 均值=52.24 标准差=22.27 (范围[4.28-70.49])
+- flesch: 均值=65.06 标准差=18.65 (范围[6.95-87.82])
+- fkgl: 均值=8.45 标准差=3.44 (范围[3.20-17.70])
+- keyword_score: 均值=15.47 标准差=22.30 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-17 02:48:35
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 7.5
+- 语法错误: 0.8
+- 上下文一致性: 36.6%
+- 主题集中度: 23.4%
+- 关键词匹配: 6.9%
+- 可读性: 29.1%
+- Flesch-Kincaid等级: 3.8
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+- lost library book hunt: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 3次
+- broken window mystery: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- lost library book hunt: 1次
+【主题类型统计】
+成功主题覆盖率: 16/17种
+高频成功主题(top5):
+- family hiking trip: 3次
+- hidden treehouse note: 3次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.79 标准差=4.35 (范围[8.39-25.79])
+- grammar_errors: 均值=1.77 标准差=2.26 (范围[1.00-13.00])
+- coherence: 均值=81.65 标准差=3.27 (范围[74.91-86.84])
+- theme_focus: 均值=52.24 标准差=22.27 (范围[4.28-70.49])
+- flesch: 均值=65.06 标准差=18.65 (范围[6.95-87.82])
+- fkgl: 均值=8.45 标准差=3.44 (范围[3.20-17.70])
+- keyword_score: 均值=15.47 标准差=22.30 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-17 03:08:43
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 7.4
+- 语法错误: 0.8
+- 上下文一致性: 36.0%
+- 主题集中度: 23.0%
+- 关键词匹配: 6.8%
+- 可读性: 28.7%
+- Flesch-Kincaid等级: 3.7
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+- lost library book hunt: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 3次
+- broken window mystery: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- lost library book hunt: 1次
+【主题类型统计】
+成功主题覆盖率: 16/17种
+高频成功主题(top5):
+- family hiking trip: 3次
+- hidden treehouse note: 3次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.79 标准差=4.35 (范围[8.39-25.79])
+- grammar_errors: 均值=1.77 标准差=2.26 (范围[1.00-13.00])
+- coherence: 均值=81.65 标准差=3.27 (范围[74.91-86.84])
+- theme_focus: 均值=52.24 标准差=22.27 (范围[4.28-70.49])
+- flesch: 均值=65.06 标准差=18.65 (范围[6.95-87.82])
+- fkgl: 均值=8.45 标准差=3.44 (范围[3.20-17.70])
+- keyword_score: 均值=15.47 标准差=22.30 (范围[0.00-90.91])
+
+
+生成时间: 2025-07-17 03:32:53
+【当前文章质量】
+- 平均句长: 0.0(标准7-15)
+- 语法错误数: 0
+- 上下文一致性: 0.0%
+- 主题集中度: 0.0%
+- Flesch可读性指数: 0%
+- Flesch-Kincaid等级: 0.0
+- 关键词匹配度: 0.0%
+全部文章平均值:
+- 平均句长: 7.3
+- 语法错误: 0.8
+- 上下文一致性: 35.5%
+- 主题集中度: 22.7%
+- 关键词匹配: 6.7%
+- 可读性: 28.3%
+- Flesch-Kincaid等级: 3.7
+【主题类型统计】
+成功文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 1次
+- hidden treehouse note: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- bicycle parade fun: 1次
+- lost library book hunt: 1次
+全部文章主题分布:
+- neighborhood clean-up: 1次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- family pizza night: 1次
+- grandpas workshop day: 1次
+- family hiking trip: 3次
+- school art class: 1次
+- stormy power outage: 1次
+- sandcastle competition: 2次
+- bicycle parade fun: 2次
+- hidden treehouse note: 3次
+- broken window mystery: 3次
+- lemonade stand success: 2次
+- backyard camping: 1次
+- vegetable harvest: 2次
+- cookie baking time: 2次
+- lost library book hunt: 1次
+【主题类型统计】
+成功主题覆盖率: 16/17种
+高频成功主题(top5):
+- family hiking trip: 3次
+- hidden treehouse note: 3次
+- fishing trip surprise: 2次
+- rainy day fort building: 2次
+- lemonade stand success: 2次
+【参数离散度分析】
+- avg_length: 均值=16.79 标准差=4.35 (范围[8.39-25.79])
+- grammar_errors: 均值=1.77 标准差=2.26 (范围[1.00-13.00])
+- coherence: 均值=81.65 标准差=3.27 (范围[74.91-86.84])
+- theme_focus: 均值=52.24 标准差=22.27 (范围[4.28-70.49])
+- flesch: 均值=65.06 标准差=18.65 (范围[6.95-87.82])
+- fkgl: 均值=8.45 标准差=3.44 (范围[3.20-17.70])
+- keyword_score: 均值=15.47 标准差=22.30 (范围[0.00-90.91])
+
+

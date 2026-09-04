@@ -1,0 +1,1076 @@
+生成时间: 2025-07-07 13:08:18
+【当前文章质量】
+- 平均句长: 21.1(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 88.2%
+- 主题集中度: 45.9%
+- Flesch可读性指数: 75.44%
+- Flesch-Kincaid等级: 8.0
+- 关键词匹配度: 9.5%
+【生成统计】
+- 生成成功率: 1/1=100.0%
+- 新增词汇: 165
+- 生成效率: '165/358=46.09%' | 165/350=47.14% | 内存占用: 10971MB
+- 覆盖率: 165/897=18.39%
+【Article #1生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about lunch break
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: food, friend, table, share, laugh, talk, development, research, percent, market, price, increase, drop, fund, growth, financial, money, keep, economic 
+                2. Flesch-Kincaid ≤5 & 75% top-1000 words
+            [EXAMPLE]
+            "My friend shares an apple with me..."
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 21.1
+- 语法错误: 1.0
+- 上下文一致性: 88.2%
+- 主题集中度: 45.9%
+- 关键词匹配: 9.5%
+- 可读性: 75.4%
+- Flesch-Kincaid等级: 8.0
+全部文章平均值:
+- 平均句长: 21.1
+- 语法错误: 1.0
+- 上下文一致性: 88.2%
+- 主题集中度: 45.9%
+- 关键词匹配: 9.5%
+- 可读性: 75.4%
+- Flesch-Kincaid等级: 8.0
+【主题类型统计】
+成功文章主题分布:
+- lunch break: 1次
+全部文章主题分布:
+- lunch break: 1次
+【主题类型统计】
+成功主题覆盖率: 1/1种
+高频成功主题(top5):
+- lunch break: 1次
+【参数离散度分析】
+- avg_length: 数据不足(需至少2次生成)
+- grammar_errors: 数据不足(需至少2次生成)
+- coherence: 数据不足(需至少2次生成)
+- theme_focus: 数据不足(需至少2次生成)
+- flesch: 数据不足(需至少2次生成)
+- fkgl: 数据不足(需至少2次生成)
+- keyword_score: 数据不足(需至少2次生成)
+
+
+生成时间: 2025-07-07 13:27:30
+【当前文章质量】
+- 平均句长: 25.7(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 90.5%
+- 主题集中度: 67.6%
+- Flesch可读性指数: 51.82%
+- Flesch-Kincaid等级: 12.9
+- 关键词匹配度: 36.8%
+【生成统计】
+- 生成成功率: 2/2=100.0%
+- 新增词汇: 123
+- 生成效率: '123/360=34.17%' | 288/705=40.85% | 内存占用: 10788MB
+- 覆盖率: 288/897=32.11%
+【Article #2生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about library visit
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: book, read, story, page, learn, good, really, sure, write, thing, want, better, kind, author, particularly, very, know, you 
+                2. Flesch-Kincaid ≤5 & 75% top-1000 words
+            [EXAMPLE]
+            "The book opens with a soft sound..."
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 23.4
+- 语法错误: 1.0
+- 上下文一致性: 89.4%
+- 主题集中度: 56.7%
+- 关键词匹配: 23.2%
+- 可读性: 63.6%
+- Flesch-Kincaid等级: 10.4
+全部文章平均值:
+- 平均句长: 23.4
+- 语法错误: 1.0
+- 上下文一致性: 89.4%
+- 主题集中度: 56.7%
+- 关键词匹配: 23.2%
+- 可读性: 63.6%
+- Flesch-Kincaid等级: 10.4
+【主题类型统计】
+成功文章主题分布:
+- lunch break: 1次
+- library visit: 1次
+全部文章主题分布:
+- lunch break: 1次
+- library visit: 1次
+【主题类型统计】
+成功主题覆盖率: 2/2种
+高频成功主题(top5):
+- lunch break: 1次
+- library visit: 1次
+【参数离散度分析】
+- avg_length: 均值=23.39 标准差=2.33 (范围[21.06-25.71])
+- grammar_errors: 均值=1.00 标准差=0.00 (范围[1.00-1.00])
+- coherence: 均值=89.36 标准差=1.16 (范围[88.20-90.51])
+- theme_focus: 均值=56.72 标准差=10.85 (范围[45.87-67.56])
+- flesch: 均值=63.63 标准差=11.81 (范围[51.82-75.44])
+- fkgl: 均值=10.45 标准差=2.45 (范围[8.00-12.90])
+- keyword_score: 均值=23.18 标准差=13.66 (范围[9.52-36.84])
+
+
+生成时间: 2025-07-07 13:43:33
+【当前文章质量】
+- 平均句长: 20.4(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 88.5%
+- 主题集中度: 58.7%
+- Flesch可读性指数: 67.69%
+- Flesch-Kincaid等级: 8.9
+- 关键词匹配度: 55.6%
+【生成统计】
+- 生成成功率: 3/3=100.0%
+- 新增词汇: 89
+- 生成效率: '89/346=25.72%' | 377/1036=36.39% | 内存占用: 10631MB
+- 覆盖率: 377/897=42.03%
+【Article #3生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about firefly night
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: night, light, catch, dark, watch, month, week, morning, ago, since 
+                2. Flesch-Kincaid ≤5 & 75% top-1000 words
+            [EXAMPLE]
+            "Yellow lights dance in the dark..."
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 22.4
+- 语法错误: 1.0
+- 上下文一致性: 89.1%
+- 主题集中度: 57.4%
+- 关键词匹配: 34.0%
+- 可读性: 65.0%
+- Flesch-Kincaid等级: 9.9
+全部文章平均值:
+- 平均句长: 22.4
+- 语法错误: 1.0
+- 上下文一致性: 89.1%
+- 主题集中度: 57.4%
+- 关键词匹配: 34.0%
+- 可读性: 65.0%
+- Flesch-Kincaid等级: 9.9
+【主题类型统计】
+成功文章主题分布:
+- lunch break: 1次
+- library visit: 1次
+- firefly night: 1次
+全部文章主题分布:
+- lunch break: 1次
+- library visit: 1次
+- firefly night: 1次
+【主题类型统计】
+成功主题覆盖率: 3/3种
+高频成功主题(top5):
+- lunch break: 1次
+- library visit: 1次
+- firefly night: 1次
+【参数离散度分析】
+- avg_length: 均值=22.38 标准差=2.38 (范围[20.35-25.71])
+- grammar_errors: 均值=1.00 标准差=0.00 (范围[1.00-1.00])
+- coherence: 均值=89.07 标准差=1.02 (范围[88.20-90.51])
+- theme_focus: 均值=57.38 标准差=8.91 (范围[45.87-67.56])
+- flesch: 均值=64.98 标准差=9.83 (范围[51.82-75.44])
+- fkgl: 均值=9.93 标准差=2.13 (范围[8.00-12.90])
+- keyword_score: 均值=33.97 标准差=18.90 (范围[9.52-55.56])
+
+
+生成时间: 2025-07-07 15:36:56
+【当前文章质量】
+- 平均句长: 18.8(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 89.9%
+- 主题集中度: 61.5%
+- Flesch可读性指数: 77.77%
+- Flesch-Kincaid等级: 7.1
+- 关键词匹配度: 77.8%
+【生成统计】
+- 生成成功率: 4/4=100.0%
+- 新增词汇: 62
+- 生成效率: '62/357=17.37%' | 439/1393=31.51% | 内存占用: 9817MB
+- 覆盖率: 439/897=48.94%
+【Article #4生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about sports day
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: run, play, ball, team, win, game, player 
+                2. Flesch-Kincaid ≤5 & 75% top-1000 words
+            [EXAMPLE]
+            "The ball flies over my head..."
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 21.5
+- 语法错误: 1.0
+- 上下文一致性: 89.3%
+- 主题集中度: 58.4%
+- 关键词匹配: 44.9%
+- 可读性: 68.2%
+- Flesch-Kincaid等级: 9.2
+全部文章平均值:
+- 平均句长: 21.5
+- 语法错误: 1.0
+- 上下文一致性: 89.3%
+- 主题集中度: 58.4%
+- 关键词匹配: 44.9%
+- 可读性: 68.2%
+- Flesch-Kincaid等级: 9.2
+【主题类型统计】
+成功文章主题分布:
+- lunch break: 1次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+全部文章主题分布:
+- lunch break: 1次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+【主题类型统计】
+成功主题覆盖率: 4/4种
+高频成功主题(top5):
+- lunch break: 1次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+【参数离散度分析】
+- avg_length: 均值=21.48 标准差=2.58 (范围[18.79-25.71])
+- grammar_errors: 均值=1.00 标准差=0.00 (范围[1.00-1.00])
+- coherence: 均值=89.29 标准差=0.96 (范围[88.20-90.51])
+- theme_focus: 均值=58.42 标准差=7.92 (范围[45.87-67.56])
+- flesch: 均值=68.18 标准差=10.16 (范围[51.82-77.77])
+- fkgl: 均值=9.22 标准差=2.22 (范围[7.10-12.90])
+- keyword_score: 均值=44.92 标准差=25.06 (范围[9.52-77.78])
+
+
+生成时间: 2025-07-07 16:25:52
+【当前文章质量】
+- 平均句长: 20.2(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 87.4%
+- 主题集中度: 54.3%
+- Flesch可读性指数: 59.43%
+- Flesch-Kincaid等级: 10.0
+- 关键词匹配度: 16.7%
+【生成统计】
+- 生成成功率: 5/5=100.0%
+- 新增词汇: 65
+- 生成效率: '65/344=18.90%' | 504/1729=29.15% | 内存占用: 9343MB
+- 覆盖率: 504/897=56.19%
+【Article #5生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about tree house
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: house, act, military, government, since, recently, building, legal, official, post, although, party, federal, office, ago, political, department, according, law 
+                2. Flesch-Kincaid ≤5 & 75% top-1000 words
+            [EXAMPLE]
+            "Wood pieces lie on the ground..."
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 21.2
+- 语法错误: 1.0
+- 上下文一致性: 88.9%
+- 主题集中度: 57.6%
+- 关键词匹配: 39.3%
+- 可读性: 66.4%
+- Flesch-Kincaid等级: 9.4
+全部文章平均值:
+- 平均句长: 21.2
+- 语法错误: 1.0
+- 上下文一致性: 88.9%
+- 主题集中度: 57.6%
+- 关键词匹配: 39.3%
+- 可读性: 66.4%
+- Flesch-Kincaid等级: 9.4
+【主题类型统计】
+成功文章主题分布:
+- lunch break: 1次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 1次
+全部文章主题分布:
+- lunch break: 1次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 1次
+【主题类型统计】
+成功主题覆盖率: 5/5种
+高频成功主题(top5):
+- lunch break: 1次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 1次
+【参数离散度分析】
+- avg_length: 均值=21.23 标准差=2.36 (范围[18.79-25.71])
+- grammar_errors: 均值=1.00 标准差=0.00 (范围[1.00-1.00])
+- coherence: 均值=88.92 标准差=1.14 (范围[87.44-90.51])
+- theme_focus: 均值=57.59 标准差=7.28 (范围[45.87-67.56])
+- flesch: 均值=66.43 标准差=9.73 (范围[51.82-77.77])
+- fkgl: 均值=9.38 标准差=2.01 (范围[7.10-12.90])
+- keyword_score: 均值=39.27 标准差=25.10 (范围[9.52-77.78])
+
+
+生成时间: 2025-07-07 16:42:25
+【当前文章质量】
+- 平均句长: 17.1(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 87.2%
+- 主题集中度: 60.1%
+- Flesch可读性指数: 79.5%
+- Flesch-Kincaid等级: 6.4
+- 关键词匹配度: 66.7%
+【生成统计】
+- 生成成功率: 6/6=100.0%
+- 新增词汇: 50
+- 生成效率: '50/358=13.97%' | 554/2086=26.56% | 内存占用: 9235MB
+- 覆盖率: 554/897=61.76%
+【Article #6生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about bike ride
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: road, south, east, west, north 
+                2. Flesch-Kincaid ≤5 & 75% top-1299 words
+            [EXAMPLE]
+            "Wind plays with my hair as we..."
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 20.5
+- 语法错误: 1.0
+- 上下文一致性: 88.6%
+- 主题集中度: 58.0%
+- 关键词匹配: 43.8%
+- 可读性: 68.6%
+- Flesch-Kincaid等级: 8.9
+全部文章平均值:
+- 平均句长: 20.5
+- 语法错误: 1.0
+- 上下文一致性: 88.6%
+- 主题集中度: 58.0%
+- 关键词匹配: 43.8%
+- 可读性: 68.6%
+- Flesch-Kincaid等级: 8.9
+【主题类型统计】
+成功文章主题分布:
+- lunch break: 1次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 1次
+- bike ride: 1次
+全部文章主题分布:
+- lunch break: 1次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 1次
+- bike ride: 1次
+【主题类型统计】
+成功主题覆盖率: 6/6种
+高频成功主题(top5):
+- lunch break: 1次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 1次
+【参数离散度分析】
+- avg_length: 均值=20.54 标准差=2.65 (范围[17.10-25.71])
+- grammar_errors: 均值=1.00 标准差=0.00 (范围[1.00-1.00])
+- coherence: 均值=88.63 标准差=1.22 (范围[87.20-90.51])
+- theme_focus: 均值=58.02 标准差=6.71 (范围[45.87-67.56])
+- flesch: 均值=68.61 标准差=10.13 (范围[51.82-79.50])
+- fkgl: 均值=8.88 标准差=2.14 (范围[6.40-12.90])
+- keyword_score: 均值=43.84 标准差=25.09 (范围[9.52-77.78])
+
+
+生成时间: 2025-07-07 19:21:10
+【当前文章质量】
+- 平均句长: 23.1(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 89.8%
+- 主题集中度: 44.1%
+- Flesch可读性指数: 64.95%
+- Flesch-Kincaid等级: 9.9
+- 关键词匹配度: 47.1%
+【生成统计】
+- 生成成功率: 7/7=100.0%
+- 新增词汇: 47
+- 生成效率: '47/346=13.58%' | 601/2427=24.76% | 内存占用: 9192MB
+- 覆盖率: 601/897=67.00%
+【Article #7生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about class pet
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: care, mother, mom, treat, hospital, herself, wife, daughter, somebody, himself, patient, woman, health, doctor, dad, treatment, boy, baby, person 
+                2. Flesch-Kincaid ≤5 & 75% top-1299 words
+            [EXAMPLE]
+            "The small animal looks up with black eyes..."
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 20.9
+- 语法错误: 1.0
+- 上下文一致性: 88.8%
+- 主题集中度: 56.0%
+- 关键词匹配: 44.3%
+- 可读性: 68.1%
+- Flesch-Kincaid等级: 9.0
+全部文章平均值:
+- 平均句长: 20.9
+- 语法错误: 1.0
+- 上下文一致性: 88.8%
+- 主题集中度: 56.0%
+- 关键词匹配: 44.3%
+- 可读性: 68.1%
+- Flesch-Kincaid等级: 9.0
+【主题类型统计】
+成功文章主题分布:
+- lunch break: 1次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 1次
+- bike ride: 1次
+- class pet: 1次
+全部文章主题分布:
+- lunch break: 1次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 1次
+- bike ride: 1次
+- class pet: 1次
+【主题类型统计】
+成功主题覆盖率: 7/7种
+高频成功主题(top5):
+- lunch break: 1次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 1次
+【参数离散度分析】
+- avg_length: 均值=20.90 标准差=2.61 (范围[17.10-25.71])
+- grammar_errors: 均值=1.00 标准差=0.00 (范围[1.00-1.00])
+- coherence: 均值=88.81 标准差=1.20 (范围[87.20-90.51])
+- theme_focus: 均值=56.03 标准差=7.89 (范围[44.11-67.56])
+- flesch: 均值=68.09 标准差=9.47 (范围[51.82-79.50])
+- fkgl: 均值=9.03 标准差=2.01 (范围[6.40-12.90])
+- keyword_score: 均值=44.30 标准差=23.25 (范围[9.52-77.78])
+
+
+生成时间: 2025-07-07 20:40:38
+【当前文章质量】
+- 平均句长: 20.0(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 88.0%
+- 主题集中度: 70.2%
+- Flesch可读性指数: 68.1%
+- Flesch-Kincaid等级: 8.7
+- 关键词匹配度: 15.0%
+【生成统计】
+- 生成成功率: 8/8=100.0%
+- 新增词汇: 38
+- 生成效率: '38/360=10.56%' | 639/2781=22.98% | 内存占用: 9193MB
+- 覆盖率: 639/897=71.24%
+【Article #8生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about lunch break
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: global, policy, statement, government, legal, official, financial, federal, press, comment, market, court, fund, congress, political, money, interview, economic, law, agency 
+                2. Flesch-Kincaid ≤5 & 75% top-1299 words
+            [EXAMPLE]
+            "My friend shares an apple with me..."
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 20.8
+- 语法错误: 1.0
+- 上下文一致性: 88.7%
+- 主题集中度: 57.8%
+- 关键词匹配: 40.6%
+- 可读性: 68.1%
+- Flesch-Kincaid等级: 9.0
+全部文章平均值:
+- 平均句长: 20.8
+- 语法错误: 1.0
+- 上下文一致性: 88.7%
+- 主题集中度: 57.8%
+- 关键词匹配: 40.6%
+- 可读性: 68.1%
+- Flesch-Kincaid等级: 9.0
+【主题类型统计】
+成功文章主题分布:
+- lunch break: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 1次
+- bike ride: 1次
+- class pet: 1次
+全部文章主题分布:
+- lunch break: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 1次
+- bike ride: 1次
+- class pet: 1次
+【主题类型统计】
+成功主题覆盖率: 7/7种
+高频成功主题(top5):
+- lunch break: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 1次
+【参数离散度分析】
+- avg_length: 均值=20.79 标准差=2.46 (范围[17.10-25.71])
+- grammar_errors: 均值=1.00 标准差=0.00 (范围[1.00-1.00])
+- coherence: 均值=88.70 标准差=1.16 (范围[87.20-90.51])
+- theme_focus: 均值=57.81 标准差=8.75 (范围[44.11-70.24])
+- flesch: 均值=68.09 标准差=8.86 (范围[51.82-79.50])
+- fkgl: 均值=8.99 标准差=1.89 (范围[6.40-12.90])
+- keyword_score: 均值=40.64 标准差=23.81 (范围[9.52-77.78])
+
+
+生成时间: 2025-07-07 20:56:01
+【当前文章质量】
+- 平均句长: 24.0(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 89.1%
+- 主题集中度: 64.0%
+- Flesch可读性指数: 47.12%
+- Flesch-Kincaid等级: 12.7
+- 关键词匹配度: 33.3%
+【生成统计】
+- 生成成功率: 9/9=100.0%
+- 新增词汇: 25
+- 生成效率: '25/359=6.96%' | 664/3137=21.17% | 内存占用: 9199MB
+- 覆盖率: 664/897=74.02%
+【Article #9生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about tree house
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: army, military, statement, government, administration, tax, official, although, post, news, letter, federal, office, comment, court, department, interview, war, according, agency 
+                2. Flesch-Kincaid ≤5 & 75% top-1299 words
+            [EXAMPLE]
+            "Wood pieces lie on the ground..."
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 21.1
+- 语法错误: 1.0
+- 上下文一致性: 88.7%
+- 主题集中度: 58.5%
+- 关键词匹配: 39.8%
+- 可读性: 65.8%
+- Flesch-Kincaid等级: 9.4
+全部文章平均值:
+- 平均句长: 21.1
+- 语法错误: 1.0
+- 上下文一致性: 88.7%
+- 主题集中度: 58.5%
+- 关键词匹配: 39.8%
+- 可读性: 65.8%
+- Flesch-Kincaid等级: 9.4
+【主题类型统计】
+成功文章主题分布:
+- lunch break: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 2次
+- bike ride: 1次
+- class pet: 1次
+全部文章主题分布:
+- lunch break: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 2次
+- bike ride: 1次
+- class pet: 1次
+【主题类型统计】
+成功主题覆盖率: 7/7种
+高频成功主题(top5):
+- lunch break: 2次
+- tree house: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+【参数离散度分析】
+- avg_length: 均值=21.15 标准差=2.53 (范围[17.10-25.71])
+- grammar_errors: 均值=1.00 标准差=0.00 (范围[1.00-1.00])
+- coherence: 均值=88.75 标准差=1.10 (范围[87.20-90.51])
+- theme_focus: 均值=58.50 标准差=8.48 (范围[44.11-70.24])
+- flesch: 均值=65.76 标准差=10.64 (范围[47.12-79.50])
+- fkgl: 均值=9.40 标准差=2.13 (范围[6.40-12.90])
+- keyword_score: 均值=39.83 标准差=22.57 (范围[9.52-77.78])
+
+
+生成时间: 2025-07-07 22:12:45
+【当前文章质量】
+- 平均句长: 22.7(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 89.0%
+- 主题集中度: 5.1%
+- Flesch可读性指数: 82.27%
+- Flesch-Kincaid等级: 7.4
+- 关键词匹配度: 0.0%
+【生成统计】
+- 生成成功率: 10/10=100.0%
+- 新增词汇: 19
+- 生成效率: '19/340=5.59%' | 683/3460=19.74% | 内存占用: 9068MB
+- 覆盖率: 683/897=76.14%
+【Article #10生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about rainy game
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: global, policy, committee, economy, international, recently, administration, post, financial, federal, board, office, market, court, national, congress, strategy, department, law, economic 
+                2. Flesch-Kincaid ≤5 & 75% top-1299 words
+            [EXAMPLE]
+            "Rain taps the window while we..."
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 21.3
+- 语法错误: 1.0
+- 上下文一致性: 88.8%
+- 主题集中度: 53.2%
+- 关键词匹配: 35.8%
+- 可读性: 67.4%
+- Flesch-Kincaid等级: 9.2
+全部文章平均值:
+- 平均句长: 21.3
+- 语法错误: 1.0
+- 上下文一致性: 88.8%
+- 主题集中度: 53.2%
+- 关键词匹配: 35.8%
+- 可读性: 67.4%
+- Flesch-Kincaid等级: 9.2
+【主题类型统计】
+成功文章主题分布:
+- lunch break: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 2次
+- bike ride: 1次
+- class pet: 1次
+- rainy game: 1次
+全部文章主题分布:
+- lunch break: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 2次
+- bike ride: 1次
+- class pet: 1次
+- rainy game: 1次
+【主题类型统计】
+成功主题覆盖率: 8/8种
+高频成功主题(top5):
+- lunch break: 2次
+- tree house: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+【参数离散度分析】
+- avg_length: 均值=21.30 标准差=2.44 (范围[17.10-25.71])
+- grammar_errors: 均值=1.00 标准差=0.00 (范围[1.00-1.00])
+- coherence: 均值=88.77 标准差=1.04 (范围[87.20-90.51])
+- theme_focus: 均值=53.16 标准差=17.92 (范围[5.10-70.24])
+- flesch: 均值=67.41 标准差=11.24 (范围[47.12-82.27])
+- fkgl: 均值=9.20 标准差=2.11 (范围[6.40-12.90])
+- keyword_score: 均值=35.84 标准差=24.52 (范围[0.00-77.78])
+
+
+生成时间: 2025-07-07 23:29:35
+【当前文章质量】
+- 平均句长: 19.6(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 91.2%
+- 主题集中度: 58.2%
+- Flesch可读性指数: 68.5%
+- Flesch-Kincaid等级: 8.6
+- 关键词匹配度: 30.0%
+【生成统计】
+- 生成成功率: 11/11=100.0%
+- 新增词汇: 8
+- 生成效率: '8/353=2.27%' | 691/3808=18.15% | 内存占用: 9068MB
+- 覆盖率: 691/897=77.03%
+【Article #11生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about school project
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: paper, private, sure, nobody, somebody, better, yourself, everybody, letter, test 
+                2. Flesch-Kincaid ≤5 & 75% top-1299 words
+            [EXAMPLE]
+            "My friend hands me blue paper..."
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 21.1
+- 语法错误: 1.0
+- 上下文一致性: 89.0%
+- 主题集中度: 53.6%
+- 关键词匹配: 35.3%
+- 可读性: 67.5%
+- Flesch-Kincaid等级: 9.1
+全部文章平均值:
+- 平均句长: 21.1
+- 语法错误: 1.0
+- 上下文一致性: 89.0%
+- 主题集中度: 53.6%
+- 关键词匹配: 35.3%
+- 可读性: 67.5%
+- Flesch-Kincaid等级: 9.1
+【主题类型统计】
+成功文章主题分布:
+- lunch break: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 2次
+- bike ride: 1次
+- class pet: 1次
+- rainy game: 1次
+- school project: 1次
+全部文章主题分布:
+- lunch break: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 2次
+- bike ride: 1次
+- class pet: 1次
+- rainy game: 1次
+- school project: 1次
+【主题类型统计】
+成功主题覆盖率: 9/9种
+高频成功主题(top5):
+- lunch break: 2次
+- tree house: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+【参数离散度分析】
+- avg_length: 均值=21.14 标准差=2.38 (范围[17.10-25.71])
+- grammar_errors: 均值=1.00 标准差=0.00 (范围[1.00-1.00])
+- coherence: 均值=88.99 标准差=1.21 (范围[87.20-91.16])
+- theme_focus: 均值=53.62 标准差=17.15 (范围[5.10-70.24])
+- flesch: 均值=67.51 标准差=10.72 (范围[47.12-82.27])
+- fkgl: 均值=9.15 标准差=2.02 (范围[6.40-12.90])
+- keyword_score: 均值=35.31 标准差=23.44 (范围[0.00-77.78])
+
+生成时间: 2025-07-08 00:32:05
+【当前文章质量】
+- 平均句长: 24.3(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 90.3%
+- 主题集中度: 49.5%
+- Flesch可读性指数: 63.73%
+- Flesch-Kincaid等级: 10.4
+- 关键词匹配度: 21.1%
+【生成统计】
+- 生成成功率: 12/12=100.0%
+- 新增词汇: 7
+- 生成效率: '7/365=1.92%' | 698/4169=16.74% | 内存占用: 9068MB
+- 覆盖率: 698/897=77.81%
+【Article #12生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about tree house
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: global, policy, committee, economy, union, international, administration, financial, federal, board, market, national, congress, strategy, department, price, economic, law, court 
+                2. Flesch-Kincaid ≤5 & 75% top-1299 words
+            [EXAMPLE]
+            "Wood pieces lie on the ground..."
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 21.4
+- 语法错误: 1.0
+- 上下文一致性: 89.1%
+- 主题集中度: 53.3%
+- 关键词匹配: 34.1%
+- 可读性: 67.2%
+- Flesch-Kincaid等级: 9.2
+全部文章平均值:
+- 平均句长: 21.4
+- 语法错误: 1.0
+- 上下文一致性: 89.1%
+- 主题集中度: 53.3%
+- 关键词匹配: 34.1%
+- 可读性: 67.2%
+- Flesch-Kincaid等级: 9.2
+【主题类型统计】
+成功文章主题分布:
+- lunch break: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 3次
+- bike ride: 1次
+- class pet: 1次
+- rainy game: 1次
+- school project: 1次
+全部文章主题分布:
+- lunch break: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 3次
+- bike ride: 1次
+- class pet: 1次
+- rainy game: 1次
+- school project: 1次
+【主题类型统计】
+成功主题覆盖率: 9/9种
+高频成功主题(top5):
+- tree house: 3次
+- lunch break: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+【参数离散度分析】
+- avg_length: 均值=21.41 标准差=2.44 (范围[17.10-25.71])
+- grammar_errors: 均值=1.00 标准差=0.00 (范围[1.00-1.00])
+- coherence: 均值=89.10 标准差=1.22 (范围[87.20-91.16])
+- theme_focus: 均值=53.27 标准差=16.46 (范围[5.10-70.24])
+- flesch: 均值=67.19 标准差=10.32 (范围[47.12-82.27])
+- fkgl: 均值=9.25 标准差=1.96 (范围[6.40-12.90])
+- keyword_score: 均值=34.12 标准差=22.78 (范围[0.00-77.78])
+
+
+生成时间: 2025-07-08 00:47:28
+【当前文章质量】
+- 平均句长: 18.5(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 92.1%
+- 主题集中度: 6.3%
+- Flesch可读性指数: 86.54%
+- Flesch-Kincaid等级: 5.8
+- 关键词匹配度: 0.0%
+【生成统计】
+- 生成成功率: 13/13=100.0%
+- 新增词汇: 11
+- 生成效率: '11/351=3.13%' | 709/4514=15.71% | 内存占用: 9067MB
+- 覆盖率: 709/897=79.04%
+【Article #13生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about bedtime fear
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: department, global, administration, market, price, policy, committee, economy, congress, court, union, national, financial, international, federal, strategy, economic 
+                2. Flesch-Kincaid ≤5 & 75% top-1299 words
+            [EXAMPLE]
+            "A strange sound comes from the dark..."
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 21.2
+- 语法错误: 1.0
+- 上下文一致性: 89.3%
+- 主题集中度: 49.7%
+- 关键词匹配: 31.5%
+- 可读性: 68.7%
+- Flesch-Kincaid等级: 9.0
+全部文章平均值:
+- 平均句长: 21.2
+- 语法错误: 1.0
+- 上下文一致性: 89.3%
+- 主题集中度: 49.7%
+- 关键词匹配: 31.5%
+- 可读性: 68.7%
+- Flesch-Kincaid等级: 9.0
+【主题类型统计】
+成功文章主题分布:
+- lunch break: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 3次
+- bike ride: 1次
+- class pet: 1次
+- rainy game: 1次
+- school project: 1次
+- bedtime fear: 1次
+全部文章主题分布:
+- lunch break: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 3次
+- bike ride: 1次
+- class pet: 1次
+- rainy game: 1次
+- school project: 1次
+- bedtime fear: 1次
+【主题类型统计】
+成功主题覆盖率: 10/10种
+高频成功主题(top5):
+- tree house: 3次
+- lunch break: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+【参数离散度分析】
+- avg_length: 均值=21.18 标准差=2.47 (范围[17.10-25.71])
+- grammar_errors: 均值=1.00 标准差=0.00 (范围[1.00-1.00])
+- coherence: 均值=89.33 标准差=1.42 (范围[87.20-92.12])
+- theme_focus: 均值=49.66 标准差=20.17 (范围[5.10-70.24])
+- flesch: 均值=68.68 标准差=11.18 (范围[47.12-86.54])
+- fkgl: 均值=8.98 标准差=2.10 (范围[5.80-12.90])
+- keyword_score: 均值=31.50 标准差=23.70 (范围[0.00-77.78])
+
+
+生成时间: 2025-07-08 03:49:26
+【当前文章质量】
+- 平均句长: 25.4(标准7-15)
+- 语法错误数: 1
+- 上下文一致性: 91.5%
+- 主题集中度: 5.3%
+- Flesch可读性指数: 71.07%
+- Flesch-Kincaid等级: 9.7
+- 关键词匹配度: 0.0%
+【生成统计】
+- 生成成功率: 14/14=100.0%
+- 新增词汇: 4
+- 生成效率: '4/356=1.12%' | 713/4863=14.66% | 内存占用: 8707MB
+- 覆盖率: 713/897=79.49%
+【Article #14生成提示词】
+
+            [ROLE] children's story writer 
+            [TASK] Write 340-word narrative about rainy game
+            [STRUCTURE]
+                Direct story text (340 words)
+            [REQUIREMENTS] 
+                1. Use: department, global, administration, market, policy, price, committee, economy, financial, court, union, national, congress, international, federal, strategy, economic 
+                2. Flesch-Kincaid ≤5 & 75% top-1299 words
+            [EXAMPLE]
+            "Rain taps the window while we..."
+
+            
+【质量参数统计】
+成功文章平均值:
+- 平均句长: 21.5
+- 语法错误: 1.0
+- 上下文一致性: 89.5%
+- 主题集中度: 46.5%
+- 关键词匹配: 29.2%
+- 可读性: 68.9%
+- Flesch-Kincaid等级: 9.0
+全部文章平均值:
+- 平均句长: 21.5
+- 语法错误: 1.0
+- 上下文一致性: 89.5%
+- 主题集中度: 46.5%
+- 关键词匹配: 29.2%
+- 可读性: 68.9%
+- Flesch-Kincaid等级: 9.0
+【主题类型统计】
+成功文章主题分布:
+- lunch break: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 3次
+- bike ride: 1次
+- class pet: 1次
+- rainy game: 2次
+- school project: 1次
+- bedtime fear: 1次
+全部文章主题分布:
+- lunch break: 2次
+- library visit: 1次
+- firefly night: 1次
+- sports day: 1次
+- tree house: 3次
+- bike ride: 1次
+- class pet: 1次
+- rainy game: 2次
+- school project: 1次
+- bedtime fear: 1次
+【主题类型统计】
+成功主题覆盖率: 10/10种
+高频成功主题(top5):
+- tree house: 3次
+- lunch break: 2次
+- rainy game: 2次
+- library visit: 1次
+- firefly night: 1次
+【参数离散度分析】
+- avg_length: 均值=21.49 标准差=2.62 (范围[17.10-25.71])
+- grammar_errors: 均值=1.00 标准差=0.00 (范围[1.00-1.00])
+- coherence: 均值=89.49 标准差=1.48 (范围[87.20-92.12])
+- theme_focus: 均值=46.49 标准差=22.55 (范围[5.10-70.24])
+- flesch: 均值=68.85 标准差=10.79 (范围[47.12-86.54])
+- fkgl: 均值=9.04 标准差=2.03 (范围[5.80-12.90])
+- keyword_score: 均值=29.25 标准差=24.24 (范围[0.00-77.78])
+
+
+
