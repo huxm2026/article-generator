@@ -1,0 +1,1 @@
+DeepSeek-R1-Distill-Qwen-1.5B.zip： DeepSeek-R1经过阿里巴巴公司千问团队蒸溜后得到1.5B的小模型。
